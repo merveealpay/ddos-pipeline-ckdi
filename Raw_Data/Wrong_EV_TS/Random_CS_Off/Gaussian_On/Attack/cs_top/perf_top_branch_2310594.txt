@@ -1,0 +1,174 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 31/31 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+   100.00%         56541  [kernel]       [k] x86_pmu_event_init
+     0.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:60.0%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+    51.61%        113082  [kernel]       [k] inherit_event.constprop.0
+    25.81%         56541  [kernel]       [k] x86_get_event_constraints
+    22.58%         49473  [kernel]       [k] x86_pmu_event_init
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+    32.46%         98946  [kernel]       [k] inherit_event.constprop.0
+    18.55%         56541  [kernel]       [k] get_futex_key
+    18.55%         56541  [kernel]       [k] kmem_cache_alloc_trace
+    16.23%         49473  [kernel]       [k] x86_get_event_constraints
+    14.20%         43288  [kernel]       [k] x86_pmu_event_init
+[H[2J
+   PerfTop:      10 irqs/sec  kernel:70.0%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+    12.91%         86577  [kernel]       [k] inherit_event.constprop.0
+     8.63%         57879  [kernel]       [k] __srcu_read_lock
+     8.63%         57879  [kernel]       [k] dup_task_struct
+     8.63%         57879  [kernel]       [k] hrtimer_cancel
+     8.63%         57879  [kernel]       [k] perf_output_copy
+     8.63%         57879  [kernel]       [k] update_sg_wakeup_stats
+     8.63%         57879  [kernel]       [k] x86_reserve_hardware
+     8.43%         56541  [kernel]       [k] rb_next
+     7.38%         49473  [kernel]       [k] get_futex_key
+     7.38%         49473  [kernel]       [k] kmem_cache_alloc_trace
+     6.46%         43288  [kernel]       [k] x86_get_event_constraints
+     5.65%         37877  [kernel]       [k] x86_pmu_event_init
+[H[2J
+   PerfTop:      21 irqs/sec  kernel:61.9%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+     9.82%        126740  [kernel]       [k] inherit_event.constprop.0
+     7.90%        101972  [kernel]       [k] perf_event_groups_insert
+     7.42%         95756  [kernel]       [k] x86_get_event_constraints
+     5.54%         71522  [kernel]       [k] rb_first
+     4.48%         57879  [kernel]       [k] get_nohz_timer_target
+     4.48%         57879  [kernel]       [k] x86_pmu_hw_config
+     3.95%         50986  [kernel]       [k] hsw_get_event_constraints
+     3.95%         50986  [kernel]       [k] inherit_task_group.isra.0
+     3.95%         50986  [kernel]       [k] memcg_slab_free_hook
+     3.95%         50986  [kernel]       [k] merge_sched_in
+     3.95%         50986  [kernel]       [k] psi_flags_change
+     3.95%         50986  [kernel]       [k] rcu_read_unlock_strict
+     3.92%         50644  [kernel]       [k] __srcu_read_lock
+     3.92%         50644  [kernel]       [k] dup_task_struct
+     3.92%         50644  [kernel]       [k] hrtimer_cancel
+     3.92%         50644  [kernel]       [k] perf_output_copy
+     3.92%         50644  [kernel]       [k] update_sg_wakeup_stats
+     3.92%         50644  [kernel]       [k] x86_reserve_hardware
+     3.83%         49473  [kernel]       [k] rb_next
+     3.35%         43288  [kernel]       [k] get_futex_key
+[H[2J
+   PerfTop:      36 irqs/sec  kernel:19.4%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz branch],  (target_pid: 2310594)
+-------------------------------------------------------------------------------
+
+     9.53%        155308  [kernel]       [k] x86_get_event_constraints
+     6.80%        110897  [kernel]       [k] inherit_event.constprop.0
+     5.47%         89225  [kernel]       [k] perf_event_groups_insert
+     4.39%         71522  [kernel]       [k] _raw_spin_lock_irq
+     4.39%         71522  [kernel]       [k] kfree
+     4.39%         71522  [kernel]       [k] native_sched_clock
+     4.39%         71522  [kernel]       [k] perf_event_alloc
+     4.39%         71522  [kernel]       [k] perf_output_begin
+     4.39%         71522  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.84%         62581  [kernel]       [k] rb_first
+     3.11%         50644  [kernel]       [k] get_nohz_timer_target
+     3.11%         50644  [kernel]       [k] x86_pmu_hw_config
+     2.74%         44612  [kernel]       [k] hsw_get_event_constraints
+     2.74%         44612  [kernel]       [k] inherit_task_group.isra.0
+     2.74%         44612  [kernel]       [k] memcg_slab_free_hook
+     2.74%         44612  [kernel]       [k] merge_sched_in
+     2.74%         44612  [kernel]       [k] psi_flags_change
+     2.74%         44612  [kernel]       [k] rcu_read_unlock_strict
+     2.72%         44313  [kernel]       [k] __srcu_read_lock
+     2.72%         44313  [kernel]       [k] dup_task_struct

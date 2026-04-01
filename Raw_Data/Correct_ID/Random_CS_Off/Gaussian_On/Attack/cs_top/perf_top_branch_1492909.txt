@@ -1,0 +1,179 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 19/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+   100.00%        185170  [kernel]       [k] memcg_slab_post_alloc_hook
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    34.78%        185170  [kernel]       [k] get_obj_cgroup_from_current
+    34.78%        185170  [kernel]       [k] perf_event_groups_insert
+    30.43%        162023  [kernel]       [k] memcg_slab_post_alloc_hook
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    18.28%        185170  [kernel]       [k] event_sched_in
+    18.28%        185170  [kernel]       [k] iterate_groups
+    17.48%        177069  [kernel]       [k] check_stack_object
+    15.99%        162023  [kernel]       [k] get_obj_cgroup_from_current
+    15.99%        162023  [kernel]       [k] perf_event_groups_insert
+    13.99%        141770  [kernel]       [k] memcg_slab_post_alloc_hook
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:57.1%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    11.61%        177069  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.61%        177069  [kernel]       [k] perf_group_attach
+    10.62%        162023  [kernel]       [k] event_sched_in
+    10.62%        162023  [kernel]       [k] iterate_groups
+    10.16%        154935  [kernel]       [k] check_stack_object
+     9.33%        142395  [kernel]       [k] __kmalloc_node
+     9.33%        142395  [kernel]       [k] attach_entity_cfs_rq
+     9.29%        141770  [kernel]       [k] get_obj_cgroup_from_current
+     9.29%        141770  [kernel]       [k] perf_event_groups_insert
+     8.13%        124048  [kernel]       [k] memcg_slab_post_alloc_hook
+[H[2J
+   PerfTop:       9 irqs/sec  kernel:55.6%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    13.88%        284165  [kernel]       [k] event_sched_in
+     7.57%        154935  [kernel]       [k] kmem_cache_alloc_node_trace
+     7.57%        154935  [kernel]       [k] perf_group_attach
+     6.96%        142395  [kernel]       [k] alloc_pages
+     6.96%        142395  [kernel]       [k] inherit_task_group.isra.0
+     6.96%        142395  [kernel]       [k] kfree
+     6.96%        142395  [kernel]       [k] obj_cgroup_charge_pages
+     6.93%        141770  [kernel]       [k] iterate_groups
+     6.62%        135568  [kernel]       [k] check_stack_object
+     6.09%        124595  [kernel]       [k] __kmalloc_node
+     6.09%        124595  [kernel]       [k] attach_entity_cfs_rq
+     6.06%        124048  [kernel]       [k] get_obj_cgroup_from_current
+     6.06%        124048  [kernel]       [k] perf_event_groups_insert
+     5.30%        108542  [kernel]       [k] memcg_slab_post_alloc_hook
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+     8.49%        248644  [kernel]       [k] event_sched_in
+     4.86%        142395  [kernel]       [k] _raw_spin_lock
+     4.86%        142395  [kernel]       [k] copy_creds
+     4.86%        142395  [kernel]       [k] down_read_trylock
+     4.86%        142395  [kernel]       [k] hsw_hw_config
+     4.86%        142395  [kernel]       [k] perf_event_task_output
+     4.86%        142395  [kernel]       [k] perf_event_update_userpage
+     4.86%        142395  [kernel]       [k] rb_next
+     4.86%        142395  [kernel]       [k] x86_setup_perfctr
+     4.63%        135568  [kernel]       [k] kmem_cache_alloc_node_trace
+     4.63%        135568  [kernel]       [k] perf_group_attach
+     4.25%        124595  [kernel]       [k] alloc_pages
+     4.25%        124595  [kernel]       [k] inherit_task_group.isra.0
+     4.25%        124595  [kernel]       [k] kfree
+     4.25%        124595  [kernel]       [k] obj_cgroup_charge_pages
+     4.23%        124048  [kernel]       [k] iterate_groups
+     4.05%        118622  [kernel]       [k] check_stack_object
+     3.72%        109020  [kernel]       [k] __kmalloc_node
+     3.72%        109020  [kernel]       [k] attach_entity_cfs_rq
+     3.70%        108542  [kernel]       [k] get_obj_cgroup_from_current
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:25.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz branch],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+     9.29%        251415  [kernel]       [k] inherit_task_group.isra.0
+     8.04%        217563  [kernel]       [k] event_sched_in
+     4.60%        124595  [kernel]       [k] _raw_spin_lock
+     4.60%        124595  [kernel]       [k] copy_creds
+     4.60%        124595  [kernel]       [k] down_read_trylock
+     4.60%        124595  [kernel]       [k] hsw_hw_config
+     4.60%        124595  [kernel]       [k] perf_event_task_output
+     4.60%        124595  [kernel]       [k] perf_event_update_userpage
+     4.60%        124595  [kernel]       [k] rb_next
+     4.60%        124595  [kernel]       [k] x86_setup_perfctr
+     4.38%        118622  [kernel]       [k] kmem_cache_alloc_node_trace
+     4.38%        118622  [kernel]       [k] perf_group_attach
+     4.03%        109020  [kernel]       [k] alloc_pages
+     4.03%        109020  [kernel]       [k] kfree
+     4.03%        109020  [kernel]       [k] obj_cgroup_charge_pages
+     4.01%        108542  [kernel]       [k] iterate_groups
+     3.84%        103794  [kernel]       [k] check_stack_object
+     3.52%         95392  [kernel]       [k] __kmalloc_node
+     3.52%         95392  [kernel]       [k] attach_entity_cfs_rq
+     3.51%         94974  [kernel]       [k] get_obj_cgroup_from_current

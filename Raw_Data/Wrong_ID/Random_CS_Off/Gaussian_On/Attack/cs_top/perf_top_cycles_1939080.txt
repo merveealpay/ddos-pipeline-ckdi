@@ -1,0 +1,195 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 12/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+    16.67%       1342956  [kernel]       [k] get_obj_cgroup_from_current
+    16.67%       1342956  [kernel]       [k] get_page_from_freelist
+    16.67%       1342956  [kernel]       [k] kfree
+    16.67%       1342956  [kernel]       [k] memset_erms
+    16.67%       1342956  [kernel]       [k] perf_event_update_userpage
+    16.67%       1342956  [kernel]       [k] set_next_buddy
+[H[2J
+   PerfTop:      15 irqs/sec  kernel:80.0%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+    12.14%       2685912  [kernel]       [k] mutex_lock
+    11.43%       2528204  [kernel]       [k] rb_insert_color
+     6.07%       1342956  [kernel]       [k] ___perf_sw_event
+     6.07%       1342956  [kernel]       [k] inherit_event.constprop.0
+     6.07%       1342956  [kernel]       [k] perf_event_alloc
+     5.36%       1185248  [kernel]       [k] do_syscall_64
+     5.36%       1185248  [kernel]       [k] try_charge_memcg
+     5.36%       1185248  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.36%       1185248  [kernel]       [k] x86_setup_perfctr
+     5.31%       1175086  [kernel]       [k] get_obj_cgroup_from_current
+     5.31%       1175086  [kernel]       [k] get_page_from_freelist
+     5.31%       1175086  [kernel]       [k] kfree
+     5.31%       1175086  [kernel]       [k] memset_erms
+     5.31%       1175086  [kernel]       [k] perf_event_update_userpage
+     5.31%       1175086  [kernel]       [k] set_next_buddy
+     4.93%       1089650  [kernel]       [k] merge_sched_in
+[H[2J
+   PerfTop:      19 irqs/sec  kernel:63.2%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+    10.30%       3303042  [kernel]       [k] inherit_event.constprop.0
+    10.13%       3250484  [kernel]       [k] rb_insert_color
+     7.33%       2350173  [kernel]       [k] mutex_lock
+     6.47%       2075398  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.44%       2066506  [kernel]       [k] kfree
+     3.66%       1175086  [kernel]       [k] ___perf_sw_event
+     3.66%       1175086  [kernel]       [k] perf_event_alloc
+     3.40%       1089650  [kernel]       [k] copy_semundo
+     3.40%       1089650  [kernel]       [k] dup_task_struct
+     3.40%       1089650  [kernel]       [k] idr_get_free
+     3.40%       1089650  [kernel]       [k] perf_iterate_ctx
+     3.24%       1038306  [kernel]       [k] __srcu_read_lock
+     3.24%       1038306  [kernel]       [k] memcg_slab_free_hook
+     3.24%       1038306  [kernel]       [k] x2apic_send_IPI
+     3.23%       1037092  [kernel]       [k] do_syscall_64
+     3.23%       1037092  [kernel]       [k] try_charge_memcg
+     3.23%       1037092  [kernel]       [k] x86_setup_perfctr
+     3.21%       1028200  [kernel]       [k] get_obj_cgroup_from_current
+     3.21%       1028200  [kernel]       [k] get_page_from_freelist
+     3.21%       1028200  [kernel]       [k] memset_erms
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/12 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+     9.59%       2890161  [kernel]       [k] inherit_event.constprop.0
+     9.44%       2844173  [kernel]       [k] rb_insert_color
+     6.82%       2056401  [kernel]       [k] mutex_lock
+     6.02%       1815973  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.00%       1808192  [kernel]       [k] kfree
+     3.44%       1038306  [kernel]       [k] perf_event_groups_first
+     3.44%       1038306  [kernel]       [k] perf_event_groups_insert
+     3.41%       1028200  [kernel]       [k] ___perf_sw_event
+     3.41%       1028200  [kernel]       [k] perf_event_alloc
+     3.16%        953443  [kernel]       [k] copy_semundo
+     3.16%        953443  [kernel]       [k] dup_task_struct
+     3.16%        953443  [kernel]       [k] idr_get_free
+     3.16%        953443  [kernel]       [k] perf_iterate_ctx
+     3.01%        908517  [kernel]       [k] __srcu_read_lock
+     3.01%        908517  [kernel]       [k] memcg_slab_free_hook
+     3.01%        908517  [kernel]       [k] x2apic_send_IPI
+     3.01%        907455  [kernel]       [k] do_syscall_64
+     3.01%        907455  [kernel]       [k] try_charge_memcg
+     3.01%        907455  [kernel]       [k] x86_setup_perfctr
+     2.98%        899675  [kernel]       [k] get_obj_cgroup_from_current
+[H[2J
+   PerfTop:       8 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 15/27 [4000Hz cycles],  (target_pid: 1939080)
+-------------------------------------------------------------------------------
+
+     9.59%       2528890  [kernel]       [k] inherit_event.constprop.0
+     9.44%       2488651  [kernel]       [k] rb_insert_color
+     6.82%       1799350  [kernel]       [k] mutex_lock
+     6.02%       1588976  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.00%       1582168  [kernel]       [k] kfree
+     3.44%        908517  [kernel]       [k] perf_event_groups_first
+     3.44%        908517  [kernel]       [k] perf_event_groups_insert
+     3.41%        899675  [kernel]       [k] ___perf_sw_event
+     3.41%        899675  [kernel]       [k] perf_event_alloc
+     3.16%        834262  [kernel]       [k] copy_semundo
+     3.16%        834262  [kernel]       [k] dup_task_struct
+     3.16%        834262  [kernel]       [k] idr_get_free
+     3.16%        834262  [kernel]       [k] perf_iterate_ctx
+     3.01%        794952  [kernel]       [k] __srcu_read_lock
+     3.01%        794952  [kernel]       [k] memcg_slab_free_hook
+     3.01%        794952  [kernel]       [k] x2apic_send_IPI
+     3.01%        794023  [kernel]       [k] do_syscall_64
+     3.01%        794023  [kernel]       [k] try_charge_memcg
+     3.01%        794023  [kernel]       [k] x86_setup_perfctr
+     2.98%        787215  [kernel]       [k] get_obj_cgroup_from_current

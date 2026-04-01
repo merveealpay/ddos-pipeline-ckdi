@@ -1,0 +1,164 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      17 irqs/sec  kernel:52.9%  exact:  0.0% lost: 0/0 drop: 31/31 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    11.11%       1100795  [kernel]       [k] __cond_resched
+    11.11%       1100795  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+    11.11%       1100795  [kernel]       [k] inherit_task_group.isra.0
+    11.11%       1100795  [kernel]       [k] kmem_cache_alloc_trace
+    11.11%       1100795  [kernel]       [k] memset_erms
+    11.11%       1100795  [kernel]       [k] merge_sched_in
+    11.11%       1100795  [kernel]       [k] sched_clock_cpu
+    11.11%       1100795  [kernel]       [k] update_curr
+    11.11%       1100795  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:      18 irqs/sec  kernel:33.3%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    13.61%       2140514  [kernel]       [k] memset_erms
+     7.48%       1177319  [kernel]       [k] exit_to_user_mode_prepare
+     7.48%       1177319  [kernel]       [k] find_busiest_queue
+     7.48%       1177319  [kernel]       [k] native_write_msr
+     7.48%       1177319  [kernel]       [k] page_remove_rmap
+     7.48%       1177319  [kernel]       [k] perf_event_alloc
+     6.12%        963195  [kernel]       [k] __cond_resched
+     6.12%        963195  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     6.12%        963195  [kernel]       [k] inherit_task_group.isra.0
+     6.12%        963195  [kernel]       [k] kmem_cache_alloc_trace
+     6.12%        963195  [kernel]       [k] merge_sched_in
+     6.12%        963195  [kernel]       [k] sched_clock_cpu
+     6.12%        963195  [kernel]       [k] update_curr
+     6.12%        963195  [kernel]       [k] visit_groups_merge.constprop.0.is
+[H[2J
+   PerfTop:      14 irqs/sec  kernel:14.3%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    12.37%       1872949  [kernel]       [k] memset_erms
+     6.80%       1030154  [kernel]       [k] exit_to_user_mode_prepare
+     6.80%       1030154  [kernel]       [k] find_busiest_queue
+     6.80%       1030154  [kernel]       [k] native_write_msr
+     6.80%       1030154  [kernel]       [k] page_remove_rmap
+     6.80%       1030154  [kernel]       [k] perf_event_alloc
+     5.57%        842795  [kernel]       [k] __cond_resched
+     5.57%        842795  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     5.57%        842795  [kernel]       [k] inherit_task_group.isra.0
+     5.57%        842795  [kernel]       [k] kmem_cache_alloc_trace
+     5.57%        842795  [kernel]       [k] merge_sched_in
+     5.57%        842795  [kernel]       [k] sched_clock_cpu
+     5.57%        842795  [kernel]       [k] update_curr
+     5.57%        842795  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.54%        838711  [kernel]       [k] rcu_read_unlock_strict
+     3.55%        536998  [kernel]       [k] apparmor_unix_stream_connect
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    12.37%       1638830  [kernel]       [k] memset_erms
+     6.80%        901384  [kernel]       [k] exit_to_user_mode_prepare
+     6.80%        901384  [kernel]       [k] find_busiest_queue
+     6.80%        901384  [kernel]       [k] native_write_msr
+     6.80%        901384  [kernel]       [k] page_remove_rmap
+     6.80%        901384  [kernel]       [k] perf_event_alloc
+     5.57%        737445  [kernel]       [k] __cond_resched
+     5.57%        737445  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     5.57%        737445  [kernel]       [k] inherit_task_group.isra.0
+     5.57%        737445  [kernel]       [k] kmem_cache_alloc_trace
+     5.57%        737445  [kernel]       [k] merge_sched_in
+     5.57%        737445  [kernel]       [k] sched_clock_cpu
+     5.57%        737445  [kernel]       [k] update_curr
+     5.57%        737445  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.54%        733872  [kernel]       [k] rcu_read_unlock_strict
+     3.55%        469873  [kernel]       [k] apparmor_unix_stream_connect
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/31 [4000Hz cycles],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    12.37%       1433976  [kernel]       [k] memset_erms
+     6.80%        788711  [kernel]       [k] exit_to_user_mode_prepare
+     6.80%        788711  [kernel]       [k] find_busiest_queue
+     6.80%        788711  [kernel]       [k] native_write_msr
+     6.80%        788711  [kernel]       [k] page_remove_rmap
+     6.80%        788711  [kernel]       [k] perf_event_alloc
+     5.57%        645264  [kernel]       [k] __cond_resched
+     5.57%        645264  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     5.57%        645264  [kernel]       [k] inherit_task_group.isra.0
+     5.57%        645264  [kernel]       [k] kmem_cache_alloc_trace
+     5.57%        645264  [kernel]       [k] merge_sched_in
+     5.57%        645264  [kernel]       [k] sched_clock_cpu
+     5.57%        645264  [kernel]       [k] update_curr
+     5.57%        645264  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.54%        642138  [kernel]       [k] rcu_read_unlock_strict
+     3.55%        411138  [kernel]       [k] apparmor_unix_stream_connect

@@ -1,0 +1,172 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      10 irqs/sec  kernel:70.0%  exact:  0.0% lost: 0/0 drop: 21/21 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+    42.86%       1407792  [kernel]       [k] memset_erms
+    14.29%        469264  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+    14.29%        469264  [kernel]       [k] memcpy_erms
+    14.29%        469264  [kernel]       [k] perf_event_groups_insert
+    14.29%        469264  [kernel]       [k] x86_get_event_constraints
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       9 irqs/sec  kernel:44.4%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+    25.85%       1231818  [kernel]       [k] memset_erms
+     9.92%        472768  [kernel]       [k] merge_sched_in
+     9.92%        472768  [kernel]       [k] perf_event_context_sched_out
+     9.92%        472768  [kernel]       [k] perf_iterate_ctx
+     9.92%        472768  [kernel]       [k] wake_q_add_safe
+     8.62%        410606  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     8.62%        410606  [kernel]       [k] memcpy_erms
+     8.62%        410606  [kernel]       [k] perf_event_groups_insert
+     8.62%        410606  [kernel]       [k] x86_get_event_constraints
+[H[2J
+   PerfTop:      22 irqs/sec  kernel:40.9%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+    12.91%       1077840  [kernel]       [k] memset_erms
+     9.97%        832048  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     5.66%        472768  [kernel]       [k] css_set_move_task
+     5.66%        472768  [kernel]       [k] iterate_groups
+     5.66%        472768  [kernel]       [k] perf_event_groups_first
+     5.66%        472768  [kernel]       [k] perf_event_update_userpage
+     5.49%        457970  [kernel]       [k] intel_get_event_constraints
+     5.49%        457970  [kernel]       [k] rb_next
+     5.38%        449213  [kernel]       [k] audit_alloc
+     5.38%        449213  [kernel]       [k] futex_wait_queue_me
+     4.96%        413672  [kernel]       [k] merge_sched_in
+     4.96%        413672  [kernel]       [k] perf_event_context_sched_out
+     4.96%        413672  [kernel]       [k] perf_iterate_ctx
+     4.96%        413672  [kernel]       [k] wake_q_add_safe
+     4.30%        359280  [kernel]       [k] memcpy_erms
+     4.30%        359280  [kernel]       [k] perf_event_groups_insert
+     4.30%        359280  [kernel]       [k] x86_get_event_constraints
+[H[2J
+   PerfTop:      12 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+     9.21%        943110  [kernel]       [k] memset_erms
+     8.31%        850929  [kernel]       [k] perf_event_context_sched_out
+     7.11%        728042  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.78%        488966  [kernel]       [k] __cgroup_throttle_swaprate
+     4.78%        488966  [kernel]       [k] __cond_resched
+     4.78%        488966  [kernel]       [k] arch_perf_update_userpage
+     4.78%        488966  [kernel]       [k] event_sched_in
+     4.78%        488966  [kernel]       [k] syscall_return_via_sysret
+     4.04%        413672  [kernel]       [k] css_set_move_task
+     4.04%        413672  [kernel]       [k] iterate_groups
+     4.04%        413672  [kernel]       [k] perf_event_groups_first
+     4.04%        413672  [kernel]       [k] perf_event_update_userpage
+     3.91%        400723  [kernel]       [k] intel_get_event_constraints
+     3.91%        400723  [kernel]       [k] rb_next
+     3.84%        393061  [kernel]       [k] audit_alloc
+     3.84%        393061  [kernel]       [k] futex_wait_queue_me
+     3.54%        361963  [kernel]       [k] merge_sched_in
+     3.54%        361963  [kernel]       [k] perf_iterate_ctx
+     3.54%        361963  [kernel]       [k] wake_q_add_safe
+     3.07%        314370  [kernel]       [k] memcpy_erms
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+     9.21%        825221  [kernel]       [k] memset_erms
+     8.31%        744562  [kernel]       [k] perf_event_context_sched_out
+     7.11%        637036  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.78%        427845  [kernel]       [k] __cgroup_throttle_swaprate
+     4.78%        427845  [kernel]       [k] __cond_resched
+     4.78%        427845  [kernel]       [k] arch_perf_update_userpage
+     4.78%        427845  [kernel]       [k] event_sched_in
+     4.78%        427845  [kernel]       [k] syscall_return_via_sysret
+     4.04%        361963  [kernel]       [k] css_set_move_task
+     4.04%        361963  [kernel]       [k] iterate_groups
+     4.04%        361963  [kernel]       [k] perf_event_groups_first
+     4.04%        361963  [kernel]       [k] perf_event_update_userpage
+     3.91%        350632  [kernel]       [k] intel_get_event_constraints
+     3.91%        350632  [kernel]       [k] rb_next
+     3.84%        343928  [kernel]       [k] audit_alloc
+     3.84%        343928  [kernel]       [k] futex_wait_queue_me
+     3.54%        316717  [kernel]       [k] merge_sched_in
+     3.54%        316717  [kernel]       [k] perf_iterate_ctx
+     3.54%        316717  [kernel]       [k] wake_q_add_safe
+     3.07%        275073  [kernel]       [k] memcpy_erms
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 2676197)
+-------------------------------------------------------------------------------
+
+     9.21%        722068  [kernel]       [k] memset_erms
+     8.31%        651491  [kernel]       [k] perf_event_context_sched_out
+     7.11%        557406  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.78%        374364  [kernel]       [k] __cgroup_throttle_swaprate
+     4.78%        374364  [kernel]       [k] __cond_resched
+     4.78%        374364  [kernel]       [k] arch_perf_update_userpage
+     4.78%        374364  [kernel]       [k] event_sched_in
+     4.78%        374364  [kernel]       [k] syscall_return_via_sysret
+     4.04%        316717  [kernel]       [k] css_set_move_task
+     4.04%        316717  [kernel]       [k] iterate_groups
+     4.04%        316717  [kernel]       [k] perf_event_groups_first
+     4.04%        316717  [kernel]       [k] perf_event_update_userpage
+     3.91%        306803  [kernel]       [k] intel_get_event_constraints
+     3.91%        306803  [kernel]       [k] rb_next
+     3.84%        300937  [kernel]       [k] audit_alloc
+     3.84%        300937  [kernel]       [k] futex_wait_queue_me
+     3.54%        277127  [kernel]       [k] merge_sched_in
+     3.54%        277127  [kernel]       [k] perf_iterate_ctx
+     3.54%        277127  [kernel]       [k] wake_q_add_safe
+     3.07%        240688  [kernel]       [k] memcpy_erms

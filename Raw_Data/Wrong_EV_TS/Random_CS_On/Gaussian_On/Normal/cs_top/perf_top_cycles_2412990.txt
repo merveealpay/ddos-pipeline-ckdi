@@ -1,0 +1,102 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 11/11 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+   100.00%       2544026  [kernel]       [k] perf_event_alloc
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:57.1%  exact:  0.0% lost: 0/0 drop: 0/11 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    32.60%       2226022  [kernel]       [k] perf_event_alloc
+    17.36%       1185658  [kernel]       [k] __handle_mm_fault
+    17.36%       1185658  [kernel]       [k] blkcg_maybe_throttle_current
+    17.36%       1185658  [kernel]       [k] visit_groups_merge.constprop.0.is
+    15.31%       1045224  [kernel]       [k] syscall_return_via_sysret
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/11 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    32.60%       1947769  [kernel]       [k] perf_event_alloc
+    17.36%       1037450  [kernel]       [k] __handle_mm_fault
+    17.36%       1037450  [kernel]       [k] blkcg_maybe_throttle_current
+    17.36%       1037450  [kernel]       [k] visit_groups_merge.constprop.0.is
+    15.31%        914571  [kernel]       [k] syscall_return_via_sysret
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/11 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    32.60%       1704297  [kernel]       [k] perf_event_alloc
+    17.36%        907768  [kernel]       [k] __handle_mm_fault
+    17.36%        907768  [kernel]       [k] blkcg_maybe_throttle_current
+    17.36%        907768  [kernel]       [k] visit_groups_merge.constprop.0.is
+    15.31%        800249  [kernel]       [k] syscall_return_via_sysret
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/11 [4000Hz cycles],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    32.60%       1491259  [kernel]       [k] perf_event_alloc
+    17.36%        794297  [kernel]       [k] __handle_mm_fault
+    17.36%        794297  [kernel]       [k] blkcg_maybe_throttle_current
+    17.36%        794297  [kernel]       [k] visit_groups_merge.constprop.0.is
+    15.31%        700217  [kernel]       [k] syscall_return_via_sysret

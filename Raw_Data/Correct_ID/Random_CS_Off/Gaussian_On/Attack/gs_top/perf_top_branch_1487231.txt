@@ -1,0 +1,236 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:     102 irqs/sec  kernel:29.4%  exact:  0.0% lost: 0/0 drop: 144/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    51.41%          3826  [kernel]       [k] merge_sched_in
+    42.92%          3194  [kernel]       [k] ip_rcv_core
+     4.97%           370  [kernel]       [k] native_sched_clock
+     0.17%            13  [kernel]       [k] _raw_spin_lock
+     0.15%            11  [kernel]       [k] native_write_msr
+     0.13%            10  [kernel]       [k] x86_pmu_enable
+     0.09%             7  [kernel]       [k] __perf_event_task_sched_in
+     0.07%             5  [kernel]       [k] timerqueue_add
+     0.05%             4  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.03%             2  [kernel]       [k] perf_event_update_userpage
+[H[2J
+   PerfTop:      36 irqs/sec  kernel:22.2%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    95.60%        141774  [kernel]       [k] tcp_ack_update_rtt
+     2.26%          3347  [kernel]       [k] merge_sched_in
+     1.88%          2794  [kernel]       [k] ip_rcv_core
+     0.22%           323  [kernel]       [k] native_sched_clock
+     0.01%            18  [kernel]       [k] _raw_spin_lock
+     0.01%            13  [kernel]       [k] x86_pmu_enable
+     0.01%            11  [kernel]       [k] __perf_event_task_sched_in
+     0.01%             9  [kernel]       [k] native_write_msr
+     0.00%             5  [kernel]       [k] update_load_avg
+     0.00%             4  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%             4  [kernel]       [k] timerqueue_add
+     0.00%             1  [kernel]       [k] ctx_sched_in
+     0.00%             1  [kernel]       [k] intel_pmu_enable_all
+     0.00%             1  [kernel]       [k] perf_event_update_userpage
+[H[2J
+   PerfTop:     122 irqs/sec  kernel:32.8%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    28.99%        265948  [kernel]       [k] aa_sk_perm
+    21.41%        196425  [kernel]       [k] ip_local_out
+    13.52%        124052  [kernel]       [k] tcp_ack_update_rtt
+    12.57%        115347  [kernel]       [k] calc_timer_values
+     6.14%         56343  [kernel]       [k] __schedule
+     6.14%         56343  [kernel]       [k] dequeue_entity
+     6.14%         56343  [kernel]       [k] syscall_exit_to_user_mode
+     3.22%         29496  [kernel]       [k] event_sched_in
+     0.75%          6848  [kernel]       [k] perf_pmu_nop_int
+     0.32%          2928  [kernel]       [k] merge_sched_in
+     0.27%          2444  [kernel]       [k] ip_rcv_core
+     0.25%          2335  [kernel]       [k] ktime_get
+     0.13%          1147  [kernel]       [k] perf_mux_hrtimer_handler
+     0.07%           650  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.03%           297  [kernel]       [k] hrtimer_update_next_event
+     0.03%           282  [kernel]       [k] native_sched_clock
+     0.00%            28  [kernel]       [k] __perf_event_task_sched_in
+     0.00%            26  [kernel]       [k] _raw_spin_lock
+     0.00%            23  [kernel]       [k] x86_pmu_enable
+     0.00%            15  [kernel]       [k] __intel_pmu_enable_all.constprop.
+[H[2J
+   PerfTop:      96 irqs/sec  kernel:20.8%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    18.54%        232704  [kernel]       [k] aa_sk_perm
+    13.70%        171871  [kernel]       [k] ip_local_out
+    10.02%        125727  [kernel]       [k] __local_bh_enable_ip
+    10.02%        125727  [kernel]       [k] psi_group_change
+     9.27%        116336  [kernel]       [k] detach_if_pending
+     8.65%        108545  [kernel]       [k] tcp_ack_update_rtt
+     8.04%        100928  [kernel]       [k] calc_timer_values
+     5.91%         74100  [kernel]       [k] tcp_rearm_rto
+     3.93%         49302  [kernel]       [k] __schedule
+     3.93%         49300  [kernel]       [k] dequeue_entity
+     3.93%         49300  [kernel]       [k] syscall_exit_to_user_mode
+     2.77%         34759  [kernel]       [k] event_sched_in
+     0.48%          5992  [kernel]       [k] perf_pmu_nop_int
+     0.20%          2562  [kernel]       [k] merge_sched_in
+     0.17%          2138  [kernel]       [k] ip_rcv_core
+     0.16%          2043  [kernel]       [k] ktime_get
+     0.11%          1322  [kernel]       [k] intel_pmu_enable_all
+     0.08%          1003  [kernel]       [k] perf_mux_hrtimer_handler
+     0.05%           568  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.02%           259  [kernel]       [k] hrtimer_update_next_event
+[H[2J
+   PerfTop:      88 irqs/sec  kernel:22.7%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    14.65%        224370  [kernel]       [k] psi_group_change
+    13.29%        203616  [kernel]       [k] aa_sk_perm
+     9.82%        150387  [kernel]       [k] ip_local_out
+     8.67%        132799  [kernel]       [k] enqueue_task_fair
+     8.25%        126398  [kernel]       [k] aa_check_perms
+     7.18%        110011  [kernel]       [k] __local_bh_enable_ip
+     6.64%        101794  [kernel]       [k] detach_if_pending
+     6.20%         94976  [kernel]       [k] tcp_ack_update_rtt
+     5.76%         88312  [kernel]       [k] calc_timer_values
+     4.23%         64837  [kernel]       [k] tcp_rearm_rto
+     3.68%         56343  [kernel]       [k] schedule_hrtimeout_range_clock
+     2.82%         43139  [kernel]       [k] __schedule
+     2.82%         43137  [kernel]       [k] dequeue_entity
+     2.82%         43137  [kernel]       [k] syscall_exit_to_user_mode
+     2.21%         33894  [kernel]       [k] event_sched_in
+     0.34%          5243  [kernel]       [k] perf_pmu_nop_int
+     0.15%          2241  [kernel]       [k] merge_sched_in
+     0.12%          1870  [kernel]       [k] ip_rcv_core
+     0.12%          1787  [kernel]       [k] ktime_get
+     0.08%          1158  [kernel]       [k] intel_pmu_enable_all
+[H[2J
+   PerfTop:      78 irqs/sec  kernel: 9.0%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    13.26%        252666  [kernel]       [k] psi_group_change
+     9.35%        178164  [kernel]       [k] aa_sk_perm
+     6.91%        131588  [kernel]       [k] ip_local_out
+     6.19%        117959  [kernel]       [k] __calc_delta
+     6.19%        117959  [kernel]       [k] irqentry_exit
+     6.10%        116199  [kernel]       [k] enqueue_task_fair
+     5.81%        110598  [kernel]       [k] aa_check_perms
+     5.43%        103516  [kernel]       [k] cpus_share_cache
+     5.05%         96259  [kernel]       [k] __local_bh_enable_ip
+     4.68%         89069  [kernel]       [k] detach_if_pending
+     4.36%         83104  [kernel]       [k] tcp_ack_update_rtt
+     4.06%         77273  [kernel]       [k] calc_timer_values
+     3.06%         58303  [kernel]       [k] merge_sched_in
+     2.98%         56732  [kernel]       [k] tcp_rearm_rto
+     2.97%         56531  [kernel]       [k] native_sched_clock
+     2.96%         56344  [kernel]       [k] update_load_avg
+     2.59%         49300  [kernel]       [k] schedule_hrtimeout_range_clock
+     1.98%         37746  [kernel]       [k] __schedule
+     1.98%         37744  [kernel]       [k] dequeue_entity
+     1.98%         37744  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:      53 irqs/sec  kernel: 9.4%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+    10.23%        221082  [kernel]       [k] psi_group_change
+     7.75%        167616  [kernel]       [k] __tcp_transmit_skb
+     7.21%        155893  [kernel]       [k] aa_sk_perm
+     5.33%        115139  [kernel]       [k] ip_local_out
+     5.07%        109655  [kernel]       [k] rcu_do_batch
+     5.00%        108026  [kernel]       [k] __build_skb_around
+     4.78%        103214  [kernel]       [k] __calc_delta
+     4.78%        103214  [kernel]       [k] irqentry_exit
+     4.70%        101674  [kernel]       [k] enqueue_task_fair
+     4.48%         96773  [kernel]       [k] aa_check_perms
+     4.19%         90576  [kernel]       [k] cpus_share_cache
+     3.90%         84226  [kernel]       [k] __local_bh_enable_ip
+     3.72%         80504  [kernel]       [k] event_sched_in
+     3.61%         77935  [kernel]       [k] detach_if_pending
+     3.36%         72716  [kernel]       [k] tcp_ack_update_rtt
+     3.13%         67613  [kernel]       [k] calc_timer_values
+     2.52%         54555  [kernel]       [k] perf_event_update_userpage
+     2.36%         51015  [kernel]       [k] merge_sched_in
+     2.30%         49640  [kernel]       [k] tcp_rearm_rto
+     2.29%         49464  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:      36 irqs/sec  kernel:19.4%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+     8.11%        193446  [kernel]       [k] psi_group_change
+     6.15%        146664  [kernel]       [k] __tcp_transmit_skb
+     5.72%        136406  [kernel]       [k] aa_sk_perm
+     5.47%        130550  [kernel]       [k] __calc_delta
+     4.75%        113250  [kernel]       [k] __update_load_avg_se
+     4.22%        100746  [kernel]       [k] ip_local_out
+     4.08%         97386  [kernel]       [k] ip_skb_dst_mtu
+     4.02%         95948  [kernel]       [k] rcu_do_batch
+     3.96%         94522  [kernel]       [k] __build_skb_around
+     3.92%         93418  [kernel]       [k] dequeue_task_fair
+     3.79%         90312  [kernel]       [k] irqentry_exit
+     3.73%         88964  [kernel]       [k] enqueue_task_fair
+     3.55%         84676  [kernel]       [k] aa_check_perms
+     3.32%         79254  [kernel]       [k] cpus_share_cache
+     3.09%         73697  [kernel]       [k] __local_bh_enable_ip
+     2.95%         70441  [kernel]       [k] event_sched_in
+     2.86%         68193  [kernel]       [k] detach_if_pending
+     2.67%         63626  [kernel]       [k] tcp_ack_update_rtt
+     2.48%         59161  [kernel]       [k] calc_timer_values
+     2.29%         54555  [kernel]       [k] __hrtimer_init
+[H[2J
+   PerfTop:      15 irqs/sec  kernel:26.7%  exact:  0.0% lost: 0/0 drop: 0/144 [4000Hz branch],  (target_pid: 1487231)
+-------------------------------------------------------------------------------
+
+     9.20%        205216  [kernel]       [k] psi_group_change
+     5.75%        128331  [kernel]       [k] __tcp_transmit_skb
+     5.35%        119355  [kernel]       [k] aa_sk_perm
+     5.12%        114231  [kernel]       [k] __calc_delta
+     4.44%         99093  [kernel]       [k] __update_load_avg_se
+     3.95%         88152  [kernel]       [k] ip_local_out
+     3.82%         85212  [kernel]       [k] ip_skb_dst_mtu
+     3.76%         83954  [kernel]       [k] rcu_do_batch
+     3.71%         82706  [kernel]       [k] __build_skb_around
+     3.66%         81740  [kernel]       [k] dequeue_task_fair
+     3.54%         79023  [kernel]       [k] irqentry_exit
+     3.49%         77843  [kernel]       [k] enqueue_task_fair
+     3.32%         74091  [kernel]       [k] aa_check_perms
+     3.11%         69347  [kernel]       [k] cpus_share_cache
+     2.89%         64484  [kernel]       [k] __local_bh_enable_ip
+     2.76%         61635  [kernel]       [k] event_sched_in
+     2.67%         59668  [kernel]       [k] detach_if_pending
+     2.49%         55672  [kernel]       [k] tcp_ack_update_rtt
+     2.32%         51765  [kernel]       [k] calc_timer_values
+     2.14%         47735  [kernel]       [k] __hrtimer_init

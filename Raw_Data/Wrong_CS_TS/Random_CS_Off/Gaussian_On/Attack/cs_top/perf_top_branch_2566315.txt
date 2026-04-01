@@ -1,0 +1,223 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 20/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+   100.00%         59650  [kernel]       [k] hsw_hw_config
+     0.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+    25.81%         59650  [kernel]       [k] __perf_event_header_size
+    25.81%         59650  [kernel]       [k] idr_get_free
+    25.81%         59650  [kernel]       [k] update_min_vruntime
+    22.58%         52193  [kernel]       [k] hsw_hw_config
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+    10.82%         61773  [kernel]       [k] allocate_slab
+    10.82%         61773  [kernel]       [k] psi_group_change
+    10.82%         61773  [kernel]       [k] rb_next
+    10.82%         61773  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.82%         61773  [kernel]       [k] vmacache_find
+    10.47%         59756  [kernel]       [k] rcu_all_qs
+     9.14%         52193  [kernel]       [k] __perf_event_header_size
+     9.14%         52193  [kernel]       [k] idr_get_free
+     9.14%         52193  [kernel]       [k] update_min_vruntime
+     8.00%         45668  [kernel]       [k] hsw_hw_config
+[H[2J
+   PerfTop:       9 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+    11.71%        101732  [kernel]       [k] hsw_hw_config
+     7.11%         61773  [kernel]       [k] arch_perf_update_userpage
+     7.11%         61773  [kernel]       [k] handle_mm_fault
+     7.11%         61773  [kernel]       [k] intel_cpuc_prepare
+     7.11%         61773  [kernel]       [k] perf_event_alloc
+     6.94%         60240  [kernel]       [k] perf_iterate_ctx
+     6.22%         54051  [kernel]       [k] allocate_slab
+     6.22%         54051  [kernel]       [k] psi_group_change
+     6.22%         54051  [kernel]       [k] rb_next
+     6.22%         54051  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.22%         54051  [kernel]       [k] vmacache_find
+     6.02%         52286  [kernel]       [k] rcu_all_qs
+     5.26%         45668  [kernel]       [k] __perf_event_header_size
+     5.26%         45668  [kernel]       [k] idr_get_free
+     5.26%         45668  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:      29 irqs/sec  kernel:31.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+     8.69%        111554  [kernel]       [k] merge_sched_in
+     8.55%        109828  [kernel]       [k] perf_event_alloc
+     8.37%        107534  [kernel]       [k] psi_group_change
+     8.37%        107534  [kernel]       [k] rb_next
+     6.93%         89015  [kernel]       [k] hsw_hw_config
+     4.69%         60240  [kernel]       [k] __calc_delta
+     4.69%         60240  [kernel]       [k] kmem_cache_alloc_trace
+     4.69%         60240  [kernel]       [k] x86_pmu_disable
+     4.34%         55777  [kernel]       [k] allocate_fake_cpuc
+     4.21%         54051  [kernel]       [k] arch_perf_update_userpage
+     4.21%         54051  [kernel]       [k] handle_mm_fault
+     4.21%         54051  [kernel]       [k] intel_cpuc_prepare
+     4.10%         52710  [kernel]       [k] perf_iterate_ctx
+     3.68%         47294  [kernel]       [k] allocate_slab
+     3.68%         47294  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.68%         47294  [kernel]       [k] vmacache_find
+     3.56%         45750  [kernel]       [k] rcu_all_qs
+     3.11%         39959  [kernel]       [k] __perf_event_header_size
+     3.11%         39959  [kernel]       [k] idr_get_free
+     3.11%         39959  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:33.3%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+    10.43%        130803  [kernel]       [k] enqueue_hrtimer
+     7.78%         97609  [kernel]       [k] merge_sched_in
+     7.66%         96099  [kernel]       [k] perf_event_alloc
+     7.50%         94092  [kernel]       [k] psi_group_change
+     7.50%         94092  [kernel]       [k] rb_next
+     6.21%         77888  [kernel]       [k] hsw_hw_config
+     4.20%         52710  [kernel]       [k] __calc_delta
+     4.20%         52710  [kernel]       [k] kmem_cache_alloc_trace
+     4.20%         52710  [kernel]       [k] x86_pmu_disable
+     3.89%         48804  [kernel]       [k] allocate_fake_cpuc
+     3.77%         47294  [kernel]       [k] arch_perf_update_userpage
+     3.77%         47294  [kernel]       [k] handle_mm_fault
+     3.77%         47294  [kernel]       [k] intel_cpuc_prepare
+     3.68%         46121  [kernel]       [k] perf_iterate_ctx
+     3.30%         41382  [kernel]       [k] allocate_slab
+     3.30%         41382  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.30%         41382  [kernel]       [k] vmacache_find
+     3.19%         40031  [kernel]       [k] rcu_all_qs
+     2.79%         34964  [kernel]       [k] __perf_event_header_size
+     2.79%         34964  [kernel]       [k] idr_get_free
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+    16.24%        196335  [kernel]       [k] merge_sched_in
+     9.47%        114452  [kernel]       [k] enqueue_hrtimer
+     6.96%         84086  [kernel]       [k] perf_event_alloc
+     6.81%         82330  [kernel]       [k] psi_group_change
+     6.81%         82330  [kernel]       [k] rb_next
+     5.64%         68152  [kernel]       [k] hsw_hw_config
+     3.82%         46121  [kernel]       [k] __calc_delta
+     3.82%         46121  [kernel]       [k] kmem_cache_alloc_trace
+     3.82%         46121  [kernel]       [k] x86_pmu_disable
+     3.53%         42703  [kernel]       [k] allocate_fake_cpuc
+     3.42%         41382  [kernel]       [k] arch_perf_update_userpage
+     3.42%         41382  [kernel]       [k] handle_mm_fault
+     3.42%         41382  [kernel]       [k] intel_cpuc_prepare
+     3.34%         40355  [kernel]       [k] perf_iterate_ctx
+     3.00%         36209  [kernel]       [k] allocate_slab
+     3.00%         36209  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.00%         36209  [kernel]       [k] vmacache_find
+     2.90%         35027  [kernel]       [k] rcu_all_qs
+     2.53%         30593  [kernel]       [k] __perf_event_header_size
+     2.53%         30593  [kernel]       [k] idr_get_free
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz branch],  (target_pid: 2566315)
+-------------------------------------------------------------------------------
+
+    16.24%        171793  [kernel]       [k] merge_sched_in
+     9.47%        100145  [kernel]       [k] enqueue_hrtimer
+     6.96%         73575  [kernel]       [k] perf_event_alloc
+     6.81%         72038  [kernel]       [k] psi_group_change
+     6.81%         72038  [kernel]       [k] rb_next
+     5.64%         59633  [kernel]       [k] hsw_hw_config
+     3.82%         40355  [kernel]       [k] __calc_delta
+     3.82%         40355  [kernel]       [k] kmem_cache_alloc_trace
+     3.82%         40355  [kernel]       [k] x86_pmu_disable
+     3.53%         37365  [kernel]       [k] allocate_fake_cpuc
+     3.42%         36209  [kernel]       [k] arch_perf_update_userpage
+     3.42%         36209  [kernel]       [k] handle_mm_fault
+     3.42%         36209  [kernel]       [k] intel_cpuc_prepare
+     3.34%         35310  [kernel]       [k] perf_iterate_ctx
+     3.00%         31682  [kernel]       [k] allocate_slab
+     3.00%         31682  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.00%         31682  [kernel]       [k] vmacache_find
+     2.90%         30648  [kernel]       [k] rcu_all_qs
+     2.53%         26768  [kernel]       [k] __perf_event_header_size
+     2.53%         26768  [kernel]       [k] idr_get_free

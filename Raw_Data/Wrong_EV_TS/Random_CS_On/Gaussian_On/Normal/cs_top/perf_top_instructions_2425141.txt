@@ -1,0 +1,1006 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 45/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    33.33%        504235  [kernel]       [k] __perf_sw_event
+    33.33%        504235  [kernel]       [k] _raw_spin_lock_irqsave
+    33.33%        504235  [kernel]       [k] event_sched_in
+     0.00%             1  [kernel]       [k] intel_pmu_enable_all
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    33.59%        945440  [kernel]       [k] event_sched_in
+    17.53%        493349  [kernel]       [k] update_load_avg
+    17.53%        493349  [kernel]       [k] x86_reserve_hardware
+    15.68%        441205  [kernel]       [k] __perf_sw_event
+    15.68%        441205  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:60.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    20.98%        827260  [kernel]       [k] event_sched_in
+    12.51%        493349  [kernel]       [k] __intel_pmu_enable_all.constprop.
+    12.51%        493349  [kernel]       [k] perf_event_alloc
+    12.51%        493349  [kernel]       [k] set_task_cpu
+    10.95%        431680  [kernel]       [k] update_load_avg
+    10.95%        431680  [kernel]       [k] x86_reserve_hardware
+     9.79%        386054  [kernel]       [k] __perf_sw_event
+     9.79%        386054  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    16.32%        723852  [kernel]       [k] event_sched_in
+    11.12%        493349  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+    11.12%        493349  [kernel]       [k] perf_pmu_nop_txn
+     9.73%        431680  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     9.73%        431680  [kernel]       [k] perf_event_alloc
+     9.73%        431680  [kernel]       [k] set_task_cpu
+     8.51%        377720  [kernel]       [k] update_load_avg
+     8.51%        377720  [kernel]       [k] x86_reserve_hardware
+     7.61%        337797  [kernel]       [k] __perf_sw_event
+     7.61%        337797  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:80.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    19.24%       1126719  [kernel]       [k] event_sched_in
+     8.43%        493349  [kernel]       [k] find_vma
+     8.43%        493349  [kernel]       [k] intel_cpuc_finish
+     8.43%        493349  [kernel]       [k] perf_event_update_userpage
+     7.37%        431680  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.37%        431680  [kernel]       [k] perf_pmu_nop_txn
+     6.45%        377720  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     6.45%        377720  [kernel]       [k] perf_event_alloc
+     6.45%        377720  [kernel]       [k] set_task_cpu
+     5.64%        330505  [kernel]       [k] update_load_avg
+     5.64%        330505  [kernel]       [k] x86_reserve_hardware
+     5.05%        295572  [kernel]       [k] __perf_sw_event
+     5.05%        295572  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:60.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    14.88%        985879  [kernel]       [k] event_sched_in
+     7.60%        503333  [kernel]       [k] pick_next_task_fair
+     7.60%        503333  [kernel]       [k] ttwu_do_activate
+     7.45%        493349  [kernel]       [k] should_failslab
+     6.52%        431680  [kernel]       [k] find_vma
+     6.52%        431680  [kernel]       [k] intel_cpuc_finish
+     6.52%        431680  [kernel]       [k] perf_event_update_userpage
+     5.70%        377720  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     5.70%        377720  [kernel]       [k] perf_pmu_nop_txn
+     4.99%        330505  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     4.99%        330505  [kernel]       [k] perf_event_alloc
+     4.99%        330505  [kernel]       [k] set_task_cpu
+     4.37%        289191  [kernel]       [k] update_load_avg
+     4.37%        289191  [kernel]       [k] x86_reserve_hardware
+     3.90%        258625  [kernel]       [k] __perf_sw_event
+     3.90%        258625  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    12.75%        862644  [kernel]       [k] event_sched_in
+     7.44%        503333  [kernel]       [k] kmem_cache_alloc_node_trace
+     6.87%        464814  [kernel]       [k] __update_load_avg_se
+     6.51%        440416  [kernel]       [k] pick_next_task_fair
+     6.51%        440416  [kernel]       [k] ttwu_do_activate
+     6.38%        431680  [kernel]       [k] should_failslab
+     5.58%        377720  [kernel]       [k] find_vma
+     5.58%        377720  [kernel]       [k] intel_cpuc_finish
+     5.58%        377720  [kernel]       [k] perf_event_update_userpage
+     4.89%        330505  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.89%        330505  [kernel]       [k] perf_pmu_nop_txn
+     4.28%        289191  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     4.28%        289191  [kernel]       [k] perf_event_alloc
+     4.28%        289191  [kernel]       [k] set_task_cpu
+     3.74%        253042  [kernel]       [k] update_load_avg
+     3.74%        253042  [kernel]       [k] x86_reserve_hardware
+     3.35%        226296  [kernel]       [k] __perf_sw_event
+     3.35%        226296  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:57.1%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    11.21%        871526  [kernel]       [k] __update_load_avg_se
+     9.71%        754813  [kernel]       [k] event_sched_in
+     5.98%        464814  [kernel]       [k] calc_timer_values
+     5.98%        464814  [kernel]       [k] kfree
+     5.98%        464814  [kernel]       [k] pids_can_fork
+     5.66%        440416  [kernel]       [k] kmem_cache_alloc_node_trace
+     4.95%        385364  [kernel]       [k] pick_next_task_fair
+     4.95%        385364  [kernel]       [k] ttwu_do_activate
+     4.86%        377720  [kernel]       [k] should_failslab
+     4.25%        330505  [kernel]       [k] find_vma
+     4.25%        330505  [kernel]       [k] intel_cpuc_finish
+     4.25%        330505  [kernel]       [k] perf_event_update_userpage
+     3.72%        289191  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.72%        289191  [kernel]       [k] perf_pmu_nop_txn
+     3.25%        253042  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     3.25%        253042  [kernel]       [k] perf_event_alloc
+     3.25%        253042  [kernel]       [k] set_task_cpu
+     2.85%        221411  [kernel]       [k] update_load_avg
+     2.85%        221411  [kernel]       [k] x86_reserve_hardware
+     2.55%        198009  [kernel]       [k] __perf_sw_event
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:80.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     9.07%        762585  [kernel]       [k] __update_load_avg_se
+     7.86%        660461  [kernel]       [k] event_sched_in
+     6.92%        581709  [kernel]       [k] update_load_avg
+     5.19%        436630  [kernel]       [k] put_prev_entity
+     4.84%        406712  [kernel]       [k] calc_timer_values
+     4.84%        406712  [kernel]       [k] kfree
+     4.84%        406712  [kernel]       [k] pids_can_fork
+     4.62%        387975  [kernel]       [k] kmem_cache_alloc_trace
+     4.62%        387975  [kernel]       [k] slab_free_freelist_hook.constprop
+     4.58%        385364  [kernel]       [k] kmem_cache_alloc_node_trace
+     4.01%        337193  [kernel]       [k] pick_next_task_fair
+     4.01%        337193  [kernel]       [k] ttwu_do_activate
+     3.93%        330505  [kernel]       [k] should_failslab
+     3.44%        289191  [kernel]       [k] find_vma
+     3.44%        289191  [kernel]       [k] intel_cpuc_finish
+     3.44%        289191  [kernel]       [k] perf_event_update_userpage
+     3.01%        253042  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.01%        253042  [kernel]       [k] perf_pmu_nop_txn
+     2.63%        221411  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     2.63%        221411  [kernel]       [k] perf_event_alloc
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     9.11%        775950  [kernel]       [k] psi_group_change
+     7.83%        667261  [kernel]       [k] __update_load_avg_se
+     6.78%        577903  [kernel]       [k] event_sched_in
+     5.97%        508995  [kernel]       [k] update_load_avg
+     4.55%        387975  [kernel]       [k] rb_insert_color
+     4.48%        382051  [kernel]       [k] put_prev_entity
+     4.18%        355873  [kernel]       [k] calc_timer_values
+     4.18%        355873  [kernel]       [k] kfree
+     4.18%        355873  [kernel]       [k] pids_can_fork
+     3.98%        339478  [kernel]       [k] kmem_cache_alloc_trace
+     3.98%        339478  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.96%        337193  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.46%        295043  [kernel]       [k] pick_next_task_fair
+     3.46%        295043  [kernel]       [k] ttwu_do_activate
+     3.39%        289191  [kernel]       [k] should_failslab
+     2.97%        253042  [kernel]       [k] find_vma
+     2.97%        253042  [kernel]       [k] intel_cpuc_finish
+     2.97%        253042  [kernel]       [k] perf_event_update_userpage
+     2.60%        221411  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.60%        221411  [kernel]       [k] perf_pmu_nop_txn
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:83.3%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    11.37%       1066931  [kernel]       [k] psi_group_change
+     7.30%        685018  [kernel]       [k] kmem_cache_alloc_trace
+     6.22%        583853  [kernel]       [k] __update_load_avg_se
+     5.94%        557492  [kernel]       [k] perf_event_alloc
+     5.39%        505665  [kernel]       [k] event_sched_in
+     4.75%        445370  [kernel]       [k] update_load_avg
+     4.13%        387975  [kernel]       [k] perf_event_update_time
+     4.03%        377753  [kernel]       [k] account_event
+     3.62%        339478  [kernel]       [k] rb_insert_color
+     3.56%        334294  [kernel]       [k] put_prev_entity
+     3.32%        311388  [kernel]       [k] calc_timer_values
+     3.32%        311388  [kernel]       [k] kfree
+     3.32%        311388  [kernel]       [k] pids_can_fork
+     3.17%        297043  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.14%        295043  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.75%        258162  [kernel]       [k] pick_next_task_fair
+     2.75%        258162  [kernel]       [k] ttwu_do_activate
+     2.70%        253042  [kernel]       [k] should_failslab
+     2.36%        221411  [kernel]       [k] find_vma
+     2.36%        221411  [kernel]       [k] intel_cpuc_finish
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        933564  [kernel]       [k] psi_group_change
+     6.98%        599390  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        510871  [kernel]       [k] __update_load_avg_se
+     5.68%        487805  [kernel]       [k] perf_event_alloc
+     5.15%        442456  [kernel]       [k] event_sched_in
+     4.54%        389698  [kernel]       [k] update_load_avg
+     4.40%        377753  [kernel]       [k] plist_add
+     3.95%        339478  [kernel]       [k] perf_event_update_time
+     3.85%        330533  [kernel]       [k] account_event
+     3.46%        297043  [kernel]       [k] rb_insert_color
+     3.41%        292507  [kernel]       [k] put_prev_entity
+     3.17%        272464  [kernel]       [k] calc_timer_values
+     3.17%        272464  [kernel]       [k] kfree
+     3.17%        272464  [kernel]       [k] pids_can_fork
+     3.03%        259912  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        258162  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        225891  [kernel]       [k] pick_next_task_fair
+     2.63%        225891  [kernel]       [k] ttwu_do_activate
+     2.58%        221411  [kernel]       [k] should_failslab
+     2.26%        193734  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        816868  [kernel]       [k] psi_group_change
+     6.98%        524466  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        447012  [kernel]       [k] __update_load_avg_se
+     5.68%        426829  [kernel]       [k] perf_event_alloc
+     5.15%        387149  [kernel]       [k] event_sched_in
+     4.54%        340985  [kernel]       [k] update_load_avg
+     4.40%        330533  [kernel]       [k] plist_add
+     3.95%        297043  [kernel]       [k] perf_event_update_time
+     3.85%        289216  [kernel]       [k] account_event
+     3.46%        259912  [kernel]       [k] rb_insert_color
+     3.41%        255943  [kernel]       [k] put_prev_entity
+     3.17%        238406  [kernel]       [k] calc_timer_values
+     3.17%        238406  [kernel]       [k] kfree
+     3.17%        238406  [kernel]       [k] pids_can_fork
+     3.03%        227423  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        225891  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        197654  [kernel]       [k] pick_next_task_fair
+     2.63%        197654  [kernel]       [k] ttwu_do_activate
+     2.58%        193734  [kernel]       [k] should_failslab
+     2.26%        169517  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        714759  [kernel]       [k] psi_group_change
+     6.98%        458907  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        391135  [kernel]       [k] __update_load_avg_se
+     5.68%        373475  [kernel]       [k] perf_event_alloc
+     5.15%        338755  [kernel]       [k] event_sched_in
+     4.54%        298361  [kernel]       [k] update_load_avg
+     4.40%        289216  [kernel]       [k] plist_add
+     3.95%        259912  [kernel]       [k] perf_event_update_time
+     3.85%        253064  [kernel]       [k] account_event
+     3.46%        227423  [kernel]       [k] rb_insert_color
+     3.41%        223950  [kernel]       [k] put_prev_entity
+     3.17%        208605  [kernel]       [k] calc_timer_values
+     3.17%        208605  [kernel]       [k] kfree
+     3.17%        208605  [kernel]       [k] pids_can_fork
+     3.03%        198995  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        197654  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        172947  [kernel]       [k] pick_next_task_fair
+     2.63%        172947  [kernel]       [k] ttwu_do_activate
+     2.58%        169517  [kernel]       [k] should_failslab
+     2.26%        148327  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        625414  [kernel]       [k] psi_group_change
+     6.98%        401543  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        342243  [kernel]       [k] __update_load_avg_se
+     5.68%        326790  [kernel]       [k] perf_event_alloc
+     5.15%        296410  [kernel]       [k] event_sched_in
+     4.54%        261065  [kernel]       [k] update_load_avg
+     4.40%        253064  [kernel]       [k] plist_add
+     3.95%        227423  [kernel]       [k] perf_event_update_time
+     3.85%        221431  [kernel]       [k] account_event
+     3.46%        198995  [kernel]       [k] rb_insert_color
+     3.41%        195956  [kernel]       [k] put_prev_entity
+     3.17%        182529  [kernel]       [k] calc_timer_values
+     3.17%        182529  [kernel]       [k] kfree
+     3.17%        182529  [kernel]       [k] pids_can_fork
+     3.03%        174120  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        172947  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        151328  [kernel]       [k] pick_next_task_fair
+     2.63%        151328  [kernel]       [k] ttwu_do_activate
+     2.58%        148327  [kernel]       [k] should_failslab
+     2.26%        129786  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        547237  [kernel]       [k] psi_group_change
+     6.98%        351350  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        299462  [kernel]       [k] __update_load_avg_se
+     5.68%        285941  [kernel]       [k] perf_event_alloc
+     5.15%        259358  [kernel]       [k] event_sched_in
+     4.54%        228431  [kernel]       [k] update_load_avg
+     4.40%        221431  [kernel]       [k] plist_add
+     3.95%        198995  [kernel]       [k] perf_event_update_time
+     3.85%        193752  [kernel]       [k] account_event
+     3.46%        174120  [kernel]       [k] rb_insert_color
+     3.41%        171461  [kernel]       [k] put_prev_entity
+     3.17%        159712  [kernel]       [k] calc_timer_values
+     3.17%        159712  [kernel]       [k] kfree
+     3.17%        159712  [kernel]       [k] pids_can_fork
+     3.03%        152355  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        151328  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        132412  [kernel]       [k] pick_next_task_fair
+     2.63%        132412  [kernel]       [k] ttwu_do_activate
+     2.58%        129786  [kernel]       [k] should_failslab
+     2.26%        113562  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        478832  [kernel]       [k] psi_group_change
+     6.98%        307431  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        262029  [kernel]       [k] __update_load_avg_se
+     5.68%        250198  [kernel]       [k] perf_event_alloc
+     5.15%        226938  [kernel]       [k] event_sched_in
+     4.54%        199877  [kernel]       [k] update_load_avg
+     4.40%        193752  [kernel]       [k] plist_add
+     3.95%        174120  [kernel]       [k] perf_event_update_time
+     3.85%        169533  [kernel]       [k] account_event
+     3.46%        152355  [kernel]       [k] rb_insert_color
+     3.41%        150028  [kernel]       [k] put_prev_entity
+     3.17%        139748  [kernel]       [k] calc_timer_values
+     3.17%        139748  [kernel]       [k] kfree
+     3.17%        139748  [kernel]       [k] pids_can_fork
+     3.03%        133310  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        132412  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        115860  [kernel]       [k] pick_next_task_fair
+     2.63%        115860  [kernel]       [k] ttwu_do_activate
+     2.58%        113562  [kernel]       [k] should_failslab
+     2.26%         99366  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        418978  [kernel]       [k] psi_group_change
+     6.98%        269002  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        229275  [kernel]       [k] __update_load_avg_se
+     5.68%        218923  [kernel]       [k] perf_event_alloc
+     5.15%        198570  [kernel]       [k] event_sched_in
+     4.54%        174892  [kernel]       [k] update_load_avg
+     4.40%        169533  [kernel]       [k] plist_add
+     3.95%        152355  [kernel]       [k] perf_event_update_time
+     3.85%        148341  [kernel]       [k] account_event
+     3.46%        133310  [kernel]       [k] rb_insert_color
+     3.41%        131274  [kernel]       [k] put_prev_entity
+     3.17%        122279  [kernel]       [k] calc_timer_values
+     3.17%        122279  [kernel]       [k] kfree
+     3.17%        122279  [kernel]       [k] pids_can_fork
+     3.03%        116646  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        115860  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%        101377  [kernel]       [k] pick_next_task_fair
+     2.63%        101377  [kernel]       [k] ttwu_do_activate
+     2.58%         99366  [kernel]       [k] should_failslab
+     2.26%         86945  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        366605  [kernel]       [k] psi_group_change
+     6.98%        235376  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        200615  [kernel]       [k] __update_load_avg_se
+     5.68%        191557  [kernel]       [k] perf_event_alloc
+     5.15%        173748  [kernel]       [k] event_sched_in
+     4.54%        153030  [kernel]       [k] update_load_avg
+     4.40%        148341  [kernel]       [k] plist_add
+     3.95%        133310  [kernel]       [k] perf_event_update_time
+     3.85%        129798  [kernel]       [k] account_event
+     3.46%        116646  [kernel]       [k] rb_insert_color
+     3.41%        114864  [kernel]       [k] put_prev_entity
+     3.17%        106994  [kernel]       [k] calc_timer_values
+     3.17%        106994  [kernel]       [k] kfree
+     3.17%        106994  [kernel]       [k] pids_can_fork
+     3.03%        102065  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%        101377  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         88704  [kernel]       [k] pick_next_task_fair
+     2.63%         88704  [kernel]       [k] ttwu_do_activate
+     2.58%         86945  [kernel]       [k] should_failslab
+     2.26%         76076  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        320779  [kernel]       [k] psi_group_change
+     6.98%        205954  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        175538  [kernel]       [k] __update_load_avg_se
+     5.68%        167612  [kernel]       [k] perf_event_alloc
+     5.15%        152029  [kernel]       [k] event_sched_in
+     4.54%        133901  [kernel]       [k] update_load_avg
+     4.40%        129798  [kernel]       [k] plist_add
+     3.95%        116646  [kernel]       [k] perf_event_update_time
+     3.85%        113573  [kernel]       [k] account_event
+     3.46%        102065  [kernel]       [k] rb_insert_color
+     3.41%        100506  [kernel]       [k] put_prev_entity
+     3.17%         93619  [kernel]       [k] calc_timer_values
+     3.17%         93619  [kernel]       [k] kfree
+     3.17%         93619  [kernel]       [k] pids_can_fork
+     3.03%         89306  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%         88704  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         77616  [kernel]       [k] pick_next_task_fair
+     2.63%         77616  [kernel]       [k] ttwu_do_activate
+     2.58%         76076  [kernel]       [k] should_failslab
+     2.26%         66566  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        280681  [kernel]       [k] psi_group_change
+     6.98%        180209  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        153595  [kernel]       [k] __update_load_avg_se
+     5.68%        146660  [kernel]       [k] perf_event_alloc
+     5.15%        133025  [kernel]       [k] event_sched_in
+     4.54%        117163  [kernel]       [k] update_load_avg
+     4.40%        113573  [kernel]       [k] plist_add
+     3.95%        102065  [kernel]       [k] perf_event_update_time
+     3.85%         99376  [kernel]       [k] account_event
+     3.46%         89306  [kernel]       [k] rb_insert_color
+     3.41%         87942  [kernel]       [k] put_prev_entity
+     3.17%         81916  [kernel]       [k] calc_timer_values
+     3.17%         81916  [kernel]       [k] kfree
+     3.17%         81916  [kernel]       [k] pids_can_fork
+     3.03%         78142  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%         77616  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         67914  [kernel]       [k] pick_next_task_fair
+     2.63%         67914  [kernel]       [k] ttwu_do_activate
+     2.58%         66566  [kernel]       [k] should_failslab
+     2.26%         58245  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        245595  [kernel]       [k] psi_group_change
+     6.98%        157682  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        134395  [kernel]       [k] __update_load_avg_se
+     5.68%        128327  [kernel]       [k] perf_event_alloc
+     5.15%        116396  [kernel]       [k] event_sched_in
+     4.54%        102517  [kernel]       [k] update_load_avg
+     4.40%         99376  [kernel]       [k] plist_add
+     3.95%         89306  [kernel]       [k] perf_event_update_time
+     3.85%         86954  [kernel]       [k] account_event
+     3.46%         78142  [kernel]       [k] rb_insert_color
+     3.41%         76949  [kernel]       [k] put_prev_entity
+     3.17%         71676  [kernel]       [k] calc_timer_values
+     3.17%         71676  [kernel]       [k] kfree
+     3.17%         71676  [kernel]       [k] pids_can_fork
+     3.03%         68374  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%         67914  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         59424  [kernel]       [k] pick_next_task_fair
+     2.63%         59424  [kernel]       [k] ttwu_do_activate
+     2.58%         58245  [kernel]       [k] should_failslab
+     2.26%         50964  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        214895  [kernel]       [k] psi_group_change
+     6.98%        137971  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        117595  [kernel]       [k] __update_load_avg_se
+     5.68%        112286  [kernel]       [k] perf_event_alloc
+     5.15%        101846  [kernel]       [k] event_sched_in
+     4.54%         89702  [kernel]       [k] update_load_avg
+     4.40%         86954  [kernel]       [k] plist_add
+     3.95%         78142  [kernel]       [k] perf_event_update_time
+     3.85%         76084  [kernel]       [k] account_event
+     3.46%         68374  [kernel]       [k] rb_insert_color
+     3.41%         67330  [kernel]       [k] put_prev_entity
+     3.17%         62716  [kernel]       [k] calc_timer_values
+     3.17%         62716  [kernel]       [k] kfree
+     3.17%         62716  [kernel]       [k] pids_can_fork
+     3.03%         59827  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%         59424  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         51996  [kernel]       [k] pick_next_task_fair
+     2.63%         51996  [kernel]       [k] ttwu_do_activate
+     2.58%         50964  [kernel]       [k] should_failslab
+     2.26%         44593  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        188033  [kernel]       [k] psi_group_change
+     6.98%        120724  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%        102895  [kernel]       [k] __update_load_avg_se
+     5.68%         98250  [kernel]       [k] perf_event_alloc
+     5.15%         89115  [kernel]       [k] event_sched_in
+     4.54%         78489  [kernel]       [k] update_load_avg
+     4.40%         76084  [kernel]       [k] plist_add
+     3.95%         68374  [kernel]       [k] perf_event_update_time
+     3.85%         66573  [kernel]       [k] account_event
+     3.46%         59827  [kernel]       [k] rb_insert_color
+     3.41%         58913  [kernel]       [k] put_prev_entity
+     3.17%         54876  [kernel]       [k] calc_timer_values
+     3.17%         54876  [kernel]       [k] kfree
+     3.17%         54876  [kernel]       [k] pids_can_fork
+     3.03%         52348  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%         51996  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         45496  [kernel]       [k] pick_next_task_fair
+     2.63%         45496  [kernel]       [k] ttwu_do_activate
+     2.58%         44593  [kernel]       [k] should_failslab
+     2.26%         39018  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.87%        164528  [kernel]       [k] psi_group_change
+     6.98%        105633  [kernel]       [k] kmem_cache_alloc_trace
+     5.95%         90033  [kernel]       [k] __update_load_avg_se
+     5.68%         85968  [kernel]       [k] perf_event_alloc
+     5.15%         77975  [kernel]       [k] event_sched_in
+     4.54%         68677  [kernel]       [k] update_load_avg
+     4.40%         66573  [kernel]       [k] plist_add
+     3.95%         59827  [kernel]       [k] perf_event_update_time
+     3.85%         58251  [kernel]       [k] account_event
+     3.46%         52348  [kernel]       [k] rb_insert_color
+     3.41%         51548  [kernel]       [k] put_prev_entity
+     3.17%         48016  [kernel]       [k] calc_timer_values
+     3.17%         48016  [kernel]       [k] kfree
+     3.17%         48016  [kernel]       [k] pids_can_fork
+     3.03%         45804  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.01%         45496  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.63%         39809  [kernel]       [k] pick_next_task_fair
+     2.63%         39809  [kernel]       [k] ttwu_do_activate
+     2.58%         39018  [kernel]       [k] should_failslab
+     2.26%         34140  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    26.61%        452975  [kernel]       [k] perf_event_alloc
+     8.46%        143962  [kernel]       [k] psi_group_change
+     5.43%         92428  [kernel]       [k] kmem_cache_alloc_trace
+     4.63%         78778  [kernel]       [k] __update_load_avg_se
+     4.01%         68228  [kernel]       [k] event_sched_in
+     3.53%         60092  [kernel]       [k] update_load_avg
+     3.42%         58251  [kernel]       [k] plist_add
+     3.08%         52348  [kernel]       [k] perf_event_update_time
+     2.99%         50969  [kernel]       [k] account_event
+     2.69%         45804  [kernel]       [k] rb_insert_color
+     2.65%         45104  [kernel]       [k] put_prev_entity
+     2.47%         42014  [kernel]       [k] calc_timer_values
+     2.47%         42014  [kernel]       [k] kfree
+     2.47%         42014  [kernel]       [k] pids_can_fork
+     2.35%         40078  [kernel]       [k] slab_free_freelist_hook.constprop
+     2.34%         39809  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.05%         34832  [kernel]       [k] pick_next_task_fair
+     2.05%         34832  [kernel]       [k] ttwu_do_activate
+     2.01%         34140  [kernel]       [k] should_failslab
+     1.76%         29872  [kernel]       [k] find_vma
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:83.3%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    14.91%        503719  [kernel]       [k] psi_group_change
+    11.73%        396353  [kernel]       [k] perf_event_alloc
+    11.18%        377753  [kernel]       [k] __srcu_read_lock
+    11.18%        377753  [kernel]       [k] __x64_sys_futex
+    11.18%        377753  [kernel]       [k] intel_cpuc_prepare
+    11.18%        377753  [kernel]       [k] mutex_unlock
+     2.39%         80874  [kernel]       [k] kmem_cache_alloc_trace
+     2.04%         68930  [kernel]       [k] __update_load_avg_se
+     1.77%         59699  [kernel]       [k] event_sched_in
+     1.56%         52580  [kernel]       [k] update_load_avg
+     1.51%         50969  [kernel]       [k] plist_add
+     1.36%         45804  [kernel]       [k] perf_event_update_time
+     1.32%         44597  [kernel]       [k] account_event
+     1.19%         40078  [kernel]       [k] rb_insert_color
+     1.17%         39466  [kernel]       [k] put_prev_entity
+     1.09%         36762  [kernel]       [k] calc_timer_values
+     1.09%         36762  [kernel]       [k] kfree
+     1.09%         36762  [kernel]       [k] pids_can_fork
+     1.04%         35068  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.03%         34832  [kernel]       [k] kmem_cache_alloc_node_trace
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    14.91%        440754  [kernel]       [k] psi_group_change
+    11.73%        346808  [kernel]       [k] perf_event_alloc
+    11.18%        330533  [kernel]       [k] __srcu_read_lock
+    11.18%        330533  [kernel]       [k] __x64_sys_futex
+    11.18%        330533  [kernel]       [k] intel_cpuc_prepare
+    11.18%        330533  [kernel]       [k] mutex_unlock
+     2.39%         70764  [kernel]       [k] kmem_cache_alloc_trace
+     2.04%         60313  [kernel]       [k] __update_load_avg_se
+     1.77%         52236  [kernel]       [k] event_sched_in
+     1.56%         46007  [kernel]       [k] update_load_avg
+     1.51%         44597  [kernel]       [k] plist_add
+     1.36%         40078  [kernel]       [k] perf_event_update_time
+     1.32%         39022  [kernel]       [k] account_event
+     1.19%         35068  [kernel]       [k] rb_insert_color
+     1.17%         34532  [kernel]       [k] put_prev_entity
+     1.09%         32166  [kernel]       [k] calc_timer_values
+     1.09%         32166  [kernel]       [k] kfree
+     1.09%         32166  [kernel]       [k] pids_can_fork
+     1.04%         30684  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.03%         30478  [kernel]       [k] kmem_cache_alloc_node_trace
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    18.63%        763412  [kernel]       [k] psi_group_change
+     9.22%        377753  [kernel]       [k] _raw_spin_lock
+     9.22%        377753  [kernel]       [k] perf_event__id_header_size
+     9.22%        377753  [kernel]       [k] update_sg_wakeup_stats
+     7.41%        303457  [kernel]       [k] perf_event_alloc
+     7.06%        289216  [kernel]       [k] __srcu_read_lock
+     7.06%        289216  [kernel]       [k] __x64_sys_futex
+     7.06%        289216  [kernel]       [k] intel_cpuc_prepare
+     7.06%        289216  [kernel]       [k] mutex_unlock
+     1.51%         61918  [kernel]       [k] kmem_cache_alloc_trace
+     1.29%         52773  [kernel]       [k] __update_load_avg_se
+     1.12%         45706  [kernel]       [k] event_sched_in
+     0.98%         40256  [kernel]       [k] update_load_avg
+     0.95%         39022  [kernel]       [k] plist_add
+     0.86%         35068  [kernel]       [k] perf_event_update_time
+     0.83%         34144  [kernel]       [k] account_event
+     0.75%         30684  [kernel]       [k] rb_insert_color
+     0.74%         30215  [kernel]       [k] put_prev_entity
+     0.69%         28145  [kernel]       [k] calc_timer_values
+     0.69%         28145  [kernel]       [k] kfree
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    13.33%        780132  [kernel]       [k] kfree
+    12.10%        708286  [kernel]       [k] update_sg_wakeup_stats
+    11.42%        667985  [kernel]       [k] psi_group_change
+     6.75%        395262  [kernel]       [k] perf_event_update_userpage
+     6.46%        377753  [kernel]       [k] merge_sched_in
+     6.46%        377753  [kernel]       [k] perf_event_groups_first
+     5.65%        330533  [kernel]       [k] _raw_spin_lock
+     5.65%        330533  [kernel]       [k] perf_event__id_header_size
+     4.54%        265524  [kernel]       [k] perf_event_alloc
+     4.32%        253064  [kernel]       [k] __srcu_read_lock
+     4.32%        253064  [kernel]       [k] __x64_sys_futex
+     4.32%        253064  [kernel]       [k] intel_cpuc_prepare
+     4.32%        253064  [kernel]       [k] mutex_unlock
+     0.93%         54178  [kernel]       [k] kmem_cache_alloc_trace
+     0.79%         46176  [kernel]       [k] __update_load_avg_se
+     0.68%         39992  [kernel]       [k] event_sched_in
+     0.60%         35224  [kernel]       [k] update_load_avg
+     0.58%         34144  [kernel]       [k] plist_add
+     0.52%         30684  [kernel]       [k] perf_event_update_time
+     0.51%         29876  [kernel]       [k] account_event
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:57.1%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    15.99%       1060368  [kernel]       [k] kfree
+     9.35%        619750  [kernel]       [k] update_sg_wakeup_stats
+     8.81%        584486  [kernel]       [k] psi_group_change
+     5.70%        377753  [kernel]       [k] perf_event_context_sched_out
+     5.70%        377753  [kernel]       [k] rb_next
+     5.70%        377753  [kernel]       [k] try_to_wake_up
+     5.22%        345854  [kernel]       [k] perf_event_update_userpage
+     4.98%        330533  [kernel]       [k] merge_sched_in
+     4.98%        330533  [kernel]       [k] perf_event_groups_first
+     4.36%        289216  [kernel]       [k] _raw_spin_lock
+     4.36%        289216  [kernel]       [k] perf_event__id_header_size
+     3.50%        232333  [kernel]       [k] perf_event_alloc
+     3.34%        221431  [kernel]       [k] __srcu_read_lock
+     3.34%        221431  [kernel]       [k] __x64_sys_futex
+     3.34%        221431  [kernel]       [k] intel_cpuc_prepare
+     3.34%        221431  [kernel]       [k] mutex_unlock
+     0.71%         47405  [kernel]       [k] kmem_cache_alloc_trace
+     0.61%         40404  [kernel]       [k] __update_load_avg_se
+     0.53%         34993  [kernel]       [k] event_sched_in
+     0.46%         30821  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:71.4%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    12.06%        927822  [kernel]       [k] kfree
+    11.56%        889178  [kernel]       [k] psi_group_change
+     9.21%        708286  [kernel]       [k] rb_next
+     7.05%        542281  [kernel]       [k] update_sg_wakeup_stats
+     5.37%        413106  [kernel]       [k] __update_load_avg_se
+     5.02%        385782  [kernel]       [k] _raw_spin_lock_irqsave
+     4.91%        377753  [kernel]       [k] hash_futex
+     4.30%        330533  [kernel]       [k] perf_event_context_sched_out
+     4.30%        330533  [kernel]       [k] try_to_wake_up
+     3.93%        302622  [kernel]       [k] perf_event_update_userpage
+     3.76%        289216  [kernel]       [k] merge_sched_in
+     3.76%        289216  [kernel]       [k] perf_event_groups_first
+     3.29%        253064  [kernel]       [k] _raw_spin_lock
+     3.29%        253064  [kernel]       [k] perf_event__id_header_size
+     2.64%        203291  [kernel]       [k] perf_event_alloc
+     2.52%        193752  [kernel]       [k] __srcu_read_lock
+     2.52%        193752  [kernel]       [k] __x64_sys_futex
+     2.52%        193752  [kernel]       [k] intel_cpuc_prepare
+     2.52%        193752  [kernel]       [k] mutex_unlock
+     0.54%         41479  [kernel]       [k] kmem_cache_alloc_trace
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:71.4%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     9.21%        811844  [kernel]       [k] kfree
+     8.83%        778030  [kernel]       [k] psi_group_change
+     7.03%        619750  [kernel]       [k] rb_next
+     6.94%        611636  [kernel]       [k] __srcu_read_lock
+     5.38%        474495  [kernel]       [k] update_sg_wakeup_stats
+     5.13%        452365  [kernel]       [k] perf_pmu_nop_txn
+     5.02%        442103  [kernel]       [k] irqentry_exit_to_user_mode
+     4.29%        377753  [kernel]       [k] futex_wake
+     4.29%        377753  [kernel]       [k] memset_erms
+     4.10%        361467  [kernel]       [k] __update_load_avg_se
+     3.83%        337559  [kernel]       [k] _raw_spin_lock_irqsave
+     3.75%        330533  [kernel]       [k] hash_futex
+     3.28%        289216  [kernel]       [k] perf_event_context_sched_out
+     3.28%        289216  [kernel]       [k] try_to_wake_up
+     3.01%        264794  [kernel]       [k] perf_event_update_userpage
+     2.87%        253064  [kernel]       [k] merge_sched_in
+     2.87%        253064  [kernel]       [k] perf_event_groups_first
+     2.51%        221431  [kernel]       [k] _raw_spin_lock
+     2.51%        221431  [kernel]       [k] perf_event__id_header_size
+     2.02%        177879  [kernel]       [k] perf_event_alloc
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:33.3%  exact:  0.0% lost: 0/0 drop: 0/45 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     8.71%        710363  [kernel]       [k] kfree
+     8.35%        680776  [kernel]       [k] psi_group_change
+     7.33%        597747  [kernel]       [k] perf_event_alloc
+     6.65%        542281  [kernel]       [k] rb_next
+     6.56%        535181  [kernel]       [k] __srcu_read_lock
+     5.09%        415183  [kernel]       [k] update_sg_wakeup_stats
+     4.86%        395819  [kernel]       [k] perf_pmu_nop_txn
+     4.75%        386840  [kernel]       [k] irqentry_exit_to_user_mode
+     4.05%        330533  [kernel]       [k] futex_wake
+     4.05%        330533  [kernel]       [k] memset_erms
+     3.88%        316283  [kernel]       [k] __update_load_avg_se
+     3.62%        295364  [kernel]       [k] _raw_spin_lock_irqsave
+     3.55%        289216  [kernel]       [k] hash_futex
+     3.10%        253064  [kernel]       [k] perf_event_context_sched_out
+     3.10%        253064  [kernel]       [k] try_to_wake_up
+     2.84%        231694  [kernel]       [k] perf_event_update_userpage
+     2.72%        221431  [kernel]       [k] merge_sched_in
+     2.72%        221431  [kernel]       [k] perf_event_groups_first
+     2.38%        193752  [kernel]       [k] _raw_spin_lock
+     2.38%        193752  [kernel]       [k] perf_event__id_header_size
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/46 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     8.71%        621567  [kernel]       [k] kfree
+     8.35%        595679  [kernel]       [k] psi_group_change
+     7.33%        523028  [kernel]       [k] perf_event_alloc
+     6.65%        474495  [kernel]       [k] rb_next
+     6.56%        468283  [kernel]       [k] __srcu_read_lock
+     5.09%        363285  [kernel]       [k] update_sg_wakeup_stats
+     4.86%        346341  [kernel]       [k] perf_pmu_nop_txn
+     4.75%        338485  [kernel]       [k] irqentry_exit_to_user_mode
+     4.05%        289216  [kernel]       [k] futex_wake
+     4.05%        289216  [kernel]       [k] memset_erms
+     3.88%        276747  [kernel]       [k] __update_load_avg_se
+     3.62%        258443  [kernel]       [k] _raw_spin_lock_irqsave
+     3.55%        253064  [kernel]       [k] hash_futex
+     3.10%        221431  [kernel]       [k] perf_event_context_sched_out
+     3.10%        221431  [kernel]       [k] try_to_wake_up
+     2.84%        202732  [kernel]       [k] perf_event_update_userpage
+     2.72%        193752  [kernel]       [k] merge_sched_in
+     2.72%        193752  [kernel]       [k] perf_event_groups_first
+     2.38%        169533  [kernel]       [k] _raw_spin_lock
+     2.38%        169533  [kernel]       [k] perf_event__id_header_size
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/46 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     8.18%        543871  [kernel]       [k] kfree
+     7.84%        521219  [kernel]       [k] psi_group_change
+     6.88%        457649  [kernel]       [k] perf_event_alloc
+     6.24%        415183  [kernel]       [k] rb_next
+     6.16%        410046  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.16%        409747  [kernel]       [k] __srcu_read_lock
+     4.78%        317874  [kernel]       [k] update_sg_wakeup_stats
+     4.56%        303048  [kernel]       [k] perf_pmu_nop_txn
+     4.45%        296174  [kernel]       [k] irqentry_exit_to_user_mode
+     3.80%        253064  [kernel]       [k] futex_wake
+     3.80%        253064  [kernel]       [k] memset_erms
+     3.64%        242153  [kernel]       [k] __update_load_avg_se
+     3.40%        226137  [kernel]       [k] _raw_spin_lock_irqsave
+     3.33%        221431  [kernel]       [k] hash_futex
+     2.91%        193752  [kernel]       [k] perf_event_context_sched_out
+     2.91%        193752  [kernel]       [k] try_to_wake_up
+     2.67%        177390  [kernel]       [k] perf_event_update_userpage
+     2.55%        169533  [kernel]       [k] merge_sched_in
+     2.55%        169533  [kernel]       [k] perf_event_groups_first
+     2.23%        148341  [kernel]       [k] _raw_spin_lock
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/46 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     8.18%        475887  [kernel]       [k] kfree
+     7.84%        456066  [kernel]       [k] psi_group_change
+     6.88%        400442  [kernel]       [k] perf_event_alloc
+     6.24%        363285  [kernel]       [k] rb_next
+     6.16%        358790  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.16%        358528  [kernel]       [k] __srcu_read_lock
+     4.78%        278139  [kernel]       [k] update_sg_wakeup_stats
+     4.56%        265167  [kernel]       [k] perf_pmu_nop_txn
+     4.45%        259152  [kernel]       [k] irqentry_exit_to_user_mode
+     3.80%        221431  [kernel]       [k] futex_wake
+     3.80%        221431  [kernel]       [k] memset_erms
+     3.64%        211883  [kernel]       [k] __update_load_avg_se
+     3.40%        197869  [kernel]       [k] _raw_spin_lock_irqsave
+     3.33%        193752  [kernel]       [k] hash_futex
+     2.91%        169533  [kernel]       [k] perf_event_context_sched_out
+     2.91%        169533  [kernel]       [k] try_to_wake_up
+     2.67%        155216  [kernel]       [k] perf_event_update_userpage
+     2.55%        148341  [kernel]       [k] merge_sched_in
+     2.55%        148341  [kernel]       [k] perf_event_groups_first
+     2.23%        129798  [kernel]       [k] _raw_spin_lock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/47 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     8.18%        416401  [kernel]       [k] kfree
+     7.84%        399057  [kernel]       [k] psi_group_change
+     6.88%        350386  [kernel]       [k] perf_event_alloc
+     6.24%        317874  [kernel]       [k] rb_next
+     6.16%        313941  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.16%        313712  [kernel]       [k] __srcu_read_lock
+     4.78%        243371  [kernel]       [k] update_sg_wakeup_stats
+     4.56%        232021  [kernel]       [k] perf_pmu_nop_txn
+     4.45%        226758  [kernel]       [k] irqentry_exit_to_user_mode
+     3.80%        193752  [kernel]       [k] futex_wake
+     3.80%        193752  [kernel]       [k] memset_erms
+     3.64%        185397  [kernel]       [k] __update_load_avg_se
+     3.40%        173135  [kernel]       [k] _raw_spin_lock_irqsave
+     3.33%        169533  [kernel]       [k] hash_futex
+     2.91%        148341  [kernel]       [k] perf_event_context_sched_out
+     2.91%        148341  [kernel]       [k] try_to_wake_up
+     2.67%        135814  [kernel]       [k] perf_event_update_userpage
+     2.55%        129798  [kernel]       [k] merge_sched_in
+     2.55%        129798  [kernel]       [k] perf_event_groups_first
+     2.23%        113573  [kernel]       [k] _raw_spin_lock
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/47 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    14.07%        726633  [kernel]       [k] psi_group_change
+    13.47%        695498  [kernel]       [k] kfree
+     5.94%        306587  [kernel]       [k] perf_event_alloc
+     5.39%        278139  [kernel]       [k] rb_next
+     5.32%        274698  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.32%        274498  [kernel]       [k] __srcu_read_lock
+     4.12%        212949  [kernel]       [k] update_sg_wakeup_stats
+     3.93%        203018  [kernel]       [k] perf_pmu_nop_txn
+     3.84%        198413  [kernel]       [k] irqentry_exit_to_user_mode
+     3.28%        169533  [kernel]       [k] futex_wake
+     3.28%        169533  [kernel]       [k] memset_erms
+     3.14%        162222  [kernel]       [k] __update_load_avg_se
+     2.93%        151493  [kernel]       [k] _raw_spin_lock_irqsave
+     2.87%        148341  [kernel]       [k] hash_futex
+     2.51%        129798  [kernel]       [k] perf_event_context_sched_out
+     2.51%        129798  [kernel]       [k] try_to_wake_up
+     2.30%        118837  [kernel]       [k] perf_event_update_userpage
+     2.20%        113573  [kernel]       [k] merge_sched_in
+     2.20%        113573  [kernel]       [k] perf_event_groups_first
+     1.92%         99376  [kernel]       [k] _raw_spin_lock
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/47 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    13.11%        635803  [kernel]       [k] psi_group_change
+    12.55%        608560  [kernel]       [k] kfree
+     6.83%        331148  [kernel]       [k] ___perf_sw_event
+     5.53%        268263  [kernel]       [k] perf_event_alloc
+     5.02%        243371  [kernel]       [k] rb_next
+     4.96%        240360  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.95%        240185  [kernel]       [k] __srcu_read_lock
+     3.84%        186330  [kernel]       [k] update_sg_wakeup_stats
+     3.66%        177640  [kernel]       [k] perf_pmu_nop_txn
+     3.58%        173611  [kernel]       [k] irqentry_exit_to_user_mode
+     3.06%        148341  [kernel]       [k] futex_wake
+     3.06%        148341  [kernel]       [k] memset_erms
+     2.93%        141944  [kernel]       [k] __update_load_avg_se
+     2.73%        132556  [kernel]       [k] _raw_spin_lock_irqsave
+     2.68%        129798  [kernel]       [k] hash_futex
+     2.34%        113573  [kernel]       [k] perf_event_context_sched_out
+     2.34%        113573  [kernel]       [k] try_to_wake_up
+     2.14%        103982  [kernel]       [k] perf_event_update_userpage
+     2.05%         99376  [kernel]       [k] merge_sched_in
+     2.05%         99376  [kernel]       [k] perf_event_groups_first
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/47 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    12.16%        556327  [kernel]       [k] psi_group_change
+    11.64%        532490  [kernel]       [k] kfree
+     7.24%        331148  [kernel]       [k] perf_pmu_nop_int
+     6.33%        289754  [kernel]       [k] ___perf_sw_event
+     5.13%        234730  [kernel]       [k] perf_event_alloc
+     4.65%        212949  [kernel]       [k] rb_next
+     4.60%        210315  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.59%        210161  [kernel]       [k] __srcu_read_lock
+     3.56%        163038  [kernel]       [k] update_sg_wakeup_stats
+     3.40%        155435  [kernel]       [k] perf_pmu_nop_txn
+     3.32%        151909  [kernel]       [k] irqentry_exit_to_user_mode
+     2.84%        129798  [kernel]       [k] futex_wake
+     2.84%        129798  [kernel]       [k] memset_erms
+     2.71%        124201  [kernel]       [k] __update_load_avg_se
+     2.54%        115986  [kernel]       [k] _raw_spin_lock_irqsave
+     2.48%        113573  [kernel]       [k] hash_futex
+     2.17%         99376  [kernel]       [k] perf_event_context_sched_out
+     2.17%         99376  [kernel]       [k] try_to_wake_up
+     1.99%         90984  [kernel]       [k] perf_event_update_userpage
+     1.90%         86954  [kernel]       [k] merge_sched_in
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/47 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+    10.43%        486786  [kernel]       [k] psi_group_change
+     9.99%        465928  [kernel]       [k] kfree
+     8.52%        397721  [kernel]       [k] _raw_spin_lock
+     7.10%        331148  [kernel]       [k] x86_pmu_hw_config
+     6.21%        289754  [kernel]       [k] perf_pmu_nop_int
+     5.43%        253534  [kernel]       [k] ___perf_sw_event
+     4.40%        205388  [kernel]       [k] perf_event_alloc
+     3.99%        186330  [kernel]       [k] rb_next
+     3.94%        184025  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.94%        183890  [kernel]       [k] __srcu_read_lock
+     3.06%        142658  [kernel]       [k] update_sg_wakeup_stats
+     2.92%        136005  [kernel]       [k] perf_pmu_nop_txn
+     2.85%        132920  [kernel]       [k] irqentry_exit_to_user_mode
+     2.43%        113573  [kernel]       [k] futex_wake
+     2.43%        113573  [kernel]       [k] memset_erms
+     2.33%        108675  [kernel]       [k] __update_load_avg_se
+     2.18%        101487  [kernel]       [k] _raw_spin_lock_irqsave
+     2.13%         99376  [kernel]       [k] hash_futex
+     1.86%         86954  [kernel]       [k] perf_event_context_sched_out
+     1.86%         86954  [kernel]       [k] try_to_wake_up
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/47 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     9.71%        425937  [kernel]       [k] psi_group_change
+     9.30%        407687  [kernel]       [k] kfree
+     7.93%        348005  [kernel]       [k] _raw_spin_lock
+     6.93%        303729  [kernel]       [k] copy_process
+     6.61%        289754  [kernel]       [k] x86_pmu_hw_config
+     5.78%        253534  [kernel]       [k] perf_pmu_nop_int
+     5.06%        221842  [kernel]       [k] ___perf_sw_event
+     4.10%        179714  [kernel]       [k] perf_event_alloc
+     3.72%        163038  [kernel]       [k] rb_next
+     3.67%        161021  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.67%        160903  [kernel]       [k] __srcu_read_lock
+     2.85%        124825  [kernel]       [k] update_sg_wakeup_stats
+     2.71%        119004  [kernel]       [k] perf_pmu_nop_txn
+     2.65%        116305  [kernel]       [k] irqentry_exit_to_user_mode
+     2.27%         99376  [kernel]       [k] futex_wake
+     2.27%         99376  [kernel]       [k] memset_erms
+     2.17%         95090  [kernel]       [k] __update_load_avg_se
+     2.02%         88801  [kernel]       [k] _raw_spin_lock_irqsave
+     1.98%         86954  [kernel]       [k] hash_futex
+     1.73%         76084  [kernel]       [k] perf_event_context_sched_out
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/48 [4000Hz instructions],  (target_pid: 2425141)
+-------------------------------------------------------------------------------
+
+     9.71%        372694  [kernel]       [k] psi_group_change
+     9.30%        356726  [kernel]       [k] kfree
+     7.93%        304504  [kernel]       [k] _raw_spin_lock
+     6.93%        265762  [kernel]       [k] copy_process
+     6.61%        253534  [kernel]       [k] x86_pmu_hw_config
+     5.78%        221842  [kernel]       [k] perf_pmu_nop_int
+     5.06%        194111  [kernel]       [k] ___perf_sw_event
+     4.10%        157249  [kernel]       [k] perf_event_alloc
+     3.72%        142658  [kernel]       [k] rb_next
+     3.67%        140893  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.67%        140790  [kernel]       [k] __srcu_read_lock
+     2.85%        109221  [kernel]       [k] update_sg_wakeup_stats
+     2.71%        104128  [kernel]       [k] perf_pmu_nop_txn
+     2.65%        101766  [kernel]       [k] irqentry_exit_to_user_mode
+     2.27%         86954  [kernel]       [k] futex_wake
+     2.27%         86954  [kernel]       [k] memset_erms
+     2.17%         83203  [kernel]       [k] __update_load_avg_se
+     2.02%         77700  [kernel]       [k] _raw_spin_lock_irqsave
+     1.98%         76084  [kernel]       [k] hash_futex
+     1.73%         66573  [kernel]       [k] perf_event_context_sched_out

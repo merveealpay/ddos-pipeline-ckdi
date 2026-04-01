@@ -1,0 +1,196 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      30 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 7/7 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    77.39%            89  [kernel]       [k] native_write_msr
+     9.57%            11  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     8.70%            10  [kernel]       [k] __mutex_init
+     2.61%             3  [kernel]       [k] perf_try_init_event
+     1.74%             2  [kernel]       [k] rb_next
+[H[2J
+   PerfTop:      31 irqs/sec  kernel:74.2%  exact:  0.0% lost: 0/0 drop: 0/7 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    16.09%        552631  [kernel]       [k] perf_event_alloc
+     9.99%        342967  [kernel]       [k] rb_next
+     8.95%        307402  [kernel]       [k] alloc_pid
+     8.13%        279220  [kernel]       [k] __x64_sys_futex
+     8.13%        279220  [kernel]       [k] idr_preload
+     8.13%        279220  [kernel]       [k] kmem_cache_alloc_trace
+     8.13%        279220  [kernel]       [k] memset_erms
+     7.43%        255076  [kernel]       [k] perf_event_update_userpage
+     7.18%        246666  [kernel]       [k] perf_iterate_ctx
+     6.29%        216070  [kernel]       [k] perf_event__header_size
+     6.29%        216070  [kernel]       [k] sched_clock_cpu
+     2.77%         95074  [kernel]       [k] kmalloc_slab
+     1.28%         43887  [kernel]       [k] kfree
+     1.21%         41421  [kernel]       [k] inherit_event.constprop.0
+     0.00%           132  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%            88  [kernel]       [k] native_write_msr
+     0.00%             8  [kernel]       [k] __mutex_init
+     0.00%             2  [kernel]       [k] perf_try_init_event
+[H[2J
+   PerfTop:      19 irqs/sec  kernel: 5.3%  exact:  0.0% lost: 0/0 drop: 0/7 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    13.94%        483552  [kernel]       [k] perf_event_alloc
+    13.39%        464497  [kernel]       [k] aa_unix_file_perm
+     8.65%        300096  [kernel]       [k] rb_next
+     7.75%        268976  [kernel]       [k] alloc_pid
+     7.04%        244317  [kernel]       [k] __x64_sys_futex
+     7.04%        244317  [kernel]       [k] idr_preload
+     7.04%        244317  [kernel]       [k] kmem_cache_alloc_trace
+     7.04%        244317  [kernel]       [k] memset_erms
+     6.43%        223191  [kernel]       [k] perf_event_update_userpage
+     6.22%        215832  [kernel]       [k] perf_iterate_ctx
+     5.45%        189061  [kernel]       [k] perf_event__header_size
+     5.45%        189061  [kernel]       [k] sched_clock_cpu
+     2.40%         83189  [kernel]       [k] kmalloc_slab
+     1.11%         38401  [kernel]       [k] kfree
+     1.04%         36243  [kernel]       [k] inherit_event.constprop.0
+     0.00%           115  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%            77  [kernel]       [k] native_write_msr
+     0.00%             7  [kernel]       [k] __mutex_init
+     0.00%             1  [kernel]       [k] perf_try_init_event
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/7 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    13.94%        423108  [kernel]       [k] perf_event_alloc
+    13.39%        406434  [kernel]       [k] aa_unix_file_perm
+     8.65%        262584  [kernel]       [k] rb_next
+     7.75%        235354  [kernel]       [k] alloc_pid
+     7.04%        213777  [kernel]       [k] __x64_sys_futex
+     7.04%        213777  [kernel]       [k] idr_preload
+     7.04%        213777  [kernel]       [k] kmem_cache_alloc_trace
+     7.04%        213777  [kernel]       [k] memset_erms
+     6.43%        195292  [kernel]       [k] perf_event_update_userpage
+     6.22%        188853  [kernel]       [k] perf_iterate_ctx
+     5.45%        165428  [kernel]       [k] perf_event__header_size
+     5.45%        165428  [kernel]       [k] sched_clock_cpu
+     2.40%         72790  [kernel]       [k] kmalloc_slab
+     1.11%         33600  [kernel]       [k] kfree
+     1.04%         31712  [kernel]       [k] inherit_event.constprop.0
+     0.00%           100  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%            67  [kernel]       [k] native_write_msr
+     0.00%             6  [kernel]       [k] __mutex_init
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/7 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    13.94%        370219  [kernel]       [k] perf_event_alloc
+    13.39%        355629  [kernel]       [k] aa_unix_file_perm
+     8.65%        229761  [kernel]       [k] rb_next
+     7.75%        205934  [kernel]       [k] alloc_pid
+     7.04%        187054  [kernel]       [k] __x64_sys_futex
+     7.04%        187054  [kernel]       [k] idr_preload
+     7.04%        187054  [kernel]       [k] kmem_cache_alloc_trace
+     7.04%        187054  [kernel]       [k] memset_erms
+     6.43%        170880  [kernel]       [k] perf_event_update_userpage
+     6.22%        165246  [kernel]       [k] perf_iterate_ctx
+     5.45%        144749  [kernel]       [k] perf_event__header_size
+     5.45%        144749  [kernel]       [k] sched_clock_cpu
+     2.40%         63691  [kernel]       [k] kmalloc_slab
+     1.11%         29400  [kernel]       [k] kfree
+     1.04%         27748  [kernel]       [k] inherit_event.constprop.0
+     0.00%            87  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%            58  [kernel]       [k] native_write_msr
+     0.00%             5  [kernel]       [k] __mutex_init
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/7 [4000Hz cycles],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    13.94%        323941  [kernel]       [k] perf_event_alloc
+    13.39%        311175  [kernel]       [k] aa_unix_file_perm
+     8.65%        201040  [kernel]       [k] rb_next
+     7.75%        180192  [kernel]       [k] alloc_pid
+     7.04%        163672  [kernel]       [k] __x64_sys_futex
+     7.04%        163672  [kernel]       [k] idr_preload
+     7.04%        163672  [kernel]       [k] kmem_cache_alloc_trace
+     7.04%        163672  [kernel]       [k] memset_erms
+     6.43%        149520  [kernel]       [k] perf_event_update_userpage
+     6.22%        144590  [kernel]       [k] perf_iterate_ctx
+     5.45%        126655  [kernel]       [k] perf_event__header_size
+     5.45%        126655  [kernel]       [k] sched_clock_cpu
+     2.40%         55729  [kernel]       [k] kmalloc_slab
+     1.11%         25725  [kernel]       [k] kfree
+     1.04%         24279  [kernel]       [k] inherit_event.constprop.0
+     0.00%            76  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%            50  [kernel]       [k] native_write_msr
+     0.00%             4  [kernel]       [k] __mutex_init

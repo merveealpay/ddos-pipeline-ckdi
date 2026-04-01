@@ -1,0 +1,617 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 3/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:      16 irqs/sec  kernel:93.8%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    43.57%        139105  [kernel]       [k] inherit_task_group.isra.0
+    43.57%        139105  [kernel]       [k] psi_group_change
+    12.02%         38395  [kernel]       [k] __srcu_read_lock
+     0.84%          2679  [kernel]       [k] task_active_pid_ns
+     0.00%            14  [kernel]       [k] x86_pmu_enable
+     0.00%             2  [kernel]       [k] __perf_event_task_sched_in
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    33.24%        139105  [kernel]       [k] intel_put_event_constraints
+    29.08%        121716  [kernel]       [k] inherit_task_group.isra.0
+    29.08%        121716  [kernel]       [k] psi_group_change
+     8.03%         33595  [kernel]       [k] __srcu_read_lock
+     0.56%          2344  [kernel]       [k] task_active_pid_ns
+     0.00%            12  [kernel]       [k] x86_pmu_enable
+     0.00%             1  [kernel]       [k] __perf_event_task_sched_in
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    38.11%        245606  [kernel]       [k] inherit_task_group.isra.0
+    21.59%        139105  [kernel]       [k] update_cfs_group
+    18.89%        121716  [kernel]       [k] intel_put_event_constraints
+    16.53%        106501  [kernel]       [k] psi_group_change
+     4.56%         29395  [kernel]       [k] __srcu_read_lock
+     0.32%          2051  [kernel]       [k] task_active_pid_ns
+     0.00%            10  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    42.04%        354010  [kernel]       [k] inherit_task_group.isra.0
+    16.52%        139105  [kernel]       [k] futex_wake
+    14.45%        121716  [kernel]       [k] update_cfs_group
+    12.65%        106501  [kernel]       [k] intel_put_event_constraints
+    11.07%         93188  [kernel]       [k] psi_group_change
+     3.05%         25720  [kernel]       [k] __srcu_read_lock
+     0.21%          1794  [kernel]       [k] task_active_pid_ns
+     0.00%             8  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       2 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    42.04%        309758  [kernel]       [k] inherit_task_group.isra.0
+    16.52%        121716  [kernel]       [k] futex_wake
+    14.45%        106501  [kernel]       [k] update_cfs_group
+    12.65%         93188  [kernel]       [k] intel_put_event_constraints
+    11.07%         81539  [kernel]       [k] psi_group_change
+     3.05%         22505  [kernel]       [k] __srcu_read_lock
+     0.21%          1569  [kernel]       [k] task_active_pid_ns
+     0.00%             7  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    34.96%        271038  [kernel]       [k] inherit_task_group.isra.0
+    16.84%        130545  [kernel]       [k] get_obj_cgroup_from_current
+    13.74%        106501  [kernel]       [k] futex_wake
+    12.02%         93188  [kernel]       [k] update_cfs_group
+    10.52%         81539  [kernel]       [k] intel_put_event_constraints
+     9.20%         71346  [kernel]       [k] psi_group_change
+     2.54%         19691  [kernel]       [k] __srcu_read_lock
+     0.18%          1372  [kernel]       [k] task_active_pid_ns
+     0.00%             6  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    29.79%        237158  [kernel]       [k] inherit_task_group.isra.0
+    14.80%        117828  [kernel]       [k] _raw_spin_lock
+    14.35%        114226  [kernel]       [k] get_obj_cgroup_from_current
+    11.70%         93188  [kernel]       [k] futex_wake
+    10.24%         81539  [kernel]       [k] update_cfs_group
+     8.96%         71346  [kernel]       [k] intel_put_event_constraints
+     7.84%         62427  [kernel]       [k] psi_group_change
+     2.16%         17229  [kernel]       [k] __srcu_read_lock
+     0.15%          1200  [kernel]       [k] task_active_pid_ns
+     0.00%             5  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.48%        207513  [kernel]       [k] inherit_task_group.isra.0
+    14.47%        117828  [kernel]       [k] __srcu_read_unlock
+    12.66%        103099  [kernel]       [k] _raw_spin_lock
+    12.27%         99947  [kernel]       [k] get_obj_cgroup_from_current
+    10.01%         81539  [kernel]       [k] futex_wake
+     8.76%         71346  [kernel]       [k] update_cfs_group
+     7.66%         62427  [kernel]       [k] intel_put_event_constraints
+     6.71%         54623  [kernel]       [k] psi_group_change
+     1.85%         15075  [kernel]       [k] __srcu_read_lock
+     0.13%          1050  [kernel]       [k] task_active_pid_ns
+     0.00%             4  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    21.86%        181573  [kernel]       [k] inherit_task_group.isra.0
+    14.19%        117828  [kernel]       [k] iterate_groups
+    12.41%        103099  [kernel]       [k] __srcu_read_unlock
+    10.86%         90211  [kernel]       [k] _raw_spin_lock
+    10.53%         87453  [kernel]       [k] get_obj_cgroup_from_current
+     8.59%         71346  [kernel]       [k] futex_wake
+     7.52%         62427  [kernel]       [k] update_cfs_group
+     6.58%         54623  [kernel]       [k] intel_put_event_constraints
+     5.76%         47795  [kernel]       [k] psi_group_change
+     1.59%         13190  [kernel]       [k] __srcu_read_lock
+     0.11%           918  [kernel]       [k] task_active_pid_ns
+     0.00%             3  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    16.51%        158876  [kernel]       [k] inherit_task_group.isra.0
+    12.24%        117828  [kernel]       [k] radix_tree_tag_get
+    12.24%        117828  [kernel]       [k] x86_setup_perfctr
+    10.71%        103099  [kernel]       [k] iterate_groups
+     9.37%         90211  [kernel]       [k] __srcu_read_unlock
+     8.20%         78934  [kernel]       [k] _raw_spin_lock
+     7.95%         76521  [kernel]       [k] get_obj_cgroup_from_current
+     6.49%         62427  [kernel]       [k] futex_wake
+     5.68%         54623  [kernel]       [k] update_cfs_group
+     4.97%         47795  [kernel]       [k] intel_put_event_constraints
+     4.35%         41820  [kernel]       [k] psi_group_change
+     1.20%         11541  [kernel]       [k] __srcu_read_lock
+     0.08%           803  [kernel]       [k] task_active_pid_ns
+     0.00%             2  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    16.51%        139016  [kernel]       [k] inherit_task_group.isra.0
+    12.24%        103099  [kernel]       [k] radix_tree_tag_get
+    12.24%        103099  [kernel]       [k] x86_setup_perfctr
+    10.71%         90211  [kernel]       [k] iterate_groups
+     9.37%         78934  [kernel]       [k] __srcu_read_unlock
+     8.20%         69067  [kernel]       [k] _raw_spin_lock
+     7.95%         66955  [kernel]       [k] get_obj_cgroup_from_current
+     6.49%         54623  [kernel]       [k] futex_wake
+     5.68%         47795  [kernel]       [k] update_cfs_group
+     4.97%         41820  [kernel]       [k] intel_put_event_constraints
+     4.35%         36592  [kernel]       [k] psi_group_change
+     1.20%         10098  [kernel]       [k] __srcu_read_lock
+     0.08%           702  [kernel]       [k] task_active_pid_ns
+     0.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    22.90%        218874  [kernel]       [k] merge_sched_in
+    12.73%        121639  [kernel]       [k] inherit_task_group.isra.0
+     9.44%         90211  [kernel]       [k] radix_tree_tag_get
+     9.44%         90211  [kernel]       [k] x86_setup_perfctr
+     8.26%         78934  [kernel]       [k] iterate_groups
+     7.23%         69067  [kernel]       [k] __srcu_read_unlock
+     6.32%         60433  [kernel]       [k] _raw_spin_lock
+     6.13%         58585  [kernel]       [k] get_obj_cgroup_from_current
+     5.00%         47795  [kernel]       [k] futex_wake
+     4.38%         41820  [kernel]       [k] update_cfs_group
+     3.83%         36592  [kernel]       [k] intel_put_event_constraints
+     3.35%         32018  [kernel]       [k] psi_group_change
+     0.92%          8835  [kernel]       [k] __srcu_read_lock
+     0.06%           614  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:33.3%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%        191514  [kernel]       [k] merge_sched_in
+    11.57%        109437  [kernel]       [k] ctx_sched_in
+    11.26%        106434  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         78934  [kernel]       [k] radix_tree_tag_get
+     8.35%         78934  [kernel]       [k] x86_setup_perfctr
+     7.30%         69067  [kernel]       [k] iterate_groups
+     6.39%         60433  [kernel]       [k] __srcu_read_unlock
+     5.59%         52878  [kernel]       [k] _raw_spin_lock
+     5.42%         51261  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         41820  [kernel]       [k] futex_wake
+     3.87%         36592  [kernel]       [k] update_cfs_group
+     3.39%         32018  [kernel]       [k] intel_put_event_constraints
+     2.96%         28015  [kernel]       [k] psi_group_change
+     0.82%          7730  [kernel]       [k] __srcu_read_lock
+     0.06%           537  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%        167574  [kernel]       [k] merge_sched_in
+    11.57%         95757  [kernel]       [k] ctx_sched_in
+    11.26%         93129  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         69067  [kernel]       [k] radix_tree_tag_get
+     8.35%         69067  [kernel]       [k] x86_setup_perfctr
+     7.30%         60433  [kernel]       [k] iterate_groups
+     6.39%         52878  [kernel]       [k] __srcu_read_unlock
+     5.59%         46268  [kernel]       [k] _raw_spin_lock
+     5.42%         44853  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         36592  [kernel]       [k] futex_wake
+     3.87%         32018  [kernel]       [k] update_cfs_group
+     3.39%         28015  [kernel]       [k] intel_put_event_constraints
+     2.96%         24513  [kernel]       [k] psi_group_change
+     0.82%          6763  [kernel]       [k] __srcu_read_lock
+     0.06%           469  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%        146627  [kernel]       [k] merge_sched_in
+    11.57%         83787  [kernel]       [k] ctx_sched_in
+    11.26%         81487  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         60433  [kernel]       [k] radix_tree_tag_get
+     8.35%         60433  [kernel]       [k] x86_setup_perfctr
+     7.30%         52878  [kernel]       [k] iterate_groups
+     6.39%         46268  [kernel]       [k] __srcu_read_unlock
+     5.59%         40484  [kernel]       [k] _raw_spin_lock
+     5.42%         39246  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         32018  [kernel]       [k] futex_wake
+     3.87%         28015  [kernel]       [k] update_cfs_group
+     3.39%         24513  [kernel]       [k] intel_put_event_constraints
+     2.96%         21448  [kernel]       [k] psi_group_change
+     0.82%          5917  [kernel]       [k] __srcu_read_lock
+     0.06%           410  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%        128298  [kernel]       [k] merge_sched_in
+    11.57%         73313  [kernel]       [k] ctx_sched_in
+    11.26%         71301  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         52878  [kernel]       [k] radix_tree_tag_get
+     8.35%         52878  [kernel]       [k] x86_setup_perfctr
+     7.30%         46268  [kernel]       [k] iterate_groups
+     6.39%         40484  [kernel]       [k] __srcu_read_unlock
+     5.59%         35423  [kernel]       [k] _raw_spin_lock
+     5.42%         34340  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         28015  [kernel]       [k] futex_wake
+     3.87%         24513  [kernel]       [k] update_cfs_group
+     3.39%         21448  [kernel]       [k] intel_put_event_constraints
+     2.96%         18767  [kernel]       [k] psi_group_change
+     0.82%          5177  [kernel]       [k] __srcu_read_lock
+     0.06%           358  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%        112260  [kernel]       [k] merge_sched_in
+    11.57%         64148  [kernel]       [k] ctx_sched_in
+    11.26%         62388  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         46268  [kernel]       [k] radix_tree_tag_get
+     8.35%         46268  [kernel]       [k] x86_setup_perfctr
+     7.30%         40484  [kernel]       [k] iterate_groups
+     6.39%         35423  [kernel]       [k] __srcu_read_unlock
+     5.59%         30995  [kernel]       [k] _raw_spin_lock
+     5.42%         30047  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         24513  [kernel]       [k] futex_wake
+     3.87%         21448  [kernel]       [k] update_cfs_group
+     3.39%         18767  [kernel]       [k] intel_put_event_constraints
+     2.96%         16421  [kernel]       [k] psi_group_change
+     0.82%          4529  [kernel]       [k] __srcu_read_lock
+     0.06%           313  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%         98227  [kernel]       [k] merge_sched_in
+    11.57%         56129  [kernel]       [k] ctx_sched_in
+    11.26%         54589  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         40484  [kernel]       [k] radix_tree_tag_get
+     8.35%         40484  [kernel]       [k] x86_setup_perfctr
+     7.30%         35423  [kernel]       [k] iterate_groups
+     6.39%         30995  [kernel]       [k] __srcu_read_unlock
+     5.59%         27120  [kernel]       [k] _raw_spin_lock
+     5.42%         26291  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         21448  [kernel]       [k] futex_wake
+     3.87%         18767  [kernel]       [k] update_cfs_group
+     3.39%         16421  [kernel]       [k] intel_put_event_constraints
+     2.96%         14368  [kernel]       [k] psi_group_change
+     0.82%          3962  [kernel]       [k] __srcu_read_lock
+     0.06%           273  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    20.25%         85948  [kernel]       [k] merge_sched_in
+    11.57%         49112  [kernel]       [k] ctx_sched_in
+    11.26%         47765  [kernel]       [k] inherit_task_group.isra.0
+     8.35%         35423  [kernel]       [k] radix_tree_tag_get
+     8.35%         35423  [kernel]       [k] x86_setup_perfctr
+     7.30%         30995  [kernel]       [k] iterate_groups
+     6.39%         27120  [kernel]       [k] __srcu_read_unlock
+     5.59%         23730  [kernel]       [k] _raw_spin_lock
+     5.42%         23004  [kernel]       [k] get_obj_cgroup_from_current
+     4.42%         18767  [kernel]       [k] futex_wake
+     3.87%         16421  [kernel]       [k] update_cfs_group
+     3.39%         14368  [kernel]       [k] intel_put_event_constraints
+     2.96%         12572  [kernel]       [k] psi_group_change
+     0.82%          3466  [kernel]       [k] __srcu_read_lock
+     0.06%           238  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%        120437  [kernel]       [k] psi_group_change
+    15.64%         75204  [kernel]       [k] merge_sched_in
+     8.94%         42973  [kernel]       [k] ctx_sched_in
+     8.69%         41794  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         30995  [kernel]       [k] radix_tree_tag_get
+     6.45%         30995  [kernel]       [k] x86_setup_perfctr
+     5.64%         27120  [kernel]       [k] iterate_groups
+     4.94%         23730  [kernel]       [k] __srcu_read_unlock
+     4.32%         20763  [kernel]       [k] _raw_spin_lock
+     4.19%         20128  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%         16421  [kernel]       [k] futex_wake
+     2.99%         14368  [kernel]       [k] update_cfs_group
+     2.62%         12572  [kernel]       [k] intel_put_event_constraints
+     0.63%          3032  [kernel]       [k] __srcu_read_lock
+     0.04%           208  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%        105382  [kernel]       [k] psi_group_change
+    15.64%         65803  [kernel]       [k] merge_sched_in
+     8.94%         37601  [kernel]       [k] ctx_sched_in
+     8.69%         36569  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         27120  [kernel]       [k] radix_tree_tag_get
+     6.45%         27120  [kernel]       [k] x86_setup_perfctr
+     5.64%         23730  [kernel]       [k] iterate_groups
+     4.94%         20763  [kernel]       [k] __srcu_read_unlock
+     4.32%         18167  [kernel]       [k] _raw_spin_lock
+     4.19%         17612  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%         14368  [kernel]       [k] futex_wake
+     2.99%         12572  [kernel]       [k] update_cfs_group
+     2.62%         11000  [kernel]       [k] intel_put_event_constraints
+     0.63%          2653  [kernel]       [k] __srcu_read_lock
+     0.04%           182  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%         92209  [kernel]       [k] psi_group_change
+    15.64%         57577  [kernel]       [k] merge_sched_in
+     8.94%         32900  [kernel]       [k] ctx_sched_in
+     8.69%         31997  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         23730  [kernel]       [k] radix_tree_tag_get
+     6.45%         23730  [kernel]       [k] x86_setup_perfctr
+     5.64%         20763  [kernel]       [k] iterate_groups
+     4.94%         18167  [kernel]       [k] __srcu_read_unlock
+     4.32%         15896  [kernel]       [k] _raw_spin_lock
+     4.19%         15410  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%         12572  [kernel]       [k] futex_wake
+     2.99%         11000  [kernel]       [k] update_cfs_group
+     2.62%          9625  [kernel]       [k] intel_put_event_constraints
+     0.63%          2321  [kernel]       [k] __srcu_read_lock
+     0.04%           159  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%         80682  [kernel]       [k] psi_group_change
+    15.64%         50379  [kernel]       [k] merge_sched_in
+     8.94%         28787  [kernel]       [k] ctx_sched_in
+     8.69%         27997  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         20763  [kernel]       [k] radix_tree_tag_get
+     6.45%         20763  [kernel]       [k] x86_setup_perfctr
+     5.64%         18167  [kernel]       [k] iterate_groups
+     4.94%         15896  [kernel]       [k] __srcu_read_unlock
+     4.32%         13909  [kernel]       [k] _raw_spin_lock
+     4.19%         13483  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%         11000  [kernel]       [k] futex_wake
+     2.99%          9625  [kernel]       [k] update_cfs_group
+     2.61%          8421  [kernel]       [k] intel_put_event_constraints
+     0.63%          2030  [kernel]       [k] __srcu_read_lock
+     0.04%           139  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/3 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%         70596  [kernel]       [k] psi_group_change
+    15.64%         44081  [kernel]       [k] merge_sched_in
+     8.94%         25188  [kernel]       [k] ctx_sched_in
+     8.69%         24497  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         18167  [kernel]       [k] radix_tree_tag_get
+     6.45%         18167  [kernel]       [k] x86_setup_perfctr
+     5.64%         15896  [kernel]       [k] iterate_groups
+     4.94%         13909  [kernel]       [k] __srcu_read_unlock
+     4.32%         12170  [kernel]       [k] _raw_spin_lock
+     4.19%         11797  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          9625  [kernel]       [k] futex_wake
+     2.99%          8421  [kernel]       [k] update_cfs_group
+     2.61%          7368  [kernel]       [k] intel_put_event_constraints
+     0.63%          1776  [kernel]       [k] __srcu_read_lock
+     0.04%           121  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       6 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%         61771  [kernel]       [k] psi_group_change
+    15.64%         38570  [kernel]       [k] merge_sched_in
+     8.94%         22039  [kernel]       [k] ctx_sched_in
+     8.69%         21434  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         15896  [kernel]       [k] radix_tree_tag_get
+     6.45%         15896  [kernel]       [k] x86_setup_perfctr
+     5.64%         13909  [kernel]       [k] iterate_groups
+     4.94%         12170  [kernel]       [k] __srcu_read_unlock
+     4.32%         10648  [kernel]       [k] _raw_spin_lock
+     4.19%         10322  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          8421  [kernel]       [k] futex_wake
+     2.99%          7368  [kernel]       [k] update_cfs_group
+     2.61%          6447  [kernel]       [k] intel_put_event_constraints
+     0.63%          1554  [kernel]       [k] __srcu_read_lock
+     0.04%           105  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%         54049  [kernel]       [k] psi_group_change
+    15.64%         33748  [kernel]       [k] merge_sched_in
+     8.94%         19284  [kernel]       [k] ctx_sched_in
+     8.69%         18754  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         13909  [kernel]       [k] radix_tree_tag_get
+     6.45%         13909  [kernel]       [k] x86_setup_perfctr
+     5.64%         12170  [kernel]       [k] iterate_groups
+     4.94%         10648  [kernel]       [k] __srcu_read_unlock
+     4.32%          9317  [kernel]       [k] _raw_spin_lock
+     4.19%          9031  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          7368  [kernel]       [k] futex_wake
+     2.99%          6447  [kernel]       [k] update_cfs_group
+     2.61%          5641  [kernel]       [k] intel_put_event_constraints
+     0.63%          1359  [kernel]       [k] __srcu_read_lock
+     0.04%            91  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.05%         47292  [kernel]       [k] psi_group_change
+    15.64%         29529  [kernel]       [k] merge_sched_in
+     8.94%         16873  [kernel]       [k] ctx_sched_in
+     8.69%         16409  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         12170  [kernel]       [k] radix_tree_tag_get
+     6.45%         12170  [kernel]       [k] x86_setup_perfctr
+     5.64%         10648  [kernel]       [k] iterate_groups
+     4.94%          9317  [kernel]       [k] __srcu_read_unlock
+     4.32%          8152  [kernel]       [k] _raw_spin_lock
+     4.19%          7902  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          6447  [kernel]       [k] futex_wake
+     2.99%          5641  [kernel]       [k] update_cfs_group
+     2.61%          4935  [kernel]       [k] intel_put_event_constraints
+     0.63%          1189  [kernel]       [k] __srcu_read_lock
+     0.04%            79  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.06%         41380  [kernel]       [k] psi_group_change
+    15.64%         25837  [kernel]       [k] merge_sched_in
+     8.94%         14763  [kernel]       [k] ctx_sched_in
+     8.69%         14357  [kernel]       [k] inherit_task_group.isra.0
+     6.45%         10648  [kernel]       [k] radix_tree_tag_get
+     6.45%         10648  [kernel]       [k] x86_setup_perfctr
+     5.64%          9317  [kernel]       [k] iterate_groups
+     4.94%          8152  [kernel]       [k] __srcu_read_unlock
+     4.32%          7133  [kernel]       [k] _raw_spin_lock
+     4.19%          6914  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          5641  [kernel]       [k] futex_wake
+     2.99%          4935  [kernel]       [k] update_cfs_group
+     2.61%          4318  [kernel]       [k] intel_put_event_constraints
+     0.63%          1040  [kernel]       [k] __srcu_read_lock
+     0.04%            69  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.06%         36207  [kernel]       [k] psi_group_change
+    15.64%         22607  [kernel]       [k] merge_sched_in
+     8.94%         12917  [kernel]       [k] ctx_sched_in
+     8.69%         12562  [kernel]       [k] inherit_task_group.isra.0
+     6.45%          9317  [kernel]       [k] radix_tree_tag_get
+     6.45%          9317  [kernel]       [k] x86_setup_perfctr
+     5.64%          8152  [kernel]       [k] iterate_groups
+     4.94%          7133  [kernel]       [k] __srcu_read_unlock
+     4.32%          6241  [kernel]       [k] _raw_spin_lock
+     4.19%          6049  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          4935  [kernel]       [k] futex_wake
+     2.99%          4318  [kernel]       [k] update_cfs_group
+     2.61%          3778  [kernel]       [k] intel_put_event_constraints
+     0.63%           910  [kernel]       [k] __srcu_read_lock
+     0.04%            60  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.06%         31681  [kernel]       [k] psi_group_change
+    15.65%         19781  [kernel]       [k] merge_sched_in
+     8.94%         11302  [kernel]       [k] ctx_sched_in
+     8.69%         10991  [kernel]       [k] inherit_task_group.isra.0
+     6.45%          8152  [kernel]       [k] radix_tree_tag_get
+     6.45%          8152  [kernel]       [k] x86_setup_perfctr
+     5.64%          7133  [kernel]       [k] iterate_groups
+     4.94%          6241  [kernel]       [k] __srcu_read_unlock
+     4.32%          5460  [kernel]       [k] _raw_spin_lock
+     4.19%          5292  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          4318  [kernel]       [k] futex_wake
+     2.99%          3778  [kernel]       [k] update_cfs_group
+     2.61%          3305  [kernel]       [k] intel_put_event_constraints
+     0.63%           796  [kernel]       [k] __srcu_read_lock
+     0.04%            52  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.06%         27720  [kernel]       [k] psi_group_change
+    15.65%         17308  [kernel]       [k] merge_sched_in
+     8.94%          9889  [kernel]       [k] ctx_sched_in
+     8.69%          9617  [kernel]       [k] inherit_task_group.isra.0
+     6.45%          7133  [kernel]       [k] radix_tree_tag_get
+     6.45%          7133  [kernel]       [k] x86_setup_perfctr
+     5.64%          6241  [kernel]       [k] iterate_groups
+     4.94%          5460  [kernel]       [k] __srcu_read_unlock
+     4.32%          4777  [kernel]       [k] _raw_spin_lock
+     4.19%          4630  [kernel]       [k] get_obj_cgroup_from_current
+     3.42%          3778  [kernel]       [k] futex_wake
+     2.99%          3305  [kernel]       [k] update_cfs_group
+     2.61%          2891  [kernel]       [k] intel_put_event_constraints
+     0.63%           696  [kernel]       [k] __srcu_read_lock
+     0.04%            45  [kernel]       [k] task_active_pid_ns
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/4 [4000Hz branch],  (target_pid: 1976111)
+-------------------------------------------------------------------------------
+
+    25.06%         24255  [kernel]       [k] psi_group_change
+    15.65%         15144  [kernel]       [k] merge_sched_in
+     8.94%          8652  [kernel]       [k] ctx_sched_in
+     8.69%          8414  [kernel]       [k] inherit_task_group.isra.0
+     6.45%          6241  [kernel]       [k] radix_tree_tag_get
+     6.45%          6241  [kernel]       [k] x86_setup_perfctr
+     5.64%          5460  [kernel]       [k] iterate_groups
+     4.94%          4777  [kernel]       [k] __srcu_read_unlock
+     4.32%          4179  [kernel]       [k] _raw_spin_lock
+     4.19%          4051  [kernel]       [k] get_obj_cgroup_from_current
+     3.41%          3305  [kernel]       [k] futex_wake
+     2.99%          2891  [kernel]       [k] update_cfs_group
+     2.61%          2529  [kernel]       [k] intel_put_event_constraints
+     0.63%           609  [kernel]       [k] __srcu_read_lock
+     0.04%            39  [kernel]       [k] task_active_pid_ns

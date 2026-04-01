@@ -1,0 +1,113 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      11 irqs/sec  kernel:81.8%  exact:  0.0% lost: 0/0 drop: 10/10 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    98.20%        361103  [kernel]       [k] hash_futex
+     1.49%          5469  [kernel]       [k] perf_event_groups_first
+     0.26%           960  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.05%           166  [kernel]       [k] _raw_spin_lock
+     0.01%            36  [kernel]       [k] __perf_event_task_sched_in
+     0.00%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 9/19 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    98.20%        315965  [kernel]       [k] hash_futex
+     1.49%          4785  [kernel]       [k] perf_event_groups_first
+     0.26%           840  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.05%           145  [kernel]       [k] _raw_spin_lock
+     0.01%            31  [kernel]       [k] __perf_event_task_sched_in
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    98.20%        276469  [kernel]       [k] hash_futex
+     1.49%          4186  [kernel]       [k] perf_event_groups_first
+     0.26%           735  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.04%           126  [kernel]       [k] _raw_spin_lock
+     0.01%            27  [kernel]       [k] __perf_event_task_sched_in
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/19 [4000Hz instructions],  (target_pid: 1939105)
+-------------------------------------------------------------------------------
+
+    98.20%        241910  [kernel]       [k] hash_futex
+     1.49%          3662  [kernel]       [k] perf_event_groups_first
+     0.26%           643  [kernel]       [k] visit_groups_merge.constprop.0.is
+     0.04%           110  [kernel]       [k] _raw_spin_lock
+     0.01%            23  [kernel]       [k] __perf_event_task_sched_in

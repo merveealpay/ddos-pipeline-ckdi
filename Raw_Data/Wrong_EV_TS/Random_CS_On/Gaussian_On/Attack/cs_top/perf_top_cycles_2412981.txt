@@ -1,0 +1,169 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 32/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+    25.39%       1462048  [kernel]       [k] list_add_event
+    24.87%       1431997  [kernel]       [k] memset_erms
+    24.87%       1431997  [kernel]       [k] psi_group_change
+    24.87%       1431997  [kernel]       [k] select_task_rq_fair
+[H[2J
+   PerfTop:      11 irqs/sec  kernel:63.6%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+    17.83%       2684994  [kernel]       [k] psi_group_change
+     9.51%       1431997  [kernel]       [k] ___slab_alloc
+     9.51%       1431997  [kernel]       [k] __update_load_avg_cfs_rq
+     9.51%       1431997  [kernel]       [k] asm_exc_page_fault
+     9.51%       1431997  [kernel]       [k] copy_process
+     9.51%       1431997  [kernel]       [k] select_idle_sibling
+     9.51%       1431997  [kernel]       [k] update_load_avg
+     8.49%       1279292  [kernel]       [k] list_add_event
+     8.32%       1252997  [kernel]       [k] memset_erms
+     8.32%       1252997  [kernel]       [k] select_task_rq_fair
+[H[2J
+   PerfTop:      18 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+    10.36%       2712246  [kernel]       [k] ___slab_alloc
+     8.97%       2349369  [kernel]       [k] psi_group_change
+     5.57%       1459249  [kernel]       [k] __pagevec_lru_add
+     5.57%       1459249  [kernel]       [k] cpumask_next
+     5.57%       1459249  [kernel]       [k] intel_pmu_hw_config.part.0
+     5.57%       1459249  [kernel]       [k] perf_iterate_ctx
+     5.47%       1431997  [kernel]       [k] do_syscall_64
+     5.47%       1431997  [kernel]       [k] perf_event_alloc
+     5.47%       1431997  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.40%       1414437  [kernel]       [k] hsw_hw_config
+     4.78%       1252997  [kernel]       [k] __update_load_avg_cfs_rq
+     4.78%       1252997  [kernel]       [k] asm_exc_page_fault
+     4.78%       1252997  [kernel]       [k] copy_process
+     4.78%       1252997  [kernel]       [k] select_idle_sibling
+     4.78%       1252997  [kernel]       [k] update_load_avg
+     4.27%       1119380  [kernel]       [k] list_add_event
+     4.19%       1096372  [kernel]       [k] memset_erms
+     4.19%       1096372  [kernel]       [k] select_task_rq_fair
+[H[2J
+   PerfTop:      14 irqs/sec  kernel:35.7%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+    11.57%       3470134  [kernel]       [k] psi_group_change
+     8.98%       2691279  [kernel]       [k] perf_iterate_ctx
+     7.91%       2373215  [kernel]       [k] ___slab_alloc
+     4.72%       1414437  [kernel]       [k] alloc_vmap_area
+     4.72%       1414437  [kernel]       [k] obj_cgroup_charge_pages
+     4.72%       1414437  [kernel]       [k] perf_event_update_userpage
+     4.26%       1276842  [kernel]       [k] __pagevec_lru_add
+     4.26%       1276842  [kernel]       [k] cpumask_next
+     4.26%       1276842  [kernel]       [k] intel_pmu_hw_config.part.0
+     4.18%       1252997  [kernel]       [k] do_syscall_64
+     4.18%       1252997  [kernel]       [k] perf_event_alloc
+     4.18%       1252997  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.13%       1237632  [kernel]       [k] hsw_hw_config
+     3.66%       1096372  [kernel]       [k] __update_load_avg_cfs_rq
+     3.66%       1096372  [kernel]       [k] asm_exc_page_fault
+     3.66%       1096372  [kernel]       [k] copy_process
+     3.66%       1096372  [kernel]       [k] select_idle_sibling
+     3.66%       1096372  [kernel]       [k] update_load_avg
+     3.27%        979457  [kernel]       [k] list_add_event
+     3.20%        959325  [kernel]       [k] memset_erms
+[H[2J
+   PerfTop:      24 irqs/sec  kernel:12.5%  exact:  0.0% lost: 0/0 drop: 0/32 [4000Hz cycles],  (target_pid: 2412981)
+-------------------------------------------------------------------------------
+
+    10.52%       3036367  [kernel]       [k] psi_group_change
+     8.15%       2354869  [kernel]       [k] perf_iterate_ctx
+     7.19%       2076563  [kernel]       [k] ___slab_alloc
+     4.90%       1414437  [kernel]       [k] x86_pmu_event_init
+     4.29%       1237632  [kernel]       [k] alloc_vmap_area
+     4.29%       1237632  [kernel]       [k] obj_cgroup_charge_pages
+     4.29%       1237632  [kernel]       [k] perf_event_update_userpage
+     3.87%       1117236  [kernel]       [k] __pagevec_lru_add
+     3.87%       1117236  [kernel]       [k] cpumask_next
+     3.87%       1117236  [kernel]       [k] intel_pmu_hw_config.part.0
+     3.80%       1096372  [kernel]       [k] do_syscall_64
+     3.80%       1096372  [kernel]       [k] perf_event_alloc
+     3.80%       1096372  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.75%       1082928  [kernel]       [k] hsw_hw_config
+     3.32%        959325  [kernel]       [k] __update_load_avg_cfs_rq
+     3.32%        959325  [kernel]       [k] asm_exc_page_fault
+     3.32%        959325  [kernel]       [k] copy_process
+     3.32%        959325  [kernel]       [k] select_idle_sibling
+     3.32%        959325  [kernel]       [k] update_load_avg
+     2.97%        857024  [kernel]       [k] list_add_event

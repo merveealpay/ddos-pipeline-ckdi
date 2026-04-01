@@ -1,0 +1,237 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 16/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    50.00%        874518  [kernel]       [k] __lock_text_start
+    50.00%        874518  [kernel]       [k] exc_page_fault
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    50.00%        765203  [kernel]       [k] __lock_text_start
+    50.00%        765203  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    50.00%        669552  [kernel]       [k] __lock_text_start
+    50.00%        669552  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    42.74%        874518  [kernel]       [k] page_counter_try_charge
+    28.63%        585858  [kernel]       [k] __lock_text_start
+    28.63%        585858  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    42.74%        765203  [kernel]       [k] page_counter_try_charge
+    28.63%        512625  [kernel]       [k] __lock_text_start
+    28.63%        512625  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    26.38%        874518  [kernel]       [k] perf_event_groups_insert
+    26.38%        874518  [kernel]       [k] update_load_avg
+    20.19%        669552  [kernel]       [k] page_counter_try_charge
+    13.53%        448546  [kernel]       [k] __lock_text_start
+    13.53%        448546  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    23.16%        874518  [kernel]       [k] get_task_pid
+    20.27%        765203  [kernel]       [k] perf_event_groups_insert
+    20.27%        765203  [kernel]       [k] update_load_avg
+    15.52%        585858  [kernel]       [k] page_counter_try_charge
+    10.39%        392477  [kernel]       [k] __lock_text_start
+    10.39%        392477  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    23.16%        765203  [kernel]       [k] get_task_pid
+    20.27%        669552  [kernel]       [k] perf_event_groups_insert
+    20.27%        669552  [kernel]       [k] update_load_avg
+    15.52%        512625  [kernel]       [k] page_counter_try_charge
+    10.39%        343417  [kernel]       [k] __lock_text_start
+    10.39%        343417  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:       2 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    23.16%        669552  [kernel]       [k] get_task_pid
+    20.27%        585858  [kernel]       [k] perf_event_groups_insert
+    20.27%        585858  [kernel]       [k] update_load_avg
+    15.52%        448546  [kernel]       [k] page_counter_try_charge
+    10.39%        300489  [kernel]       [k] __lock_text_start
+    10.39%        300489  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:      11 irqs/sec  kernel:63.6%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+    10.68%        942981  [kernel]       [k] __mod_node_page_state
+    10.68%        942981  [kernel]       [k] perf_event_alloc
+    10.68%        942981  [kernel]       [k] perf_event_groups_first
+     9.91%        874518  [kernel]       [k] memset_erms
+     9.91%        874518  [kernel]       [k] perf_event_context_sched_out
+     9.91%        874518  [kernel]       [k] xfd_validate_state
+     9.59%        846501  [kernel]       [k] memcpy_erms
+     6.64%        585858  [kernel]       [k] get_task_pid
+     5.81%        512625  [kernel]       [k] perf_event_groups_insert
+     5.81%        512625  [kernel]       [k] update_load_avg
+     4.45%        392477  [kernel]       [k] page_counter_try_charge
+     2.98%        262927  [kernel]       [k] __lock_text_start
+     2.98%        262927  [kernel]       [k] exc_page_fault
+[H[2J
+   PerfTop:      14 irqs/sec  kernel:71.4%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+     9.19%       1398184  [kernel]       [k] memset_erms
+     5.56%        846501  [kernel]       [k] __mutex_init
+     5.56%        846501  [kernel]       [k] dequeue_task_fair
+     5.56%        846501  [kernel]       [k] perf_event_init_context
+     5.56%        846501  [kernel]       [k] set_next_buddy
+     5.42%        825108  [kernel]       [k] __mod_node_page_state
+     5.42%        825108  [kernel]       [k] perf_event_alloc
+     5.42%        825108  [kernel]       [k] perf_event_groups_first
+     5.25%        799062  [kernel]       [k] kmem_cache_alloc_node
+     5.03%        765203  [kernel]       [k] perf_event_context_sched_out
+     5.03%        765203  [kernel]       [k] xfd_validate_state
+     4.87%        740688  [kernel]       [k] memcpy_erms
+     4.63%        703989  [kernel]       [k] kfree
+     4.63%        703989  [kernel]       [k] lru_cache_add
+     4.16%        632981  [kernel]       [k] __vma_adjust
+     4.16%        632981  [kernel]       [k] memcg_slab_free_hook
+     3.37%        512625  [kernel]       [k] get_task_pid
+     2.95%        448546  [kernel]       [k] perf_event_groups_insert
+     2.95%        448546  [kernel]       [k] update_load_avg
+     2.26%        343417  [kernel]       [k] page_counter_try_charge
+[H[2J
+   PerfTop:      21 irqs/sec  kernel:76.2%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+     7.88%       1856392  [kernel]       [k] memset_erms
+     5.48%       1290176  [kernel]       [k] psi_group_change
+     5.30%       1248971  [kernel]       [k] kfree
+     3.14%        740688  [kernel]       [k] __mutex_init
+     3.14%        740688  [kernel]       [k] dequeue_task_fair
+     3.14%        740688  [kernel]       [k] perf_event_init_context
+     3.14%        740688  [kernel]       [k] set_next_buddy
+     3.06%        721969  [kernel]       [k] __mod_node_page_state
+     3.06%        721969  [kernel]       [k] perf_event_alloc
+     3.06%        721969  [kernel]       [k] perf_event_groups_first
+     2.97%        699179  [kernel]       [k] kmem_cache_alloc_node
+     2.84%        669552  [kernel]       [k] perf_event_context_sched_out
+     2.84%        669552  [kernel]       [k] xfd_validate_state
+     2.79%        657195  [kernel]       [k] ___perf_sw_event
+     2.79%        657195  [kernel]       [k] get_mem_cgroup_from_mm
+     2.79%        657195  [kernel]       [k] rb_first
+     2.79%        657195  [kernel]       [k] update_sg_wakeup_stats
+     2.75%        648102  [kernel]       [k] memcpy_erms
+     2.69%        632981  [kernel]       [k] arch_perf_update_userpage
+     2.69%        632981  [kernel]       [k] fpu_clone
+[H[2J
+   PerfTop:      51 irqs/sec  kernel:33.3%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+     8.12%       2536631  [kernel]       [k] perf_event_alloc
+     7.60%       2376618  [kernel]       [k] psi_group_change
+     5.20%       1624343  [kernel]       [k] memset_erms
+     4.07%       1271959  [kernel]       [k] __mutex_init
+     3.95%       1235638  [kernel]       [k] kmem_cache_alloc_node
+     3.77%       1177715  [kernel]       [k] rb_next
+     3.50%       1092849  [kernel]       [k] kfree
+     3.09%        967274  [kernel]       [k] perf_event_groups_insert
+     2.07%        648102  [kernel]       [k] dequeue_task_fair
+     2.07%        648102  [kernel]       [k] perf_event_init_context
+     2.07%        648102  [kernel]       [k] set_next_buddy
+     2.02%        631722  [kernel]       [k] __mod_node_page_state
+     2.02%        631722  [kernel]       [k] perf_event_groups_first
+     2.00%        623857  [kernel]       [k] __hrtimer_init
+     2.00%        623857  [kernel]       [k] enqueue_task
+     2.00%        623857  [kernel]       [k] event_sched_in
+     2.00%        623857  [kernel]       [k] inherit_event.constprop.0
+     2.00%        623857  [kernel]       [k] sched_clock
+     2.00%        623857  [kernel]       [k] syscall_exit_to_user_mode
+     2.00%        623857  [kernel]       [k] update_cfs_group
+[H[2J
+   PerfTop:      16 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/16 [4000Hz cycles],  (target_pid: 1963672)
+-------------------------------------------------------------------------------
+
+     9.20%       3057724  [kernel]       [k] psi_group_change
+     6.68%       2219552  [kernel]       [k] perf_event_alloc
+     4.57%       1519592  [kernel]       [k] rb_next
+     4.27%       1421300  [kernel]       [k] memset_erms
+     3.35%       1112964  [kernel]       [k] __mutex_init
+     3.25%       1081183  [kernel]       [k] kmem_cache_alloc_node
+     3.11%       1034966  [kernel]       [k] event_sched_in
+     3.03%       1007635  [kernel]       [k] perf_event_update_userpage
+     2.94%        978184  [kernel]       [k] native_sched_clock
+     2.88%        956242  [kernel]       [k] kfree
+     2.55%        846364  [kernel]       [k] perf_event_groups_insert
+     1.71%        567089  [kernel]       [k] dequeue_task_fair
+     1.71%        567089  [kernel]       [k] perf_event_init_context
+     1.71%        567089  [kernel]       [k] set_next_buddy
+     1.66%        552756  [kernel]       [k] __mod_node_page_state
+     1.66%        552756  [kernel]       [k] perf_event_groups_first
+     1.64%        545874  [kernel]       [k] __hrtimer_init
+     1.64%        545874  [kernel]       [k] enqueue_task
+     1.64%        545874  [kernel]       [k] inherit_event.constprop.0
+     1.64%        545874  [kernel]       [k] sched_clock

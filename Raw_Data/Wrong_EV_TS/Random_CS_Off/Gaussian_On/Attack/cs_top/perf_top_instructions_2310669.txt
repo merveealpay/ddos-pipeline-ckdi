@@ -1,0 +1,145 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      27 irqs/sec  kernel:70.4%  exact:  0.0% lost: 0/0 drop: 13/13 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    35.07%       2256627  [kernel]       [k] zap_pte_range
+    15.68%       1008845  [kernel]       [k] page_remove_rmap
+     6.32%        406754  [kernel]       [k] __tlb_remove_page_size
+     6.32%        406615  [kernel]       [k] unmap_single_vma
+     5.87%        377907  [kernel]       [k] free_pages_and_swap_cache
+     5.72%        368326  [kernel]       [k] uncharge_page
+     5.70%        367019  [kernel]       [k] free_unref_page_commit.constprop.
+     5.64%        362748  [kernel]       [k] mem_cgroup_update_lru_size
+     5.10%        328098  [kernel]       [k] psi_group_change
+     4.28%        275487  [kernel]       [k] PageHuge
+     4.28%        275487  [kernel]       [k] memcg_slab_free_hook
+     0.00%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/13 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    35.07%       1974548  [kernel]       [k] zap_pte_range
+    15.68%        882739  [kernel]       [k] page_remove_rmap
+     6.32%        355909  [kernel]       [k] __tlb_remove_page_size
+     6.32%        355788  [kernel]       [k] unmap_single_vma
+     5.87%        330668  [kernel]       [k] free_pages_and_swap_cache
+     5.72%        322285  [kernel]       [k] uncharge_page
+     5.70%        321141  [kernel]       [k] free_unref_page_commit.constprop.
+     5.64%        317404  [kernel]       [k] mem_cgroup_update_lru_size
+     5.10%        287085  [kernel]       [k] psi_group_change
+     4.28%        241051  [kernel]       [k] PageHuge
+     4.28%        241051  [kernel]       [k] memcg_slab_free_hook
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/13 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    35.07%       1727729  [kernel]       [k] zap_pte_range
+    15.68%        772396  [kernel]       [k] page_remove_rmap
+     6.32%        311420  [kernel]       [k] __tlb_remove_page_size
+     6.32%        311314  [kernel]       [k] unmap_single_vma
+     5.87%        289334  [kernel]       [k] free_pages_and_swap_cache
+     5.72%        281999  [kernel]       [k] uncharge_page
+     5.70%        280998  [kernel]       [k] free_unref_page_commit.constprop.
+     5.64%        277728  [kernel]       [k] mem_cgroup_update_lru_size
+     5.10%        251199  [kernel]       [k] psi_group_change
+     4.28%        210919  [kernel]       [k] PageHuge
+     4.28%        210919  [kernel]       [k] memcg_slab_free_hook
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/13 [4000Hz instructions],  (target_pid: 2310669)
+-------------------------------------------------------------------------------
+
+    35.07%       1511762  [kernel]       [k] zap_pte_range
+    15.68%        675846  [kernel]       [k] page_remove_rmap
+     6.32%        272492  [kernel]       [k] __tlb_remove_page_size
+     6.32%        272399  [kernel]       [k] unmap_single_vma
+     5.87%        253167  [kernel]       [k] free_pages_and_swap_cache
+     5.72%        246749  [kernel]       [k] uncharge_page
+     5.70%        245873  [kernel]       [k] free_unref_page_commit.constprop.
+     5.64%        243012  [kernel]       [k] mem_cgroup_update_lru_size
+     5.10%        219799  [kernel]       [k] psi_group_change
+     4.28%        184554  [kernel]       [k] PageHuge
+     4.28%        184554  [kernel]       [k] memcg_slab_free_hook

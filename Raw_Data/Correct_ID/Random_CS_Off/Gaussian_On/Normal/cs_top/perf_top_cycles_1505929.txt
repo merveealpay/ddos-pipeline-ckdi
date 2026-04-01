@@ -1,0 +1,931 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:     380 irqs/sec  kernel: 2.4%  exact:  0.0% lost: 0/0 drop: 753/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    11.78%        652564  [kernel]       [k] native_read_msr
+    11.61%        643240  [kernel]       [k] update_curr
+    11.32%        627231  [kernel]       [k] sync_regs
+    11.30%        626155  [kernel]       [k] perf_event_update_userpage
+    11.21%        620750  [kernel]       [k] native_queued_spin_lock_slowpath.
+    11.19%        619818  [kernel]       [k] __irqentry_text_end
+    10.93%        605158  [kernel]       [k] _raw_spin_lock_irqsave
+    10.85%        601198  [kernel]       [k] event_sched_in
+     9.80%        542872  [kernel]       [k] irqentry_exit_to_user_mode
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:     252 irqs/sec  kernel: 1.2%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     8.99%        595724  [kernel]       [k] restore_fpregs_from_fpstate
+     8.98%        595358  [kernel]       [k] iterate_groups
+     8.90%        590096  [kernel]       [k] psi_group_change
+     8.62%        570993  [kernel]       [k] native_read_msr
+     8.49%        562835  [kernel]       [k] update_curr
+     8.28%        548827  [kernel]       [k] sync_regs
+     8.27%        547885  [kernel]       [k] perf_event_update_userpage
+     8.20%        543156  [kernel]       [k] native_queued_spin_lock_slowpath.
+     8.18%        542340  [kernel]       [k] __irqentry_text_end
+     7.99%        529513  [kernel]       [k] _raw_spin_lock_irqsave
+     7.94%        526048  [kernel]       [k] event_sched_in
+     7.17%        475013  [kernel]       [k] irqentry_exit_to_user_mode
+[H[2J
+   PerfTop:     258 irqs/sec  kernel: 2.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    11.64%       1089584  [kernel]       [k] psi_group_change
+     6.57%        615374  [kernel]       [k] enqueue_entity
+     6.56%        614248  [kernel]       [k] __x64_sys_sendto
+     6.51%        609238  [kernel]       [k] __mod_timer
+     6.17%        577228  [kernel]       [k] rb_erase
+     6.13%        573508  [kernel]       [k] perf_event_groups_first
+     5.57%        521258  [kernel]       [k] restore_fpregs_from_fpstate
+     5.56%        520938  [kernel]       [k] iterate_groups
+     5.34%        499618  [kernel]       [k] native_read_msr
+     5.26%        492480  [kernel]       [k] update_curr
+     5.13%        480223  [kernel]       [k] sync_regs
+     5.12%        479399  [kernel]       [k] perf_event_update_userpage
+     5.08%        475261  [kernel]       [k] native_queued_spin_lock_slowpath.
+     5.07%        474547  [kernel]       [k] __irqentry_text_end
+     4.95%        463323  [kernel]       [k] _raw_spin_lock_irqsave
+     4.92%        460292  [kernel]       [k] event_sched_in
+     4.44%        415636  [kernel]       [k] irqentry_exit_to_user_mode
+[H[2J
+   PerfTop:     250 irqs/sec  kernel: 2.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     8.61%        953386  [kernel]       [k] psi_group_change
+     5.36%        592757  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.27%        583795  [kernel]       [k] __fget_files
+     5.17%        571759  [kernel]       [k] error_entry
+     5.15%        570087  [kernel]       [k] futex_wake
+     5.04%        557950  [kernel]       [k] syscall_return_via_sysret
+     4.86%        538452  [kernel]       [k] enqueue_entity
+     4.86%        537467  [kernel]       [k] __x64_sys_sendto
+     4.82%        533083  [kernel]       [k] __mod_timer
+     4.56%        505074  [kernel]       [k] rb_erase
+     4.53%        501819  [kernel]       [k] perf_event_groups_first
+     4.12%        456100  [kernel]       [k] restore_fpregs_from_fpstate
+     4.12%        455820  [kernel]       [k] iterate_groups
+     3.95%        437165  [kernel]       [k] native_read_msr
+     3.89%        430920  [kernel]       [k] update_curr
+     3.80%        420195  [kernel]       [k] sync_regs
+     3.79%        419474  [kernel]       [k] perf_event_update_userpage
+     3.76%        415853  [kernel]       [k] native_queued_spin_lock_slowpath.
+     3.75%        415228  [kernel]       [k] __irqentry_text_end
+     3.66%        405407  [kernel]       [k] _raw_spin_lock_irqsave
+[H[2J
+   PerfTop:     338 irqs/sec  kernel: 2.1%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    10.24%       1406039  [kernel]       [k] psi_group_change
+     6.64%        911525  [kernel]       [k] __irqentry_text_end
+     4.35%        597240  [kernel]       [k] merge_sched_in
+     4.28%        587690  [kernel]       [k] perf_swevent_add
+     4.27%        586458  [kernel]       [k] ___perf_sw_event
+     4.26%        585349  [kernel]       [k] update_rt_rq_load_avg
+     4.15%        569257  [kernel]       [k] account_user_time
+     3.78%        518662  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.72%        510820  [kernel]       [k] __fget_files
+     3.64%        500289  [kernel]       [k] error_entry
+     3.63%        498826  [kernel]       [k] futex_wake
+     3.56%        488206  [kernel]       [k] syscall_return_via_sysret
+     3.43%        471145  [kernel]       [k] enqueue_entity
+     3.43%        470283  [kernel]       [k] __x64_sys_sendto
+     3.40%        466447  [kernel]       [k] __mod_timer
+     3.22%        441939  [kernel]       [k] rb_erase
+     3.20%        439091  [kernel]       [k] perf_event_groups_first
+     2.91%        399087  [kernel]       [k] restore_fpregs_from_fpstate
+     2.90%        398842  [kernel]       [k] iterate_groups
+     2.79%        382519  [kernel]       [k] native_read_msr
+[H[2J
+   PerfTop:     245 irqs/sec  kernel: 0.8%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     9.77%       1230284  [kernel]       [k] psi_group_change
+     7.89%        993307  [kernel]       [k] enqueue_entity
+     6.33%        797584  [kernel]       [k] __irqentry_text_end
+     4.15%        522585  [kernel]       [k] merge_sched_in
+     4.08%        514228  [kernel]       [k] perf_swevent_add
+     4.07%        513150  [kernel]       [k] ___perf_sw_event
+     4.07%        512180  [kernel]       [k] update_rt_rq_load_avg
+     3.95%        498099  [kernel]       [k] account_user_time
+     3.60%        453829  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.55%        446967  [kernel]       [k] __fget_files
+     3.48%        437752  [kernel]       [k] error_entry
+     3.47%        436472  [kernel]       [k] futex_wake
+     3.39%        427180  [kernel]       [k] syscall_return_via_sysret
+     3.27%        411497  [kernel]       [k] __x64_sys_sendto
+     3.24%        408141  [kernel]       [k] __mod_timer
+     3.07%        386696  [kernel]       [k] rb_erase
+     3.05%        384204  [kernel]       [k] perf_event_groups_first
+     2.77%        349201  [kernel]       [k] restore_fpregs_from_fpstate
+     2.77%        348986  [kernel]       [k] iterate_groups
+     2.66%        334704  [kernel]       [k] native_read_msr
+[H[2J
+   PerfTop:     334 irqs/sec  kernel: 0.9%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     8.48%       1076498  [kernel]       [k] psi_group_change
+     6.88%        873806  [kernel]       [k] restore_fpregs_from_fpstate
+     6.84%        869143  [kernel]       [k] enqueue_entity
+     5.50%        697886  [kernel]       [k] __irqentry_text_end
+     4.41%        560629  [kernel]       [k] sock_recvmsg
+     4.32%        548930  [kernel]       [k] psi_task_switch
+     3.60%        457261  [kernel]       [k] merge_sched_in
+     3.54%        449949  [kernel]       [k] perf_swevent_add
+     3.54%        449006  [kernel]       [k] ___perf_sw_event
+     3.53%        448157  [kernel]       [k] update_rt_rq_load_avg
+     3.43%        435836  [kernel]       [k] account_user_time
+     3.13%        397100  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.08%        391096  [kernel]       [k] __fget_files
+     3.02%        383033  [kernel]       [k] error_entry
+     3.01%        381913  [kernel]       [k] futex_wake
+     2.94%        373782  [kernel]       [k] syscall_return_via_sysret
+     2.84%        360059  [kernel]       [k] __x64_sys_sendto
+     2.81%        357123  [kernel]       [k] __mod_timer
+     2.66%        338359  [kernel]       [k] rb_erase
+     2.65%        336178  [kernel]       [k] perf_event_groups_first
+[H[2J
+   PerfTop:     269 irqs/sec  kernel: 1.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     7.98%       1065242  [kernel]       [k] psi_task_switch
+     7.05%        941935  [kernel]       [k] psi_group_change
+     6.33%        845011  [kernel]       [k] perf_event_groups_first
+     6.04%        806391  [kernel]       [k] perf_event_update_userpage
+     5.72%        764580  [kernel]       [k] restore_fpregs_from_fpstate
+     5.69%        760500  [kernel]       [k] enqueue_entity
+     4.57%        610650  [kernel]       [k] __irqentry_text_end
+     4.11%        548781  [kernel]       [k] available_idle_cpu
+     3.67%        490550  [kernel]       [k] sock_recvmsg
+     3.00%        400103  [kernel]       [k] merge_sched_in
+     2.95%        393705  [kernel]       [k] perf_swevent_add
+     2.94%        392880  [kernel]       [k] ___perf_sw_event
+     2.94%        392137  [kernel]       [k] update_rt_rq_load_avg
+     2.86%        381356  [kernel]       [k] account_user_time
+     2.60%        347462  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.56%        342209  [kernel]       [k] __fget_files
+     2.51%        335153  [kernel]       [k] error_entry
+     2.50%        334173  [kernel]       [k] futex_wake
+     2.45%        327059  [kernel]       [k] syscall_return_via_sysret
+     2.36%        315051  [kernel]       [k] __x64_sys_sendto
+[H[2J
+   PerfTop:     385 irqs/sec  kernel: 1.8%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    11.59%       1803476  [kernel]       [k] perf_event_update_userpage
+     9.09%       1414377  [kernel]       [k] psi_group_change
+     6.90%       1073763  [kernel]       [k] __sysvec_apic_timer_interrupt
+     5.99%        932086  [kernel]       [k] psi_task_switch
+     4.99%        776799  [kernel]       [k] event_sched_in
+     4.75%        739384  [kernel]       [k] perf_event_groups_first
+     4.30%        669007  [kernel]       [k] restore_fpregs_from_fpstate
+     4.28%        665437  [kernel]       [k] enqueue_entity
+     3.47%        539720  [kernel]       [k] tcp_data_queue
+     3.43%        534318  [kernel]       [k] __irqentry_text_end
+     3.09%        480183  [kernel]       [k] available_idle_cpu
+     2.76%        429231  [kernel]       [k] sock_recvmsg
+     2.25%        350090  [kernel]       [k] merge_sched_in
+     2.21%        344491  [kernel]       [k] perf_swevent_add
+     2.21%        343770  [kernel]       [k] ___perf_sw_event
+     2.21%        343119  [kernel]       [k] update_rt_rq_load_avg
+     2.14%        333686  [kernel]       [k] account_user_time
+     1.95%        304029  [kernel]       [k] visit_groups_merge.constprop.0.is
+     1.92%        299432  [kernel]       [k] __fget_files
+     1.88%        293258  [kernel]       [k] error_entry
+[H[2J
+   PerfTop:     273 irqs/sec  kernel: 1.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     9.98%       1578041  [kernel]       [k] perf_event_update_userpage
+     7.82%       1237579  [kernel]       [k] psi_group_change
+     5.94%        939542  [kernel]       [k] __sysvec_apic_timer_interrupt
+     5.16%        815575  [kernel]       [k] psi_task_switch
+     4.30%        679699  [kernel]       [k] event_sched_in
+     4.09%        646961  [kernel]       [k] perf_event_groups_first
+     3.70%        585381  [kernel]       [k] restore_fpregs_from_fpstate
+     3.68%        582257  [kernel]       [k] enqueue_entity
+     3.58%        565982  [kernel]       [k] native_sched_clock
+     3.57%        565319  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.43%        543153  [kernel]       [k] error_return
+     3.34%        528023  [kernel]       [k] perf_event_task_tick
+     2.99%        472255  [kernel]       [k] tcp_data_queue
+     2.96%        467528  [kernel]       [k] __irqentry_text_end
+     2.66%        420160  [kernel]       [k] available_idle_cpu
+     2.37%        375577  [kernel]       [k] sock_recvmsg
+     1.94%        306328  [kernel]       [k] merge_sched_in
+     1.91%        301429  [kernel]       [k] perf_swevent_add
+     1.90%        300798  [kernel]       [k] ___perf_sw_event
+     1.90%        300229  [kernel]       [k] update_rt_rq_load_avg
+[H[2J
+   PerfTop:     313 irqs/sec  kernel: 2.2%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    10.93%       1921973  [kernel]       [k] perf_event_update_userpage
+     6.40%       1124894  [kernel]       [k] event_sched_in
+     6.16%       1082881  [kernel]       [k] psi_group_change
+     5.80%       1019146  [kernel]       [k] restore_fpregs_from_fpstate
+     5.45%        957740  [kernel]       [k] __irqentry_text_end
+     4.68%        822099  [kernel]       [k] __sysvec_apic_timer_interrupt
+     4.31%        758472  [kernel]       [k] error_entry
+     4.06%        713628  [kernel]       [k] psi_task_switch
+     3.22%        566090  [kernel]       [k] perf_event_groups_first
+     3.10%        544621  [kernel]       [k] native_write_msr
+     3.07%        540040  [kernel]       [k] psi_task_change
+     2.90%        509474  [kernel]       [k] enqueue_entity
+     2.82%        495234  [kernel]       [k] native_sched_clock
+     2.81%        494654  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.70%        475258  [kernel]       [k] error_return
+     2.63%        462020  [kernel]       [k] perf_event_task_tick
+     2.35%        413223  [kernel]       [k] tcp_data_queue
+     2.09%        367640  [kernel]       [k] available_idle_cpu
+     1.87%        328629  [kernel]       [k] sock_recvmsg
+     1.52%        268037  [kernel]       [k] merge_sched_in
+[H[2J
+   PerfTop:     349 irqs/sec  kernel: 2.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     8.78%       1681726  [kernel]       [k] perf_event_update_userpage
+     7.95%       1521535  [kernel]       [k] event_sched_in
+     5.04%        965127  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.95%        947520  [kernel]       [k] psi_group_change
+     4.66%        891752  [kernel]       [k] restore_fpregs_from_fpstate
+     4.38%        838022  [kernel]       [k] __irqentry_text_end
+     3.76%        719336  [kernel]       [k] __sysvec_apic_timer_interrupt
+     3.47%        663663  [kernel]       [k] error_entry
+     3.39%        649399  [kernel]       [k] sync_regs
+     3.26%        624424  [kernel]       [k] psi_task_switch
+     2.93%        561795  [kernel]       [k] exit_to_user_mode_prepare
+     2.85%        545846  [kernel]       [k] ktime_get
+     2.84%        543348  [kernel]       [k] perf_swevent_read
+     2.78%        531779  [kernel]       [k] ctx_sched_in
+     2.59%        495328  [kernel]       [k] perf_event_groups_first
+     2.49%        476543  [kernel]       [k] native_write_msr
+     2.47%        472535  [kernel]       [k] psi_task_change
+     2.33%        445789  [kernel]       [k] enqueue_entity
+     2.26%        433329  [kernel]       [k] native_sched_clock
+     2.17%        415850  [kernel]       [k] error_return
+[H[2J
+   PerfTop:     407 irqs/sec  kernel: 0.7%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     8.01%       1471510  [kernel]       [k] perf_event_update_userpage
+     7.25%       1331343  [kernel]       [k] event_sched_in
+     5.00%        918981  [kernel]       [k] native_sched_clock
+     4.80%        881150  [kernel]       [k] error_return
+     4.60%        844486  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.51%        829080  [kernel]       [k] psi_group_change
+     4.25%        780283  [kernel]       [k] restore_fpregs_from_fpstate
+     3.99%        733269  [kernel]       [k] __irqentry_text_end
+     3.43%        629419  [kernel]       [k] __sysvec_apic_timer_interrupt
+     3.16%        580705  [kernel]       [k] error_entry
+     3.09%        568224  [kernel]       [k] sync_regs
+     3.07%        563591  [kernel]       [k] update_min_vruntime
+     2.97%        546371  [kernel]       [k] psi_task_switch
+     2.68%        491570  [kernel]       [k] exit_to_user_mode_prepare
+     2.60%        477615  [kernel]       [k] ktime_get
+     2.59%        475429  [kernel]       [k] perf_swevent_read
+     2.53%        465306  [kernel]       [k] ctx_sched_in
+     2.36%        433412  [kernel]       [k] perf_event_groups_first
+     2.27%        416975  [kernel]       [k] native_write_msr
+     2.25%        413468  [kernel]       [k] psi_task_change
+[H[2J
+   PerfTop:     289 irqs/sec  kernel: 1.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     7.28%       1287571  [kernel]       [k] perf_event_update_userpage
+     6.58%       1164925  [kernel]       [k] event_sched_in
+     4.55%        804108  [kernel]       [k] native_sched_clock
+     4.36%        771006  [kernel]       [k] error_return
+     4.18%        738925  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.10%        725445  [kernel]       [k] psi_group_change
+     3.86%        682747  [kernel]       [k] restore_fpregs_from_fpstate
+     3.63%        641610  [kernel]       [k] __irqentry_text_end
+     3.11%        550741  [kernel]       [k] __sysvec_apic_timer_interrupt
+     3.06%        541421  [kernel]       [k] native_write_msr_safe
+     3.04%        538240  [kernel]       [k] sched_clock_cpu
+     3.03%        536250  [kernel]       [k] hrtimer_interrupt
+     2.87%        508116  [kernel]       [k] error_entry
+     2.81%        497196  [kernel]       [k] sync_regs
+     2.79%        493142  [kernel]       [k] update_min_vruntime
+     2.70%        478074  [kernel]       [k] psi_task_switch
+     2.43%        430123  [kernel]       [k] exit_to_user_mode_prepare
+     2.36%        417913  [kernel]       [k] ktime_get
+     2.35%        416000  [kernel]       [k] perf_swevent_read
+     2.30%        407142  [kernel]       [k] ctx_sched_in
+[H[2J
+   PerfTop:     377 irqs/sec  kernel: 0.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     7.04%       1126624  [kernel]       [k] perf_event_update_userpage
+     6.37%       1019309  [kernel]       [k] event_sched_in
+     4.40%        703594  [kernel]       [k] native_sched_clock
+     4.23%        676608  [kernel]       [k] merge_sched_in
+     4.22%        674630  [kernel]       [k] error_return
+     4.04%        646559  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.97%        634764  [kernel]       [k] psi_group_change
+     3.73%        597403  [kernel]       [k] restore_fpregs_from_fpstate
+     3.51%        561408  [kernel]       [k] __irqentry_text_end
+     3.01%        481898  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.96%        473743  [kernel]       [k] native_write_msr_safe
+     2.94%        470960  [kernel]       [k] sched_clock_cpu
+     2.93%        469218  [kernel]       [k] hrtimer_interrupt
+     2.78%        444601  [kernel]       [k] error_entry
+     2.72%        435046  [kernel]       [k] sync_regs
+     2.70%        431499  [kernel]       [k] update_min_vruntime
+     2.61%        418314  [kernel]       [k] psi_task_switch
+     2.35%        376357  [kernel]       [k] exit_to_user_mode_prepare
+     2.29%        365673  [kernel]       [k] ktime_get
+     2.28%        364000  [kernel]       [k] perf_swevent_read
+[H[2J
+   PerfTop:     380 irqs/sec  kernel: 7.4%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     6.71%       1274469  [kernel]       [k] perf_event_context_sched_out
+     5.35%       1015791  [kernel]       [k] syscall_return_via_sysret
+     5.19%        985796  [kernel]       [k] perf_event_update_userpage
+     4.70%        891895  [kernel]       [k] event_sched_in
+     4.32%        820892  [kernel]       [k] perf_event_groups_first
+     3.38%        641888  [kernel]       [k] perf_swevent_add
+     3.24%        615644  [kernel]       [k] native_sched_clock
+     3.13%        594385  [kernel]       [k] do_syscall_64
+     3.12%        592032  [kernel]       [k] merge_sched_in
+     3.11%        590301  [kernel]       [k] error_return
+     2.98%        565739  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.92%        555418  [kernel]       [k] psi_group_change
+     2.85%        540858  [kernel]       [k] __update_load_avg_se
+     2.75%        522727  [kernel]       [k] restore_fpregs_from_fpstate
+     2.64%        501831  [kernel]       [k] arch_scale_freq_tick
+     2.59%        491232  [kernel]       [k] __irqentry_text_end
+     2.22%        421660  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.18%        414525  [kernel]       [k] native_write_msr_safe
+     2.17%        412090  [kernel]       [k] sched_clock_cpu
+     2.16%        410565  [kernel]       [k] hrtimer_interrupt
+[H[2J
+   PerfTop:     444 irqs/sec  kernel: 1.1%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     7.28%       1404952  [kernel]       [k] perf_event_update_userpage
+     5.78%       1115160  [kernel]       [k] perf_event_context_sched_out
+     4.61%        888817  [kernel]       [k] syscall_return_via_sysret
+     4.04%        780408  [kernel]       [k] event_sched_in
+     3.72%        718280  [kernel]       [k] perf_event_groups_first
+     3.35%        646692  [kernel]       [k] irqentry_exit_to_user_mode
+     3.25%        627583  [kernel]       [k] __mod_timer
+     2.91%        561652  [kernel]       [k] perf_swevent_add
+     2.82%        544716  [kernel]       [k] rebalance_domains
+     2.79%        538688  [kernel]       [k] native_sched_clock
+     2.70%        520086  [kernel]       [k] do_syscall_64
+     2.68%        518028  [kernel]       [k] merge_sched_in
+     2.68%        516513  [kernel]       [k] error_return
+     2.57%        495021  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.52%        485990  [kernel]       [k] psi_group_change
+     2.47%        477335  [kernel]       [k] select_idle_sibling
+     2.45%        473250  [kernel]       [k] __update_load_avg_se
+     2.37%        457386  [kernel]       [k] restore_fpregs_from_fpstate
+     2.28%        439102  [kernel]       [k] arch_scale_freq_tick
+     2.23%        429828  [kernel]       [k] __irqentry_text_end
+[H[2J
+   PerfTop:     500 irqs/sec  kernel: 1.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     6.10%       1229333  [kernel]       [k] perf_event_update_userpage
+     5.63%       1135371  [kernel]       [k] put_page
+     4.84%        975765  [kernel]       [k] perf_event_context_sched_out
+     4.70%        948236  [kernel]       [k] restore_fpregs_from_fpstate
+     3.86%        777714  [kernel]       [k] syscall_return_via_sysret
+     3.39%        682857  [kernel]       [k] event_sched_in
+     3.12%        628495  [kernel]       [k] perf_event_groups_first
+     2.81%        565855  [kernel]       [k] irqentry_exit_to_user_mode
+     2.72%        549135  [kernel]       [k] __mod_timer
+     2.70%        545154  [kernel]       [k] aa_sk_perm
+     2.63%        529794  [kernel]       [k] inet_ehashfn
+     2.56%        515041  [kernel]       [k] exit_to_user_mode_loop
+     2.44%        491445  [kernel]       [k] perf_swevent_add
+     2.36%        476626  [kernel]       [k] rebalance_domains
+     2.34%        471352  [kernel]       [k] native_sched_clock
+     2.26%        455075  [kernel]       [k] do_syscall_64
+     2.25%        453274  [kernel]       [k] merge_sched_in
+     2.24%        451948  [kernel]       [k] error_return
+     2.15%        433143  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.11%        425241  [kernel]       [k] psi_group_change
+[H[2J
+   PerfTop:     591 irqs/sec  kernel: 1.2%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.07%       1075666  [kernel]       [k] perf_event_update_userpage
+     4.68%        993449  [kernel]       [k] put_page
+     4.02%        853794  [kernel]       [k] perf_event_context_sched_out
+     3.91%        829706  [kernel]       [k] restore_fpregs_from_fpstate
+     3.37%        715441  [kernel]       [k] enqueue_entity
+     3.21%        680499  [kernel]       [k] syscall_return_via_sysret
+     2.82%        597499  [kernel]       [k] event_sched_in
+     2.59%        549933  [kernel]       [k] perf_event_groups_first
+     2.53%        536828  [kernel]       [k] check_preempt_wakeup
+     2.44%        517208  [kernel]       [k] __update_load_avg_cfs_rq
+     2.41%        511505  [kernel]       [k] update_rq_clock
+     2.37%        503705  [kernel]       [k] _raw_spin_lock_irq
+     2.33%        495123  [kernel]       [k] irqentry_exit_to_user_mode
+     2.28%        483900  [kernel]       [k] __schedule
+     2.28%        483851  [kernel]       [k] __local_bh_enable_ip
+     2.26%        480493  [kernel]       [k] __mod_timer
+     2.25%        477009  [kernel]       [k] aa_sk_perm
+     2.19%        463569  [kernel]       [k] inet_ehashfn
+     2.12%        450660  [kernel]       [k] exit_to_user_mode_loop
+     2.03%        430014  [kernel]       [k] perf_swevent_add
+[H[2J
+   PerfTop:     551 irqs/sec  kernel: 0.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     4.68%        941207  [kernel]       [k] perf_event_update_userpage
+     4.32%        869267  [kernel]       [k] put_page
+     3.71%        747069  [kernel]       [k] perf_event_context_sched_out
+     3.65%        733671  [kernel]       [k] error_entry
+     3.61%        725992  [kernel]       [k] restore_fpregs_from_fpstate
+     3.11%        626010  [kernel]       [k] enqueue_entity
+     2.96%        595436  [kernel]       [k] syscall_return_via_sysret
+     2.69%        540804  [kernel]       [k] __netif_receive_skb_one_core
+     2.60%        522811  [kernel]       [k] event_sched_in
+     2.55%        514086  [kernel]       [k] perf_event_update_time
+     2.39%        481191  [kernel]       [k] perf_event_groups_first
+     2.33%        469724  [kernel]       [k] check_preempt_wakeup
+     2.25%        452557  [kernel]       [k] __update_load_avg_cfs_rq
+     2.22%        447566  [kernel]       [k] update_rq_clock
+     2.19%        440741  [kernel]       [k] _raw_spin_lock_irq
+     2.15%        433232  [kernel]       [k] irqentry_exit_to_user_mode
+     2.10%        423412  [kernel]       [k] __schedule
+     2.10%        423369  [kernel]       [k] __local_bh_enable_ip
+     2.09%        420431  [kernel]       [k] __mod_timer
+     2.07%        417382  [kernel]       [k] aa_sk_perm
+[H[2J
+   PerfTop:     634 irqs/sec  kernel: 0.8%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     4.55%        923904  [kernel]       [k] irqentry_exit_to_user_mode
+     4.06%        823556  [kernel]       [k] perf_event_update_userpage
+     3.75%        760608  [kernel]       [k] put_page
+     3.29%        668135  [kernel]       [k] perf_event_task_tick
+     3.22%        653685  [kernel]       [k] perf_event_context_sched_out
+     3.16%        641962  [kernel]       [k] error_entry
+     3.13%        635243  [kernel]       [k] restore_fpregs_from_fpstate
+     2.70%        547758  [kernel]       [k] enqueue_entity
+     2.65%        538644  [kernel]       [k] rb_next
+     2.65%        537443  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.60%        527085  [kernel]       [k] update_cfs_group
+     2.57%        521006  [kernel]       [k] syscall_return_via_sysret
+     2.33%        473203  [kernel]       [k] __netif_receive_skb_one_core
+     2.25%        457459  [kernel]       [k] event_sched_in
+     2.22%        449825  [kernel]       [k] perf_event_update_time
+     2.07%        421042  [kernel]       [k] perf_event_groups_first
+     2.02%        411008  [kernel]       [k] check_preempt_wakeup
+     1.95%        395987  [kernel]       [k] __update_load_avg_cfs_rq
+     1.93%        391620  [kernel]       [k] update_rq_clock
+     1.90%        385648  [kernel]       [k] _raw_spin_lock_irq
+[H[2J
+   PerfTop:     630 irqs/sec  kernel: 1.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.49%       1306209  [kernel]       [k] sync_regs
+     4.78%       1135493  [kernel]       [k] __perf_event_task_sched_in
+     4.77%       1135371  [kernel]       [k] __mod_lruvec_page_state
+     4.18%        993909  [kernel]       [k] syscall_return_via_sysret
+     3.40%        808416  [kernel]       [k] irqentry_exit_to_user_mode
+     3.03%        720611  [kernel]       [k] perf_event_update_userpage
+     2.80%        665532  [kernel]       [k] put_page
+     2.46%        584618  [kernel]       [k] perf_event_task_tick
+     2.41%        571974  [kernel]       [k] perf_event_context_sched_out
+     2.36%        561716  [kernel]       [k] error_entry
+     2.34%        555837  [kernel]       [k] restore_fpregs_from_fpstate
+     2.32%        551265  [kernel]       [k] native_read_msr
+     2.24%        532170  [kernel]       [k] dst_release
+     2.17%        516900  [kernel]       [k] tick_do_update_jiffies64
+     2.14%        509035  [kernel]       [k] sched_clock
+     2.02%        479288  [kernel]       [k] enqueue_entity
+     1.98%        471313  [kernel]       [k] rb_next
+     1.98%        470262  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     1.94%        461199  [kernel]       [k] update_cfs_group
+     1.74%        414052  [kernel]       [k] __netif_receive_skb_one_core
+[H[2J
+   PerfTop:     739 irqs/sec  kernel: 0.9%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     4.92%       1264688  [kernel]       [k] exit_to_user_mode_prepare
+     4.44%       1142932  [kernel]       [k] sync_regs
+     4.41%       1135371  [kernel]       [k] perf_event_alloc
+     3.93%       1012095  [kernel]       [k] error_entry
+     3.86%        993556  [kernel]       [k] __perf_event_task_sched_in
+     3.86%        993449  [kernel]       [k] __mod_lruvec_page_state
+     3.38%        869670  [kernel]       [k] syscall_return_via_sysret
+     2.95%        759306  [kernel]       [k] psi_group_change
+     2.75%        707364  [kernel]       [k] irqentry_exit_to_user_mode
+     2.45%        630534  [kernel]       [k] perf_event_update_userpage
+     2.26%        582340  [kernel]       [k] put_page
+     2.10%        540312  [kernel]       [k] __perf_event_task_sched_out
+     2.06%        529063  [kernel]       [k] __lock_text_start
+     2.02%        519347  [kernel]       [k] __hrtimer_run_queues
+     1.99%        511540  [kernel]       [k] perf_event_task_tick
+     1.95%        500477  [kernel]       [k] perf_event_context_sched_out
+     1.89%        486357  [kernel]       [k] restore_fpregs_from_fpstate
+     1.87%        482356  [kernel]       [k] native_read_msr
+     1.81%        465648  [kernel]       [k] dst_release
+     1.76%        452287  [kernel]       [k] tick_do_update_jiffies64
+[H[2J
+   PerfTop:     671 irqs/sec  kernel: 0.6%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.77%       1422727  [kernel]       [k] error_entry
+     4.49%       1106602  [kernel]       [k] exit_to_user_mode_prepare
+     4.06%       1000065  [kernel]       [k] sync_regs
+     4.03%        993449  [kernel]       [k] perf_event_alloc
+     3.53%        869361  [kernel]       [k] __perf_event_task_sched_in
+     3.53%        869267  [kernel]       [k] __mod_lruvec_page_state
+     3.09%        760961  [kernel]       [k] syscall_return_via_sysret
+     2.98%        733938  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.76%        679432  [kernel]       [k] native_write_msr_safe
+     2.69%        664392  [kernel]       [k] psi_group_change
+     2.51%        618943  [kernel]       [k] irqentry_exit_to_user_mode
+     2.24%        551717  [kernel]       [k] perf_event_update_userpage
+     2.16%        533374  [kernel]       [k] enqueue_task
+     2.07%        509547  [kernel]       [k] put_page
+     1.92%        472773  [kernel]       [k] __perf_event_task_sched_out
+     1.88%        462930  [kernel]       [k] __lock_text_start
+     1.84%        454428  [kernel]       [k] __hrtimer_run_queues
+     1.82%        447597  [kernel]       [k] perf_event_task_tick
+     1.78%        437917  [kernel]       [k] perf_event_context_sched_out
+     1.73%        425562  [kernel]       [k] restore_fpregs_from_fpstate
+[H[2J
+   PerfTop:     721 irqs/sec  kernel: 0.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.49%       1244886  [kernel]       [k] error_entry
+     4.27%        968276  [kernel]       [k] exit_to_user_mode_prepare
+     3.86%        875056  [kernel]       [k] sync_regs
+     3.84%        869267  [kernel]       [k] perf_event_alloc
+     3.55%        803855  [kernel]       [k] event_sched_in
+     3.36%        760690  [kernel]       [k] __perf_event_task_sched_in
+     3.36%        760608  [kernel]       [k] __mod_lruvec_page_state
+     2.94%        665840  [kernel]       [k] syscall_return_via_sysret
+     2.83%        642195  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.62%        594503  [kernel]       [k] native_write_msr_safe
+     2.57%        581343  [kernel]       [k] psi_group_change
+     2.40%        542785  [kernel]       [k] generic_smp_call_function_single_
+     2.39%        541575  [kernel]       [k] irqentry_exit_to_user_mode
+     2.13%        482752  [kernel]       [k] perf_event_update_userpage
+     2.06%        466702  [kernel]       [k] enqueue_task
+     1.97%        445853  [kernel]       [k] put_page
+     1.83%        413676  [kernel]       [k] __perf_event_task_sched_out
+     1.79%        405063  [kernel]       [k] __lock_text_start
+     1.76%        397624  [kernel]       [k] __hrtimer_run_queues
+     1.73%        391647  [kernel]       [k] perf_event_task_tick
+[H[2J
+   PerfTop:     810 irqs/sec  kernel: 0.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.04%       1135371  [kernel]       [k] syscall_enter_from_user_mode
+     4.83%       1089275  [kernel]       [k] error_entry
+     4.49%       1013298  [kernel]       [k] irqentry_exit_to_user_mode
+     3.76%        847241  [kernel]       [k] exit_to_user_mode_prepare
+     3.40%        765674  [kernel]       [k] sync_regs
+     3.37%        760608  [kernel]       [k] perf_event_alloc
+     3.12%        703373  [kernel]       [k] event_sched_in
+     2.95%        665603  [kernel]       [k] __perf_event_task_sched_in
+     2.95%        665532  [kernel]       [k] __mod_lruvec_page_state
+     2.84%        640986  [kernel]       [k] __irqentry_text_end
+     2.58%        582610  [kernel]       [k] syscall_return_via_sysret
+     2.49%        561920  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.38%        537473  [kernel]       [k] perf_mux_hrtimer_handler
+     2.31%        520190  [kernel]       [k] native_write_msr_safe
+     2.26%        508675  [kernel]       [k] psi_group_change
+     2.11%        474936  [kernel]       [k] generic_smp_call_function_single_
+     1.87%        422408  [kernel]       [k] perf_event_update_userpage
+     1.81%        408364  [kernel]       [k] enqueue_task
+     1.73%        390121  [kernel]       [k] put_page
+     1.61%        361966  [kernel]       [k] __perf_event_task_sched_out
+[H[2J
+   PerfTop:     806 irqs/sec  kernel: 0.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     4.54%        993449  [kernel]       [k] syscall_enter_from_user_mode
+     4.36%        953115  [kernel]       [k] error_entry
+     4.05%        886635  [kernel]       [k] irqentry_exit_to_user_mode
+     3.79%        829959  [kernel]       [k] native_read_msr
+     3.56%        778504  [kernel]       [k] rb_next
+     3.39%        741335  [kernel]       [k] exit_to_user_mode_prepare
+     3.06%        669964  [kernel]       [k] sync_regs
+     3.04%        665532  [kernel]       [k] perf_event_alloc
+     3.03%        662579  [kernel]       [k] __update_load_avg_se
+     2.81%        615451  [kernel]       [k] event_sched_in
+     2.66%        582402  [kernel]       [k] __perf_event_task_sched_in
+     2.66%        582340  [kernel]       [k] __mod_lruvec_page_state
+     2.56%        560862  [kernel]       [k] __irqentry_text_end
+     2.39%        523293  [kernel]       [k] __get_user_8
+     2.33%        509783  [kernel]       [k] syscall_return_via_sysret
+     2.25%        491680  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.15%        470288  [kernel]       [k] perf_mux_hrtimer_handler
+     2.08%        455166  [kernel]       [k] native_write_msr_safe
+     2.03%        445090  [kernel]       [k] psi_group_change
+     1.90%        415569  [kernel]       [k] generic_smp_call_function_single_
+[H[2J
+   PerfTop:    1175 irqs/sec  kernel: 0.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     4.47%        998110  [kernel]       [k] __get_user_8
+     3.89%        869267  [kernel]       [k] syscall_enter_from_user_mode
+     3.74%        833975  [kernel]       [k] error_entry
+     3.48%        775805  [kernel]       [k] irqentry_exit_to_user_mode
+     3.37%        751612  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     3.25%        726214  [kernel]       [k] native_read_msr
+     3.05%        681191  [kernel]       [k] rb_next
+     2.91%        648668  [kernel]       [k] exit_to_user_mode_prepare
+     2.63%        586218  [kernel]       [k] sync_regs
+     2.61%        582340  [kernel]       [k] perf_event_alloc
+     2.60%        579756  [kernel]       [k] __update_load_avg_se
+     2.45%        546734  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.44%        543844  [kernel]       [k] __calc_delta
+     2.42%        539696  [kernel]       [k] x86_pmu_enable
+     2.41%        538519  [kernel]       [k] event_sched_in
+     2.28%        509601  [kernel]       [k] __perf_event_task_sched_in
+     2.28%        509547  [kernel]       [k] __mod_lruvec_page_state
+     2.23%        496924  [kernel]       [k] irq_exit_rcu
+     2.20%        490754  [kernel]       [k] __irqentry_text_end
+     2.00%        446060  [kernel]       [k] syscall_return_via_sysret
+[H[2J
+   PerfTop:    1304 irqs/sec  kernel: 0.4%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     6.43%       1428209  [kernel]       [k] native_write_msr_safe
+     4.35%        966456  [kernel]       [k] __irqentry_text_end
+     3.93%        873346  [kernel]       [k] __get_user_8
+     3.42%        760608  [kernel]       [k] syscall_enter_from_user_mode
+     3.29%        729728  [kernel]       [k] error_entry
+     3.06%        678829  [kernel]       [k] irqentry_exit_to_user_mode
+     2.96%        657660  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.86%        635437  [kernel]       [k] native_read_msr
+     2.70%        598892  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.68%        596042  [kernel]       [k] rb_next
+     2.56%        567584  [kernel]       [k] exit_to_user_mode_prepare
+     2.41%        534664  [kernel]       [k] __run_timers.part.0
+     2.31%        512940  [kernel]       [k] sync_regs
+     2.29%        509547  [kernel]       [k] perf_event_alloc
+     2.28%        507286  [kernel]       [k] __update_load_avg_se
+     2.15%        478392  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.14%        475863  [kernel]       [k] __calc_delta
+     2.13%        472234  [kernel]       [k] x86_pmu_enable
+     2.12%        471204  [kernel]       [k] event_sched_in
+     2.01%        445900  [kernel]       [k] __perf_event_task_sched_in
+[H[2J
+   PerfTop:    1786 irqs/sec  kernel: 0.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     7.26%       1650880  [kernel]       [k] native_read_msr
+     5.49%       1249682  [kernel]       [k] native_write_msr_safe
+     3.72%        845649  [kernel]       [k] __irqentry_text_end
+     3.36%        764177  [kernel]       [k] __get_user_8
+     2.93%        665532  [kernel]       [k] syscall_enter_from_user_mode
+     2.81%        638512  [kernel]       [k] error_entry
+     2.61%        593975  [kernel]       [k] irqentry_exit_to_user_mode
+     2.53%        575452  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.49%        566477  [kernel]       [k] intel_pmu_enable_all
+     2.46%        560241  [kernel]       [k] mem_cgroup_handle_over_high
+     2.46%        558933  [kernel]       [k] _raw_spin_trylock
+     2.37%        538596  [kernel]       [k] native_apic_msr_eoi_write
+     2.30%        524030  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.29%        521536  [kernel]       [k] rb_next
+     2.18%        496636  [kernel]       [k] exit_to_user_mode_prepare
+     2.06%        467831  [kernel]       [k] __run_timers.part.0
+     1.97%        448822  [kernel]       [k] sync_regs
+     1.96%        445853  [kernel]       [k] perf_event_alloc
+     1.95%        443875  [kernel]       [k] __update_load_avg_se
+     1.84%        418593  [kernel]       [k] visit_groups_merge.constprop.0.is
+[H[2J
+   PerfTop:    1764 irqs/sec  kernel: 0.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     8.05%       1818563  [kernel]       [k] __irqentry_text_end
+     6.39%       1444520  [kernel]       [k] native_read_msr
+     4.84%       1093471  [kernel]       [k] native_write_msr_safe
+     2.96%        668654  [kernel]       [k] __get_user_8
+     2.58%        582340  [kernel]       [k] syscall_enter_from_user_mode
+     2.47%        558698  [kernel]       [k] error_entry
+     2.45%        553408  [kernel]       [k] update_curr
+     2.38%        538433  [kernel]       [k] update_vdso_data.constprop.0
+     2.35%        531399  [kernel]       [k] load_balance
+     2.30%        519728  [kernel]       [k] irqentry_exit_to_user_mode
+     2.23%        503520  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.19%        495667  [kernel]       [k] intel_pmu_enable_all
+     2.17%        490210  [kernel]       [k] mem_cgroup_handle_over_high
+     2.16%        489066  [kernel]       [k] _raw_spin_trylock
+     2.09%        471271  [kernel]       [k] native_apic_msr_eoi_write
+     2.03%        458526  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.02%        456344  [kernel]       [k] rb_next
+     1.92%        434556  [kernel]       [k] exit_to_user_mode_prepare
+     1.81%        409352  [kernel]       [k] __run_timers.part.0
+     1.74%        392719  [kernel]       [k] sync_regs
+[H[2J
+   PerfTop:    1581 irqs/sec  kernel: 0.5%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     6.48%       1591242  [kernel]       [k] __irqentry_text_end
+     5.14%       1263955  [kernel]       [k] native_read_msr
+     4.62%       1135371  [kernel]       [k] perf_try_init_event
+     4.56%       1120903  [kernel]       [k] __update_load_avg_cfs_rq
+     4.00%        983350  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     3.89%        956787  [kernel]       [k] native_write_msr_safe
+     2.86%        703583  [kernel]       [k] perf_event_update_userpage
+     2.38%        585072  [kernel]       [k] __get_user_8
+     2.31%        567866  [kernel]       [k] select_idle_sibling
+     2.18%        534824  [kernel]       [k] task_h_load
+     2.17%        534077  [kernel]       [k] ip_skb_dst_mtu
+     2.07%        509547  [kernel]       [k] syscall_enter_from_user_mode
+     1.99%        488860  [kernel]       [k] error_entry
+     1.97%        484232  [kernel]       [k] update_curr
+     1.92%        471128  [kernel]       [k] update_vdso_data.constprop.0
+     1.89%        464974  [kernel]       [k] load_balance
+     1.85%        454762  [kernel]       [k] irqentry_exit_to_user_mode
+     1.77%        433708  [kernel]       [k] intel_pmu_enable_all
+     1.75%        428933  [kernel]       [k] mem_cgroup_handle_over_high
+     1.74%        427932  [kernel]       [k] _raw_spin_trylock
+[H[2J
+   PerfTop:    1935 irqs/sec  kernel: 0.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.77%       1392336  [kernel]       [k] __irqentry_text_end
+     4.59%       1105960  [kernel]       [k] native_read_msr
+     4.36%       1052180  [kernel]       [k] __get_user_8
+     4.12%        993449  [kernel]       [k] perf_try_init_event
+     4.07%        980790  [kernel]       [k] __update_load_avg_cfs_rq
+     3.57%        860431  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     3.50%        844476  [kernel]       [k] __sysvec_apic_timer_interrupt
+     3.47%        837188  [kernel]       [k] native_write_msr_safe
+     2.55%        615635  [kernel]       [k] perf_event_update_userpage
+     2.48%        598293  [kernel]       [k] perf_event_groups_first
+     2.47%        595023  [kernel]       [k] merge_sched_in
+     2.23%        538936  [kernel]       [k] __sysvec_thermal
+     2.06%        496882  [kernel]       [k] select_idle_sibling
+     1.94%        467971  [kernel]       [k] task_h_load
+     1.94%        467317  [kernel]       [k] ip_skb_dst_mtu
+     1.85%        445853  [kernel]       [k] syscall_enter_from_user_mode
+     1.77%        427752  [kernel]       [k] error_entry
+     1.76%        423703  [kernel]       [k] update_curr
+     1.71%        412237  [kernel]       [k] update_vdso_data.constprop.0
+     1.69%        406852  [kernel]       [k] load_balance
+[H[2J
+   PerfTop:    2393 irqs/sec  kernel: 0.3%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+     5.11%       1291907  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     4.82%       1218294  [kernel]       [k] __irqentry_text_end
+     3.91%        989346  [kernel]       [k] merge_sched_in
+     3.83%        967715  [kernel]       [k] native_read_msr
+     3.64%        920657  [kernel]       [k] __get_user_8
+     3.44%        869954  [kernel]       [k] irqentry_exit_to_user_mode
+     3.44%        869267  [kernel]       [k] perf_try_init_event
+     3.39%        858191  [kernel]       [k] __update_load_avg_cfs_rq
+     3.31%        837990  [kernel]       [k] rb_next
+     2.92%        738916  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.90%        732539  [kernel]       [k] native_write_msr_safe
+     2.59%        655265  [kernel]       [k] __hrtimer_run_queues
+     2.25%        569320  [kernel]       [k] hrtimer_interrupt
+     2.13%        538680  [kernel]       [k] perf_event_update_userpage
+     2.10%        531672  [kernel]       [k] cyc2ns_read_begin
+     2.09%        529878  [kernel]       [k] perf_log_itrace_start
+     2.07%        523506  [kernel]       [k] perf_event_groups_first
+     1.86%        471569  [kernel]       [k] __sysvec_thermal
+     1.72%        434771  [kernel]       [k] select_idle_sibling
+     1.62%        409474  [kernel]       [k] task_h_load
+[H[2J
+   PerfTop:     697 irqs/sec  kernel: 5.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    15.81%       7003214  [kernel]       [k] zap_pte_range
+     5.44%       2411337  [kernel]       [k] page_remove_rmap
+     4.27%       1893090  [kernel]       [k] free_swap_cache
+     4.21%       1866403  [kernel]       [k] release_pages
+     3.57%       1580916  [kernel]       [k] __irqentry_text_end
+     3.16%       1400829  [kernel]       [k] __mod_lruvec_page_state
+     3.14%       1391539  [kernel]       [k] native_read_msr
+     2.55%       1130418  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.41%       1069327  [kernel]       [k] __slab_free
+     1.95%        865677  [kernel]       [k] merge_sched_in
+     1.82%        805574  [kernel]       [k] __get_user_8
+     1.72%        761209  [kernel]       [k] irqentry_exit_to_user_mode
+     1.72%        760608  [kernel]       [k] perf_try_init_event
+     1.70%        750917  [kernel]       [k] __update_load_avg_cfs_rq
+     1.66%        733241  [kernel]       [k] rb_next
+     1.64%        725162  [kernel]       [k] __perf_event_task_sched_in
+     1.52%        674785  [kernel]       [k] __mod_node_page_state
+     1.46%        646551  [kernel]       [k] __sysvec_apic_timer_interrupt
+     1.45%        640971  [kernel]       [k] native_write_msr_safe
+     1.40%        621838  [kernel]       [k] __tlb_remove_page_size
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    15.81%       6127812  [kernel]       [k] zap_pte_range
+     5.44%       2109919  [kernel]       [k] page_remove_rmap
+     4.27%       1656453  [kernel]       [k] free_swap_cache
+     4.21%       1633102  [kernel]       [k] release_pages
+     3.57%       1383301  [kernel]       [k] __irqentry_text_end
+     3.16%       1225725  [kernel]       [k] __mod_lruvec_page_state
+     3.14%       1217596  [kernel]       [k] native_read_msr
+     2.55%        989115  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.41%        935661  [kernel]       [k] __slab_free
+     1.95%        757467  [kernel]       [k] merge_sched_in
+     1.82%        704877  [kernel]       [k] __get_user_8
+     1.72%        666057  [kernel]       [k] irqentry_exit_to_user_mode
+     1.72%        665532  [kernel]       [k] perf_try_init_event
+     1.70%        657052  [kernel]       [k] __update_load_avg_cfs_rq
+     1.66%        641585  [kernel]       [k] rb_next
+     1.64%        634516  [kernel]       [k] __perf_event_task_sched_in
+     1.52%        590436  [kernel]       [k] __mod_node_page_state
+     1.46%        565732  [kernel]       [k] __sysvec_apic_timer_interrupt
+     1.45%        560849  [kernel]       [k] native_write_msr_safe
+     1.40%        544108  [kernel]       [k] __tlb_remove_page_size
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    15.81%       5361835  [kernel]       [k] zap_pte_range
+     5.44%       1846179  [kernel]       [k] page_remove_rmap
+     4.27%       1449396  [kernel]       [k] free_swap_cache
+     4.21%       1428964  [kernel]       [k] release_pages
+     3.57%       1210388  [kernel]       [k] __irqentry_text_end
+     3.16%       1072509  [kernel]       [k] __mod_lruvec_page_state
+     3.14%       1065396  [kernel]       [k] native_read_msr
+     2.55%        865475  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.41%        818703  [kernel]       [k] __slab_free
+     1.95%        662783  [kernel]       [k] merge_sched_in
+     1.82%        616767  [kernel]       [k] __get_user_8
+     1.72%        582799  [kernel]       [k] irqentry_exit_to_user_mode
+     1.72%        582340  [kernel]       [k] perf_try_init_event
+     1.70%        574920  [kernel]       [k] __update_load_avg_cfs_rq
+     1.66%        561386  [kernel]       [k] rb_next
+     1.64%        555201  [kernel]       [k] __perf_event_task_sched_in
+     1.52%        516631  [kernel]       [k] __mod_node_page_state
+     1.46%        495015  [kernel]       [k] __sysvec_apic_timer_interrupt
+     1.45%        490742  [kernel]       [k] native_write_msr_safe
+     1.40%        476094  [kernel]       [k] __tlb_remove_page_size
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    15.81%       4691605  [kernel]       [k] zap_pte_range
+     5.44%       1615406  [kernel]       [k] page_remove_rmap
+     4.27%       1268221  [kernel]       [k] free_swap_cache
+     4.21%       1250343  [kernel]       [k] release_pages
+     3.57%       1059089  [kernel]       [k] __irqentry_text_end
+     3.16%        938445  [kernel]       [k] __mod_lruvec_page_state
+     3.14%        932221  [kernel]       [k] native_read_msr
+     2.55%        757290  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.41%        716365  [kernel]       [k] __slab_free
+     1.95%        579935  [kernel]       [k] merge_sched_in
+     1.82%        539671  [kernel]       [k] __get_user_8
+     1.72%        509949  [kernel]       [k] irqentry_exit_to_user_mode
+     1.72%        509547  [kernel]       [k] perf_try_init_event
+     1.70%        503055  [kernel]       [k] __update_load_avg_cfs_rq
+     1.66%        491212  [kernel]       [k] rb_next
+     1.64%        485800  [kernel]       [k] __perf_event_task_sched_in
+     1.52%        452052  [kernel]       [k] __mod_node_page_state
+     1.46%        433138  [kernel]       [k] __sysvec_apic_timer_interrupt
+     1.45%        429399  [kernel]       [k] native_write_msr_safe
+     1.40%        416582  [kernel]       [k] __tlb_remove_page_size
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/753 [4000Hz cycles],  (target_pid: 1505929)
+-------------------------------------------------------------------------------
+
+    15.81%       4105154  [kernel]       [k] zap_pte_range
+     5.44%       1413480  [kernel]       [k] page_remove_rmap
+     4.27%       1109693  [kernel]       [k] free_swap_cache
+     4.21%       1094050  [kernel]       [k] release_pages
+     3.57%        926702  [kernel]       [k] __irqentry_text_end
+     3.16%        821139  [kernel]       [k] __mod_lruvec_page_state
+     3.14%        815693  [kernel]       [k] native_read_msr
+     2.55%        662628  [kernel]       [k] asm_sysvec_apic_timer_interrupt
+     2.41%        626819  [kernel]       [k] __slab_free
+     1.95%        507443  [kernel]       [k] merge_sched_in
+     1.82%        472212  [kernel]       [k] __get_user_8
+     1.72%        446205  [kernel]       [k] irqentry_exit_to_user_mode
+     1.72%        445853  [kernel]       [k] perf_try_init_event
+     1.70%        440173  [kernel]       [k] __update_load_avg_cfs_rq
+     1.66%        429810  [kernel]       [k] rb_next
+     1.64%        425075  [kernel]       [k] __perf_event_task_sched_in
+     1.52%        395545  [kernel]       [k] __mod_node_page_state
+     1.46%        378995  [kernel]       [k] __sysvec_apic_timer_interrupt
+     1.45%        375724  [kernel]       [k] native_write_msr_safe
+     1.40%        364509  [kernel]       [k] __tlb_remove_page_size

@@ -1,0 +1,309 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 25/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    65.09%         98125  [kernel]       [k] kfree
+    32.36%         48788  [kernel]       [k] hsw_get_event_constraints
+     2.36%          3563  [kernel]       [k] __hrtimer_run_queues
+     0.18%           278  [kernel]       [k] perf_mux_hrtimer_handler
+     0.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    23.02%         98125  [kernel]       [k] perf_event_groups_insert
+    23.02%         98125  [kernel]       [k] perf_log_itrace_start
+    23.02%         98125  [kernel]       [k] update_curr
+    20.14%         85859  [kernel]       [k] kfree
+    10.01%         42689  [kernel]       [k] hsw_get_event_constraints
+     0.73%          3117  [kernel]       [k] __hrtimer_run_queues
+     0.06%           243  [kernel]       [k] perf_mux_hrtimer_handler
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    14.81%         98125  [kernel]       [k] intel_pmu_event_map
+    14.81%         98125  [kernel]       [k] merge_sched_in
+    14.11%         93522  [kernel]       [k] mutex_lock
+    12.95%         85859  [kernel]       [k] perf_event_groups_insert
+    12.95%         85859  [kernel]       [k] perf_log_itrace_start
+    12.95%         85859  [kernel]       [k] update_curr
+    11.34%         75126  [kernel]       [k] kfree
+     5.64%         37352  [kernel]       [k] hsw_get_event_constraints
+     0.41%          2727  [kernel]       [k] __hrtimer_run_queues
+     0.03%           212  [kernel]       [k] perf_mux_hrtimer_handler
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    18.96%        177129  [kernel]       [k] psi_group_change
+    15.99%        149342  [kernel]       [k] kfree
+    10.01%         93522  [kernel]       [k] obj_cgroup_charge_pages
+     9.19%         85859  [kernel]       [k] intel_pmu_event_map
+     9.19%         85859  [kernel]       [k] merge_sched_in
+     8.76%         81831  [kernel]       [k] mutex_lock
+     8.04%         75126  [kernel]       [k] perf_event_groups_insert
+     8.04%         75126  [kernel]       [k] perf_log_itrace_start
+     8.04%         75126  [kernel]       [k] update_curr
+     3.50%         32683  [kernel]       [k] hsw_get_event_constraints
+     0.26%          2386  [kernel]       [k] __hrtimer_run_queues
+     0.02%           185  [kernel]       [k] perf_mux_hrtimer_handler
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:60.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+    14.51%        154987  [kernel]       [k] psi_group_change
+    12.23%        130674  [kernel]       [k] kfree
+     7.83%         83607  [kernel]       [k] __lock_text_start
+     7.83%         83607  [kernel]       [k] kmem_cache_alloc_trace
+     7.83%         83607  [kernel]       [k] rb_next
+     7.66%         81831  [kernel]       [k] obj_cgroup_charge_pages
+     7.03%         75126  [kernel]       [k] intel_pmu_event_map
+     7.03%         75126  [kernel]       [k] merge_sched_in
+     6.70%         71602  [kernel]       [k] mutex_lock
+     6.15%         65735  [kernel]       [k] perf_event_groups_insert
+     6.15%         65735  [kernel]       [k] perf_log_itrace_start
+     6.15%         65735  [kernel]       [k] update_curr
+     2.68%         28597  [kernel]       [k] hsw_get_event_constraints
+     0.20%          2087  [kernel]       [k] __hrtimer_run_queues
+     0.02%           161  [kernel]       [k] perf_mux_hrtimer_handler
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:87.5%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     9.38%        141125  [kernel]       [k] perf_event_groups_insert
+     9.02%        135613  [kernel]       [k] psi_group_change
+     7.60%        114339  [kernel]       [k] kfree
+     7.06%        106162  [kernel]       [k] hsw_get_event_constraints
+     5.56%         83607  [kernel]       [k] list_add_event
+     5.56%         83607  [kernel]       [k] memcg_slab_free_hook
+     5.56%         83607  [kernel]       [k] update_rq_clock
+     5.40%         81140  [kernel]       [k] ___slab_alloc
+     4.86%         73156  [kernel]       [k] __lock_text_start
+     4.86%         73156  [kernel]       [k] kmem_cache_alloc_trace
+     4.86%         73156  [kernel]       [k] rb_next
+     4.82%         72481  [kernel]       [k] _find_next_bit
+     4.76%         71602  [kernel]       [k] obj_cgroup_charge_pages
+     4.37%         65735  [kernel]       [k] intel_pmu_event_map
+     4.37%         65735  [kernel]       [k] merge_sched_in
+     4.17%         62651  [kernel]       [k] mutex_lock
+     3.82%         57518  [kernel]       [k] perf_log_itrace_start
+     3.82%         57518  [kernel]       [k] update_curr
+     0.12%          1826  [kernel]       [k] __hrtimer_run_queues
+     0.01%           140  [kernel]       [k] perf_mux_hrtimer_handler
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:71.4%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     8.68%        145637  [kernel]       [k] list_add_event
+     7.36%        123484  [kernel]       [k] perf_event_groups_insert
+     7.07%        118661  [kernel]       [k] psi_group_change
+     5.96%        100046  [kernel]       [k] kfree
+     5.53%         92891  [kernel]       [k] hsw_get_event_constraints
+     4.36%         73156  [kernel]       [k] memcg_slab_free_hook
+     4.36%         73156  [kernel]       [k] update_rq_clock
+     4.32%         72481  [kernel]       [k] ___perf_sw_event
+     4.32%         72481  [kernel]       [k] __task_pid_nr_ns
+     4.32%         72481  [kernel]       [k] perf_event_alloc
+     4.32%         72481  [kernel]       [k] rb_insert_color
+     4.23%         70997  [kernel]       [k] ___slab_alloc
+     3.81%         64011  [kernel]       [k] __lock_text_start
+     3.81%         64011  [kernel]       [k] kmem_cache_alloc_trace
+     3.81%         64011  [kernel]       [k] rb_next
+     3.78%         63420  [kernel]       [k] _find_next_bit
+     3.73%         62651  [kernel]       [k] obj_cgroup_charge_pages
+     3.43%         57518  [kernel]       [k] intel_pmu_event_map
+     3.43%         57518  [kernel]       [k] merge_sched_in
+     3.27%         54819  [kernel]       [k] mutex_lock
+[H[2J
+   PerfTop:       9 irqs/sec  kernel:55.6%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     9.64%        176309  [kernel]       [k] psi_group_change
+     6.97%        127432  [kernel]       [k] list_add_event
+     5.91%        108048  [kernel]       [k] perf_event_groups_insert
+     4.79%         87540  [kernel]       [k] kfree
+     4.45%         81279  [kernel]       [k] hsw_get_event_constraints
+     3.96%         72481  [kernel]       [k] __update_load_avg_se
+     3.96%         72481  [kernel]       [k] memcpy_erms
+     3.90%         71296  [kernel]       [k] alloc_pages_vma
+     3.90%         71296  [kernel]       [k] intel_get_event_constraints
+     3.50%         64011  [kernel]       [k] memcg_slab_free_hook
+     3.50%         64011  [kernel]       [k] update_rq_clock
+     3.47%         63420  [kernel]       [k] ___perf_sw_event
+     3.47%         63420  [kernel]       [k] __task_pid_nr_ns
+     3.47%         63420  [kernel]       [k] perf_event_alloc
+     3.47%         63420  [kernel]       [k] rb_insert_color
+     3.40%         62122  [kernel]       [k] ___slab_alloc
+     3.06%         56009  [kernel]       [k] __lock_text_start
+     3.06%         56009  [kernel]       [k] kmem_cache_alloc_trace
+     3.06%         56009  [kernel]       [k] rb_next
+     3.03%         55492  [kernel]       [k] _find_next_bit
+[H[2J
+   PerfTop:      11 irqs/sec  kernel:72.7%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     7.11%        154270  [kernel]       [k] psi_group_change
+     6.81%        147893  [kernel]       [k] kfree
+     6.57%        142592  [kernel]       [k] event_sched_in
+     5.31%        115333  [kernel]       [k] merge_sched_in
+     5.14%        111503  [kernel]       [k] list_add_event
+     4.36%         94542  [kernel]       [k] perf_event_groups_insert
+     3.29%         71296  [kernel]       [k] __memcg_kmem_charge_page
+     3.29%         71296  [kernel]       [k] inherit_event.constprop.0
+     3.29%         71296  [kernel]       [k] memset_erms
+     3.29%         71296  [kernel]       [k] perf_iterate_ctx
+     3.28%         71119  [kernel]       [k] hsw_get_event_constraints
+     2.92%         63420  [kernel]       [k] __update_load_avg_se
+     2.92%         63420  [kernel]       [k] memcpy_erms
+     2.87%         62384  [kernel]       [k] alloc_pages_vma
+     2.87%         62384  [kernel]       [k] intel_get_event_constraints
+     2.58%         56009  [kernel]       [k] memcg_slab_free_hook
+     2.58%         56009  [kernel]       [k] update_rq_clock
+     2.56%         55492  [kernel]       [k] ___perf_sw_event
+     2.56%         55492  [kernel]       [k] __task_pid_nr_ns
+     2.56%         55492  [kernel]       [k] perf_event_alloc
+[H[2J
+   PerfTop:      17 irqs/sec  kernel:29.4%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     8.75%        197935  [kernel]       [k] event_sched_in
+     5.97%        134986  [kernel]       [k] psi_group_change
+     5.72%        129406  [kernel]       [k] kfree
+     5.65%        127753  [kernel]       [k] alloc_pages_vma
+     5.38%        121722  [kernel]       [k] perf_event_alloc
+     5.26%        118857  [kernel]       [k] ___slab_alloc
+     4.46%        100916  [kernel]       [k] merge_sched_in
+     4.31%         97565  [kernel]       [k] list_add_event
+     3.66%         82724  [kernel]       [k] perf_event_groups_insert
+     3.15%         71296  [kernel]       [k] intel_pmu_hw_config.part.0
+     2.76%         62384  [kernel]       [k] __memcg_kmem_charge_page
+     2.76%         62384  [kernel]       [k] inherit_event.constprop.0
+     2.76%         62384  [kernel]       [k] memset_erms
+     2.76%         62384  [kernel]       [k] perf_iterate_ctx
+     2.75%         62229  [kernel]       [k] hsw_get_event_constraints
+     2.45%         55492  [kernel]       [k] __update_load_avg_se
+     2.45%         55492  [kernel]       [k] memcpy_erms
+     2.41%         54586  [kernel]       [k] intel_get_event_constraints
+     2.17%         49007  [kernel]       [k] memcg_slab_free_hook
+     2.17%         49007  [kernel]       [k] update_rq_clock
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:16.7%  exact:  0.0% lost: 0/0 drop: 1/26 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     8.21%        173193  [kernel]       [k] event_sched_in
+     6.27%        132269  [kernel]       [k] ctx_sched_in
+     5.60%        118112  [kernel]       [k] psi_group_change
+     5.36%        113230  [kernel]       [k] kfree
+     5.30%        111783  [kernel]       [k] alloc_pages_vma
+     5.05%        106506  [kernel]       [k] perf_event_alloc
+     4.93%        103999  [kernel]       [k] ___slab_alloc
+     4.18%         88301  [kernel]       [k] merge_sched_in
+     4.04%         85369  [kernel]       [k] list_add_event
+     3.43%         72383  [kernel]       [k] perf_event_groups_insert
+     2.96%         62384  [kernel]       [k] intel_pmu_hw_config.part.0
+     2.59%         54586  [kernel]       [k] __memcg_kmem_charge_page
+     2.59%         54586  [kernel]       [k] inherit_event.constprop.0
+     2.59%         54586  [kernel]       [k] memset_erms
+     2.59%         54586  [kernel]       [k] perf_iterate_ctx
+     2.58%         54450  [kernel]       [k] hsw_get_event_constraints
+     2.30%         48555  [kernel]       [k] __update_load_avg_se
+     2.30%         48555  [kernel]       [k] memcpy_erms
+     2.26%         47762  [kernel]       [k] intel_get_event_constraints
+     2.03%         42881  [kernel]       [k] memcg_slab_free_hook
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/26 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     8.21%        151543  [kernel]       [k] event_sched_in
+     6.27%        115735  [kernel]       [k] ctx_sched_in
+     5.60%        103348  [kernel]       [k] psi_group_change
+     5.36%         99076  [kernel]       [k] kfree
+     5.30%         97810  [kernel]       [k] alloc_pages_vma
+     5.05%         93192  [kernel]       [k] perf_event_alloc
+     4.93%         90999  [kernel]       [k] ___slab_alloc
+     4.18%         77263  [kernel]       [k] merge_sched_in
+     4.04%         74697  [kernel]       [k] list_add_event
+     3.43%         63335  [kernel]       [k] perf_event_groups_insert
+     2.96%         54586  [kernel]       [k] intel_pmu_hw_config.part.0
+     2.59%         47762  [kernel]       [k] __memcg_kmem_charge_page
+     2.59%         47762  [kernel]       [k] inherit_event.constprop.0
+     2.59%         47762  [kernel]       [k] memset_erms
+     2.59%         47762  [kernel]       [k] perf_iterate_ctx
+     2.58%         47643  [kernel]       [k] hsw_get_event_constraints
+     2.30%         42485  [kernel]       [k] __update_load_avg_se
+     2.30%         42485  [kernel]       [k] memcpy_erms
+     2.26%         41791  [kernel]       [k] intel_get_event_constraints
+     2.03%         37520  [kernel]       [k] memcg_slab_free_hook
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/26 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     8.21%        132600  [kernel]       [k] event_sched_in
+     6.27%        101268  [kernel]       [k] ctx_sched_in
+     5.60%         90429  [kernel]       [k] psi_group_change
+     5.36%         86691  [kernel]       [k] kfree
+     5.30%         85583  [kernel]       [k] alloc_pages_vma
+     5.05%         81543  [kernel]       [k] perf_event_alloc
+     4.93%         79624  [kernel]       [k] ___slab_alloc
+     4.18%         67605  [kernel]       [k] merge_sched_in
+     4.04%         65359  [kernel]       [k] list_add_event
+     3.43%         55418  [kernel]       [k] perf_event_groups_insert
+     2.96%         47762  [kernel]       [k] intel_pmu_hw_config.part.0
+     2.59%         41791  [kernel]       [k] __memcg_kmem_charge_page
+     2.59%         41791  [kernel]       [k] inherit_event.constprop.0
+     2.59%         41791  [kernel]       [k] memset_erms
+     2.59%         41791  [kernel]       [k] perf_iterate_ctx
+     2.58%         41687  [kernel]       [k] hsw_get_event_constraints
+     2.30%         37174  [kernel]       [k] __update_load_avg_se
+     2.30%         37174  [kernel]       [k] memcpy_erms
+     2.26%         36567  [kernel]       [k] intel_get_event_constraints
+     2.03%         32830  [kernel]       [k] memcg_slab_free_hook
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/26 [4000Hz branch],  (target_pid: 2412990)
+-------------------------------------------------------------------------------
+
+     8.21%        116025  [kernel]       [k] event_sched_in
+     6.27%         88609  [kernel]       [k] ctx_sched_in
+     5.60%         79125  [kernel]       [k] psi_group_change
+     5.36%         75854  [kernel]       [k] kfree
+     5.30%         74885  [kernel]       [k] alloc_pages_vma
+     5.05%         71350  [kernel]       [k] perf_event_alloc
+     4.93%         69671  [kernel]       [k] ___slab_alloc
+     4.18%         59154  [kernel]       [k] merge_sched_in
+     4.04%         57189  [kernel]       [k] list_add_event
+     3.43%         48490  [kernel]       [k] perf_event_groups_insert
+     2.96%         41791  [kernel]       [k] intel_pmu_hw_config.part.0
+     2.59%         36567  [kernel]       [k] __memcg_kmem_charge_page
+     2.59%         36567  [kernel]       [k] inherit_event.constprop.0
+     2.59%         36567  [kernel]       [k] memset_erms
+     2.59%         36567  [kernel]       [k] perf_iterate_ctx
+     2.58%         36476  [kernel]       [k] hsw_get_event_constraints
+     2.30%         32527  [kernel]       [k] __update_load_avg_se
+     2.30%         32527  [kernel]       [k] memcpy_erms
+     2.26%         31996  [kernel]       [k] intel_get_event_constraints
+     2.03%         28726  [kernel]       [k] memcg_slab_free_hook

@@ -1,0 +1,152 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      15 irqs/sec  kernel:73.3%  exact:  0.0% lost: 0/0 drop: 22/22 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+    27.98%       1137652  [kernel]       [k] psi_group_change
+     9.77%        397103  [kernel]       [k] enqueue_task_fair
+     9.77%        397103  [kernel]       [k] native_sched_clock
+     9.34%        379861  [kernel]       [k] exit_to_user_mode_loop
+     9.34%        379861  [kernel]       [k] syscall_return_via_sysret
+     8.45%        343446  [kernel]       [k] intel_cpuc_prepare
+     8.45%        343446  [kernel]       [k] kfree
+     8.45%        343446  [kernel]       [k] obj_cgroup_charge_pages
+     8.45%        343446  [kernel]       [k] perf_iterate_ctx
+     0.00%             1  [kernel]       [k] intel_pmu_enable_all
+[H[2J
+   PerfTop:      31 irqs/sec  kernel:38.7%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+    12.86%        995445  [kernel]       [k] psi_group_change
+     8.88%        686892  [kernel]       [k] ___slab_alloc
+     8.73%        675824  [kernel]       [k] syscall_return_via_sysret
+     8.32%        643961  [kernel]       [k] kfree
+     5.22%        403971  [kernel]       [k] get_futex_key
+     4.49%        347465  [kernel]       [k] enqueue_task_fair
+     4.49%        347465  [kernel]       [k] native_sched_clock
+     4.44%        343446  [kernel]       [k] __srcu_read_unlock
+     4.44%        343446  [kernel]       [k] do_futex
+     4.44%        343446  [kernel]       [k] finish_task_switch.isra.0
+     4.44%        343446  [kernel]       [k] get_seccomp_filter
+     4.44%        343446  [kernel]       [k] memcg_slab_free_hook
+     4.44%        343446  [kernel]       [k] perf_event__id_header_size
+     4.44%        343446  [kernel]       [k] perf_event_alloc
+     4.29%        332378  [kernel]       [k] exit_to_user_mode_loop
+     3.88%        300515  [kernel]       [k] intel_cpuc_prepare
+     3.88%        300515  [kernel]       [k] obj_cgroup_charge_pages
+     3.88%        300515  [kernel]       [k] perf_iterate_ctx
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+    11.49%        871014  [kernel]       [k] psi_group_change
+     7.93%        601030  [kernel]       [k] ___slab_alloc
+     7.80%        591346  [kernel]       [k] syscall_return_via_sysret
+     7.43%        563465  [kernel]       [k] kfree
+     5.33%        403971  [kernel]       [k] fpregs_assert_state_consistent
+     5.33%        403971  [kernel]       [k] rb_next
+     4.66%        353474  [kernel]       [k] get_futex_key
+     4.01%        304031  [kernel]       [k] enqueue_task_fair
+     4.01%        304031  [kernel]       [k] native_sched_clock
+     3.96%        300515  [kernel]       [k] __srcu_read_unlock
+     3.96%        300515  [kernel]       [k] do_futex
+     3.96%        300515  [kernel]       [k] finish_task_switch.isra.0
+     3.96%        300515  [kernel]       [k] get_seccomp_filter
+     3.96%        300515  [kernel]       [k] memcg_slab_free_hook
+     3.96%        300515  [kernel]       [k] perf_event__id_header_size
+     3.96%        300515  [kernel]       [k] perf_event_alloc
+     3.84%        290830  [kernel]       [k] exit_to_user_mode_loop
+     3.47%        262950  [kernel]       [k] intel_cpuc_prepare
+     3.47%        262950  [kernel]       [k] obj_cgroup_charge_pages
+     3.47%        262950  [kernel]       [k] perf_iterate_ctx
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz instructions],  (target_pid: 1963956)
+-------------------------------------------------------------------------------
+
+    11.49%        762137  [kernel]       [k] psi_group_change
+     7.93%        525901  [kernel]       [k] ___slab_alloc
+     7.80%        517427  [kernel]       [k] syscall_return_via_sysret
+     7.43%        493031  [kernel]       [k] kfree
+     5.33%        353474  [kernel]       [k] fpregs_assert_state_consistent
+     5.33%        353474  [kernel]       [k] rb_next
+     4.66%        309289  [kernel]       [k] get_futex_key
+     4.01%        266027  [kernel]       [k] enqueue_task_fair
+     4.01%        266027  [kernel]       [k] native_sched_clock
+     3.96%        262950  [kernel]       [k] __srcu_read_unlock
+     3.96%        262950  [kernel]       [k] do_futex
+     3.96%        262950  [kernel]       [k] finish_task_switch.isra.0
+     3.96%        262950  [kernel]       [k] get_seccomp_filter
+     3.96%        262950  [kernel]       [k] memcg_slab_free_hook
+     3.96%        262950  [kernel]       [k] perf_event__id_header_size
+     3.96%        262950  [kernel]       [k] perf_event_alloc
+     3.84%        254476  [kernel]       [k] exit_to_user_mode_loop
+     3.47%        230081  [kernel]       [k] intel_cpuc_prepare
+     3.47%        230081  [kernel]       [k] obj_cgroup_charge_pages
+     3.47%        230081  [kernel]       [k] perf_iterate_ctx

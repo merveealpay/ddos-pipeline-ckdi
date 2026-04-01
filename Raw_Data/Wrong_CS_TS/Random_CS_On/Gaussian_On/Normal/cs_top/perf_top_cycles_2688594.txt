@@ -1,0 +1,815 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      18 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 54/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     8.53%        398983  [kernel]       [k] ___slab_alloc
+     8.53%        398983  [kernel]       [k] perf_swevent_add
+     8.53%        398983  [kernel]       [k] psi_task_switch
+     8.53%        398983  [kernel]       [k] sched_clock_cpu
+     8.53%        398983  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.53%        398983  [kernel]       [k] x86_pmu_hw_config
+     8.14%        380629  [kernel]       [k] inherit_event.constprop.0
+     8.14%        380629  [kernel]       [k] inherit_task_group.isra.0
+     8.14%        380629  [kernel]       [k] merge_sched_in
+     8.14%        380629  [kernel]       [k] rb_next
+     8.14%        380629  [kernel]       [k] update_min_vruntime
+     8.14%        380629  [kernel]       [k] vmacache_find
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.33%        687483  [kernel]       [k] vmacache_find
+     6.87%        354433  [kernel]       [k] copy_creds
+     6.87%        354433  [kernel]       [k] exit_to_user_mode_loop
+     6.77%        349110  [kernel]       [k] ___slab_alloc
+     6.77%        349110  [kernel]       [k] perf_swevent_add
+     6.77%        349110  [kernel]       [k] psi_task_switch
+     6.77%        349110  [kernel]       [k] sched_clock_cpu
+     6.77%        349110  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.77%        349110  [kernel]       [k] x86_pmu_hw_config
+     6.46%        333050  [kernel]       [k] inherit_event.constprop.0
+     6.46%        333050  [kernel]       [k] inherit_task_group.isra.0
+     6.46%        333050  [kernel]       [k] merge_sched_in
+     6.46%        333050  [kernel]       [k] rb_next
+     6.46%        333050  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.33%        601547  [kernel]       [k] vmacache_find
+     6.87%        310128  [kernel]       [k] copy_creds
+     6.87%        310128  [kernel]       [k] exit_to_user_mode_loop
+     6.77%        305471  [kernel]       [k] ___slab_alloc
+     6.77%        305471  [kernel]       [k] perf_swevent_add
+     6.77%        305471  [kernel]       [k] psi_task_switch
+     6.77%        305471  [kernel]       [k] sched_clock_cpu
+     6.77%        305471  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.77%        305471  [kernel]       [k] x86_pmu_hw_config
+     6.46%        291418  [kernel]       [k] inherit_event.constprop.0
+     6.46%        291418  [kernel]       [k] inherit_task_group.isra.0
+     6.46%        291418  [kernel]       [k] merge_sched_in
+     6.46%        291418  [kernel]       [k] rb_next
+     6.46%        291418  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.33%        526353  [kernel]       [k] vmacache_find
+     6.87%        271362  [kernel]       [k] copy_creds
+     6.87%        271362  [kernel]       [k] exit_to_user_mode_loop
+     6.77%        267287  [kernel]       [k] ___slab_alloc
+     6.77%        267287  [kernel]       [k] perf_swevent_add
+     6.77%        267287  [kernel]       [k] psi_task_switch
+     6.77%        267287  [kernel]       [k] sched_clock_cpu
+     6.77%        267287  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.77%        267287  [kernel]       [k] x86_pmu_hw_config
+     6.46%        254990  [kernel]       [k] inherit_event.constprop.0
+     6.46%        254990  [kernel]       [k] inherit_task_group.isra.0
+     6.46%        254990  [kernel]       [k] merge_sched_in
+     6.46%        254990  [kernel]       [k] rb_next
+     6.46%        254990  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.33%        460558  [kernel]       [k] vmacache_find
+     6.87%        237441  [kernel]       [k] copy_creds
+     6.87%        237441  [kernel]       [k] exit_to_user_mode_loop
+     6.77%        233876  [kernel]       [k] ___slab_alloc
+     6.77%        233876  [kernel]       [k] perf_swevent_add
+     6.77%        233876  [kernel]       [k] psi_task_switch
+     6.77%        233876  [kernel]       [k] sched_clock_cpu
+     6.77%        233876  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.77%        233876  [kernel]       [k] x86_pmu_hw_config
+     6.46%        223116  [kernel]       [k] inherit_event.constprop.0
+     6.46%        223116  [kernel]       [k] inherit_task_group.isra.0
+     6.46%        223116  [kernel]       [k] merge_sched_in
+     6.46%        223116  [kernel]       [k] rb_next
+     6.46%        223116  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    10.80%        402988  [kernel]       [k] vmacache_find
+     9.50%        354433  [kernel]       [k] memset_erms
+     9.50%        354433  [kernel]       [k] native_sched_clock
+     5.57%        207760  [kernel]       [k] copy_creds
+     5.57%        207760  [kernel]       [k] exit_to_user_mode_loop
+     5.48%        204641  [kernel]       [k] ___slab_alloc
+     5.48%        204641  [kernel]       [k] perf_swevent_add
+     5.48%        204641  [kernel]       [k] psi_task_switch
+     5.48%        204641  [kernel]       [k] sched_clock_cpu
+     5.48%        204641  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.48%        204641  [kernel]       [k] x86_pmu_hw_config
+     5.23%        195226  [kernel]       [k] inherit_event.constprop.0
+     5.23%        195226  [kernel]       [k] inherit_task_group.isra.0
+     5.23%        195226  [kernel]       [k] merge_sched_in
+     5.23%        195226  [kernel]       [k] rb_next
+     5.23%        195226  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    15.69%        686058  [kernel]       [k] memset_erms
+     8.60%        375930  [kernel]       [k] schedule_hrtimeout_range_clock
+     8.11%        354433  [kernel]       [k] syscall_return_via_sysret
+     8.07%        352614  [kernel]       [k] vmacache_find
+     7.09%        310128  [kernel]       [k] native_sched_clock
+     4.16%        181790  [kernel]       [k] copy_creds
+     4.16%        181790  [kernel]       [k] exit_to_user_mode_loop
+     4.10%        179060  [kernel]       [k] ___slab_alloc
+     4.10%        179060  [kernel]       [k] perf_swevent_add
+     4.10%        179060  [kernel]       [k] psi_task_switch
+     4.10%        179060  [kernel]       [k] sched_clock_cpu
+     4.10%        179060  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.10%        179060  [kernel]       [k] x86_pmu_hw_config
+     3.91%        170822  [kernel]       [k] inherit_event.constprop.0
+     3.91%        170822  [kernel]       [k] inherit_task_group.isra.0
+     3.91%        170822  [kernel]       [k] merge_sched_in
+     3.91%        170822  [kernel]       [k] rb_next
+     3.91%        170822  [kernel]       [k] update_min_vruntime
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:85.7%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     9.87%        600300  [kernel]       [k] memset_erms
+     6.18%        375930  [kernel]       [k] event_sched_in
+     6.18%        375930  [kernel]       [k] intel_cpuc_prepare
+     6.18%        375930  [kernel]       [k] kmem_cache_alloc_trace
+     6.18%        375930  [kernel]       [k] perf_event_update_userpage
+     6.18%        375930  [kernel]       [k] psi_group_change
+     6.18%        375930  [kernel]       [k] x86_pmu_event_init
+     5.41%        328938  [kernel]       [k] schedule_hrtimeout_range_clock
+     5.10%        310128  [kernel]       [k] syscall_return_via_sysret
+     5.07%        308537  [kernel]       [k] vmacache_find
+     4.46%        271362  [kernel]       [k] native_sched_clock
+     2.62%        159066  [kernel]       [k] copy_creds
+     2.62%        159066  [kernel]       [k] exit_to_user_mode_loop
+     2.58%        156677  [kernel]       [k] ___slab_alloc
+     2.58%        156677  [kernel]       [k] perf_swevent_add
+     2.58%        156677  [kernel]       [k] psi_task_switch
+     2.58%        156677  [kernel]       [k] sched_clock_cpu
+     2.58%        156677  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.58%        156677  [kernel]       [k] x86_pmu_hw_config
+     2.46%        149469  [kernel]       [k] inherit_event.constprop.0
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     9.87%        525262  [kernel]       [k] memset_erms
+     6.18%        328938  [kernel]       [k] event_sched_in
+     6.18%        328938  [kernel]       [k] intel_cpuc_prepare
+     6.18%        328938  [kernel]       [k] kmem_cache_alloc_trace
+     6.18%        328938  [kernel]       [k] perf_event_update_userpage
+     6.18%        328938  [kernel]       [k] psi_group_change
+     6.18%        328938  [kernel]       [k] x86_pmu_event_init
+     5.41%        287820  [kernel]       [k] schedule_hrtimeout_range_clock
+     5.10%        271362  [kernel]       [k] syscall_return_via_sysret
+     5.07%        269969  [kernel]       [k] vmacache_find
+     4.46%        237441  [kernel]       [k] native_sched_clock
+     2.62%        139182  [kernel]       [k] copy_creds
+     2.62%        139182  [kernel]       [k] exit_to_user_mode_loop
+     2.58%        137092  [kernel]       [k] ___slab_alloc
+     2.58%        137092  [kernel]       [k] perf_swevent_add
+     2.58%        137092  [kernel]       [k] psi_task_switch
+     2.58%        137092  [kernel]       [k] sched_clock_cpu
+     2.58%        137092  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.58%        137092  [kernel]       [k] x86_pmu_hw_config
+     2.46%        130785  [kernel]       [k] inherit_event.constprop.0
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     9.44%        663750  [kernel]       [k] psi_group_change
+     7.06%        496669  [kernel]       [k] __unqueue_futex
+     6.54%        459604  [kernel]       [k] memset_erms
+     5.35%        375930  [kernel]       [k] __hrtimer_init
+     5.35%        375930  [kernel]       [k] __mod_memcg_lruvec_state
+     5.35%        375930  [kernel]       [k] alloc_vmap_area
+     5.35%        375930  [kernel]       [k] kmem_cache_alloc_node
+     4.09%        287820  [kernel]       [k] event_sched_in
+     4.09%        287820  [kernel]       [k] intel_cpuc_prepare
+     4.09%        287820  [kernel]       [k] kmem_cache_alloc_trace
+     4.09%        287820  [kernel]       [k] perf_event_update_userpage
+     4.09%        287820  [kernel]       [k] x86_pmu_event_init
+     3.58%        251842  [kernel]       [k] schedule_hrtimeout_range_clock
+     3.38%        237441  [kernel]       [k] syscall_return_via_sysret
+     3.36%        236222  [kernel]       [k] vmacache_find
+     2.95%        207760  [kernel]       [k] native_sched_clock
+     1.73%        121784  [kernel]       [k] copy_creds
+     1.73%        121784  [kernel]       [k] exit_to_user_mode_loop
+     1.71%        119955  [kernel]       [k] ___slab_alloc
+     1.71%        119955  [kernel]       [k] perf_swevent_add
+[H[2J
+   PerfTop:       9 irqs/sec  kernel:55.6%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     6.73%        580781  [kernel]       [k] psi_group_change
+     5.75%        496669  [kernel]       [k] __srcu_read_unlock
+     5.75%        496669  [kernel]       [k] enqueue_task
+     5.75%        496669  [kernel]       [k] perf_event_update_time
+     5.75%        496669  [kernel]       [k] try_module_get
+     5.75%        496669  [kernel]       [k] x86_pmu_disable
+     5.03%        434585  [kernel]       [k] __unqueue_futex
+     4.66%        402153  [kernel]       [k] memset_erms
+     3.81%        328938  [kernel]       [k] __hrtimer_init
+     3.81%        328938  [kernel]       [k] __mod_memcg_lruvec_state
+     3.81%        328938  [kernel]       [k] alloc_vmap_area
+     3.81%        328938  [kernel]       [k] kmem_cache_alloc_node
+     2.92%        251842  [kernel]       [k] event_sched_in
+     2.92%        251842  [kernel]       [k] intel_cpuc_prepare
+     2.92%        251842  [kernel]       [k] kmem_cache_alloc_trace
+     2.92%        251842  [kernel]       [k] perf_event_update_userpage
+     2.92%        251842  [kernel]       [k] x86_pmu_event_init
+     2.55%        220361  [kernel]       [k] schedule_hrtimeout_range_clock
+     2.41%        207760  [kernel]       [k] syscall_return_via_sysret
+     2.39%        206694  [kernel]       [k] vmacache_find
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:37.5%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     5.62%        508183  [kernel]       [k] psi_group_change
+     5.49%        496669  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     5.49%        496669  [kernel]       [k] native_write_msr
+     5.49%        496669  [kernel]       [k] update_cfs_group
+     4.80%        434585  [kernel]       [k] __srcu_read_unlock
+     4.80%        434585  [kernel]       [k] enqueue_task
+     4.80%        434585  [kernel]       [k] perf_event_update_time
+     4.80%        434585  [kernel]       [k] try_module_get
+     4.80%        434585  [kernel]       [k] x86_pmu_disable
+     4.20%        380261  [kernel]       [k] __unqueue_futex
+     3.89%        351883  [kernel]       [k] memset_erms
+     3.18%        287820  [kernel]       [k] __hrtimer_init
+     3.18%        287820  [kernel]       [k] __mod_memcg_lruvec_state
+     3.18%        287820  [kernel]       [k] alloc_vmap_area
+     3.18%        287820  [kernel]       [k] kmem_cache_alloc_node
+     2.44%        220361  [kernel]       [k] event_sched_in
+     2.44%        220361  [kernel]       [k] intel_cpuc_prepare
+     2.44%        220361  [kernel]       [k] kmem_cache_alloc_trace
+     2.44%        220361  [kernel]       [k] perf_event_update_userpage
+     2.44%        220361  [kernel]       [k] x86_pmu_event_init
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     5.06%        444660  [kernel]       [k] psi_group_change
+     4.98%        437518  [kernel]       [k] handle_pte_fault
+     4.98%        437518  [kernel]       [k] intel_pmu_enable_all
+     4.94%        434585  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.94%        434585  [kernel]       [k] native_write_msr
+     4.94%        434585  [kernel]       [k] update_cfs_group
+     4.33%        380261  [kernel]       [k] __srcu_read_unlock
+     4.33%        380261  [kernel]       [k] enqueue_task
+     4.33%        380261  [kernel]       [k] perf_event_update_time
+     4.33%        380261  [kernel]       [k] try_module_get
+     4.33%        380261  [kernel]       [k] x86_pmu_disable
+     3.79%        332728  [kernel]       [k] __unqueue_futex
+     3.50%        307897  [kernel]       [k] memset_erms
+     2.86%        251842  [kernel]       [k] __hrtimer_init
+     2.86%        251842  [kernel]       [k] __mod_memcg_lruvec_state
+     2.86%        251842  [kernel]       [k] alloc_vmap_area
+     2.86%        251842  [kernel]       [k] kmem_cache_alloc_node
+     2.19%        192815  [kernel]       [k] event_sched_in
+     2.19%        192815  [kernel]       [k] intel_cpuc_prepare
+     2.19%        192815  [kernel]       [k] kmem_cache_alloc_trace
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     4.63%        437518  [kernel]       [k] exit_to_user_mode_prepare
+     4.63%        437518  [kernel]       [k] intel_pmu_bts_config
+     4.63%        437518  [kernel]       [k] syscall_exit_to_user_mode
+     4.63%        437518  [kernel]       [k] task_active_pid_ns
+     4.12%        389077  [kernel]       [k] psi_group_change
+     4.05%        382828  [kernel]       [k] handle_pte_fault
+     4.05%        382828  [kernel]       [k] intel_pmu_enable_all
+     4.03%        380261  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     4.03%        380261  [kernel]       [k] native_write_msr
+     4.03%        380261  [kernel]       [k] update_cfs_group
+     3.52%        332728  [kernel]       [k] __srcu_read_unlock
+     3.52%        332728  [kernel]       [k] enqueue_task
+     3.52%        332728  [kernel]       [k] perf_event_update_time
+     3.52%        332728  [kernel]       [k] try_module_get
+     3.52%        332728  [kernel]       [k] x86_pmu_disable
+     3.08%        291137  [kernel]       [k] __unqueue_futex
+     2.85%        269409  [kernel]       [k] memset_erms
+     2.33%        220361  [kernel]       [k] __hrtimer_init
+     2.33%        220361  [kernel]       [k] __mod_memcg_lruvec_state
+     2.33%        220361  [kernel]       [k] alloc_vmap_area
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     8.28%        820346  [kernel]       [k] syscall_exit_to_user_mode
+     4.51%        446427  [kernel]       [k] ___slab_alloc
+     4.42%        437518  [kernel]       [k] __task_pid_nr_ns
+     3.89%        384902  [kernel]       [k] ctx_sched_in
+     3.86%        382828  [kernel]       [k] exit_to_user_mode_prepare
+     3.86%        382828  [kernel]       [k] intel_pmu_bts_config
+     3.86%        382828  [kernel]       [k] task_active_pid_ns
+     3.44%        340442  [kernel]       [k] psi_group_change
+     3.38%        334974  [kernel]       [k] handle_pte_fault
+     3.38%        334974  [kernel]       [k] intel_pmu_enable_all
+     3.36%        332728  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.36%        332728  [kernel]       [k] native_write_msr
+     3.36%        332728  [kernel]       [k] update_cfs_group
+     2.94%        291137  [kernel]       [k] __srcu_read_unlock
+     2.94%        291137  [kernel]       [k] enqueue_task
+     2.94%        291137  [kernel]       [k] perf_event_update_time
+     2.94%        291137  [kernel]       [k] try_module_get
+     2.94%        291137  [kernel]       [k] x86_pmu_disable
+     2.57%        254744  [kernel]       [k] __unqueue_futex
+     2.38%        235732  [kernel]       [k] memset_erms
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/54 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     8.28%        717802  [kernel]       [k] syscall_exit_to_user_mode
+     4.51%        390623  [kernel]       [k] ___slab_alloc
+     4.42%        382828  [kernel]       [k] __task_pid_nr_ns
+     3.89%        336789  [kernel]       [k] ctx_sched_in
+     3.86%        334974  [kernel]       [k] exit_to_user_mode_prepare
+     3.86%        334974  [kernel]       [k] intel_pmu_bts_config
+     3.86%        334974  [kernel]       [k] task_active_pid_ns
+     3.44%        297886  [kernel]       [k] psi_group_change
+     3.38%        293102  [kernel]       [k] handle_pte_fault
+     3.38%        293102  [kernel]       [k] intel_pmu_enable_all
+     3.36%        291137  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.36%        291137  [kernel]       [k] native_write_msr
+     3.36%        291137  [kernel]       [k] update_cfs_group
+     2.94%        254744  [kernel]       [k] __srcu_read_unlock
+     2.94%        254744  [kernel]       [k] enqueue_task
+     2.94%        254744  [kernel]       [k] perf_event_update_time
+     2.94%        254744  [kernel]       [k] try_module_get
+     2.94%        254744  [kernel]       [k] x86_pmu_disable
+     2.57%        222901  [kernel]       [k] __unqueue_futex
+     2.38%        206265  [kernel]       [k] memset_erms
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 2/56 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     7.88%        628076  [kernel]       [k] syscall_exit_to_user_mode
+     4.83%        384902  [kernel]       [k] x86_reserve_hardware
+     4.29%        341795  [kernel]       [k] ___slab_alloc
+     4.20%        334974  [kernel]       [k] __task_pid_nr_ns
+     3.70%        294690  [kernel]       [k] ctx_sched_in
+     3.68%        293102  [kernel]       [k] exit_to_user_mode_prepare
+     3.68%        293102  [kernel]       [k] intel_pmu_bts_config
+     3.68%        293102  [kernel]       [k] task_active_pid_ns
+     3.27%        260650  [kernel]       [k] psi_group_change
+     3.22%        256464  [kernel]       [k] handle_pte_fault
+     3.22%        256464  [kernel]       [k] intel_pmu_enable_all
+     3.20%        254744  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.20%        254744  [kernel]       [k] native_write_msr
+     3.20%        254744  [kernel]       [k] update_cfs_group
+     2.80%        222901  [kernel]       [k] __srcu_read_unlock
+     2.80%        222901  [kernel]       [k] enqueue_task
+     2.80%        222901  [kernel]       [k] perf_event_update_time
+     2.80%        222901  [kernel]       [k] try_module_get
+     2.80%        222901  [kernel]       [k] x86_pmu_disable
+     2.45%        195038  [kernel]       [k] __unqueue_futex
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/56 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     7.47%        549566  [kernel]       [k] syscall_exit_to_user_mode
+     5.77%        424221  [kernel]       [k] merge_sched_in
+     4.58%        336789  [kernel]       [k] x86_reserve_hardware
+     4.06%        299070  [kernel]       [k] ___slab_alloc
+     3.98%        293102  [kernel]       [k] __task_pid_nr_ns
+     3.50%        257853  [kernel]       [k] ctx_sched_in
+     3.49%        256464  [kernel]       [k] exit_to_user_mode_prepare
+     3.49%        256464  [kernel]       [k] intel_pmu_bts_config
+     3.49%        256464  [kernel]       [k] task_active_pid_ns
+     3.10%        228068  [kernel]       [k] psi_group_change
+     3.05%        224406  [kernel]       [k] handle_pte_fault
+     3.05%        224406  [kernel]       [k] intel_pmu_enable_all
+     3.03%        222901  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.03%        222901  [kernel]       [k] native_write_msr
+     3.03%        222901  [kernel]       [k] update_cfs_group
+     2.65%        195038  [kernel]       [k] __srcu_read_unlock
+     2.65%        195038  [kernel]       [k] enqueue_task
+     2.65%        195038  [kernel]       [k] perf_event_update_time
+     2.65%        195038  [kernel]       [k] try_module_get
+     2.65%        195038  [kernel]       [k] x86_pmu_disable
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/56 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     7.47%        480870  [kernel]       [k] syscall_exit_to_user_mode
+     5.77%        371193  [kernel]       [k] merge_sched_in
+     4.58%        294690  [kernel]       [k] x86_reserve_hardware
+     4.06%        261686  [kernel]       [k] ___slab_alloc
+     3.98%        256464  [kernel]       [k] __task_pid_nr_ns
+     3.50%        225621  [kernel]       [k] ctx_sched_in
+     3.49%        224406  [kernel]       [k] exit_to_user_mode_prepare
+     3.49%        224406  [kernel]       [k] intel_pmu_bts_config
+     3.49%        224406  [kernel]       [k] task_active_pid_ns
+     3.10%        199559  [kernel]       [k] psi_group_change
+     3.05%        196355  [kernel]       [k] handle_pte_fault
+     3.05%        196355  [kernel]       [k] intel_pmu_enable_all
+     3.03%        195038  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.03%        195038  [kernel]       [k] native_write_msr
+     3.03%        195038  [kernel]       [k] update_cfs_group
+     2.65%        170658  [kernel]       [k] __srcu_read_unlock
+     2.65%        170658  [kernel]       [k] enqueue_task
+     2.65%        170658  [kernel]       [k] perf_event_update_time
+     2.65%        170658  [kernel]       [k] try_module_get
+     2.65%        170658  [kernel]       [k] x86_pmu_disable
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 1/57 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     7.89%        482510  [kernel]       [k] do_syscall_64
+     6.88%        420761  [kernel]       [k] syscall_exit_to_user_mode
+     5.31%        324793  [kernel]       [k] merge_sched_in
+     4.22%        257853  [kernel]       [k] x86_reserve_hardware
+     3.74%        228975  [kernel]       [k] ___slab_alloc
+     3.67%        224406  [kernel]       [k] __task_pid_nr_ns
+     3.23%        197418  [kernel]       [k] ctx_sched_in
+     3.21%        196355  [kernel]       [k] exit_to_user_mode_prepare
+     3.21%        196355  [kernel]       [k] intel_pmu_bts_config
+     3.21%        196355  [kernel]       [k] task_active_pid_ns
+     2.85%        174614  [kernel]       [k] psi_group_change
+     2.81%        171810  [kernel]       [k] handle_pte_fault
+     2.81%        171810  [kernel]       [k] intel_pmu_enable_all
+     2.79%        170658  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.79%        170658  [kernel]       [k] native_write_msr
+     2.79%        170658  [kernel]       [k] update_cfs_group
+     2.44%        149325  [kernel]       [k] __srcu_read_unlock
+     2.44%        149325  [kernel]       [k] enqueue_task
+     2.44%        149325  [kernel]       [k] perf_event_update_time
+     2.44%        149325  [kernel]       [k] try_module_get
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/57 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     7.89%        422196  [kernel]       [k] do_syscall_64
+     6.88%        368165  [kernel]       [k] syscall_exit_to_user_mode
+     5.31%        284193  [kernel]       [k] merge_sched_in
+     4.22%        225621  [kernel]       [k] x86_reserve_hardware
+     3.74%        200353  [kernel]       [k] ___slab_alloc
+     3.67%        196355  [kernel]       [k] __task_pid_nr_ns
+     3.23%        172740  [kernel]       [k] ctx_sched_in
+     3.21%        171810  [kernel]       [k] exit_to_user_mode_prepare
+     3.21%        171810  [kernel]       [k] intel_pmu_bts_config
+     3.21%        171810  [kernel]       [k] task_active_pid_ns
+     2.85%        152787  [kernel]       [k] psi_group_change
+     2.81%        150333  [kernel]       [k] handle_pte_fault
+     2.81%        150333  [kernel]       [k] intel_pmu_enable_all
+     2.79%        149325  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.79%        149325  [kernel]       [k] native_write_msr
+     2.79%        149325  [kernel]       [k] update_cfs_group
+     2.44%        130659  [kernel]       [k] __srcu_read_unlock
+     2.44%        130659  [kernel]       [k] enqueue_task
+     2.44%        130659  [kernel]       [k] perf_event_update_time
+     2.44%        130659  [kernel]       [k] try_module_get
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/57 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+     7.89%        369421  [kernel]       [k] do_syscall_64
+     6.88%        322144  [kernel]       [k] syscall_exit_to_user_mode
+     5.31%        248668  [kernel]       [k] merge_sched_in
+     4.22%        197418  [kernel]       [k] x86_reserve_hardware
+     3.74%        175308  [kernel]       [k] ___slab_alloc
+     3.67%        171810  [kernel]       [k] __task_pid_nr_ns
+     3.23%        151147  [kernel]       [k] ctx_sched_in
+     3.21%        150333  [kernel]       [k] exit_to_user_mode_prepare
+     3.21%        150333  [kernel]       [k] intel_pmu_bts_config
+     3.21%        150333  [kernel]       [k] task_active_pid_ns
+     2.85%        133688  [kernel]       [k] psi_group_change
+     2.81%        131541  [kernel]       [k] handle_pte_fault
+     2.81%        131541  [kernel]       [k] intel_pmu_enable_all
+     2.79%        130659  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.79%        130659  [kernel]       [k] native_write_msr
+     2.79%        130659  [kernel]       [k] update_cfs_group
+     2.44%        114326  [kernel]       [k] __srcu_read_unlock
+     2.44%        114326  [kernel]       [k] enqueue_task
+     2.44%        114326  [kernel]       [k] perf_event_update_time
+     2.44%        114326  [kernel]       [k] try_module_get
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 1/58 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    14.53%        805753  [kernel]       [k] do_syscall_64
+     8.70%        482510  [kernel]       [k] perf_event_alloc
+     8.70%        482510  [kernel]       [k] pfn_pte
+     5.08%        281876  [kernel]       [k] syscall_exit_to_user_mode
+     3.92%        217584  [kernel]       [k] merge_sched_in
+     3.12%        172740  [kernel]       [k] x86_reserve_hardware
+     2.77%        153394  [kernel]       [k] ___slab_alloc
+     2.71%        150333  [kernel]       [k] __task_pid_nr_ns
+     2.39%        132253  [kernel]       [k] ctx_sched_in
+     2.37%        131541  [kernel]       [k] exit_to_user_mode_prepare
+     2.37%        131541  [kernel]       [k] intel_pmu_bts_config
+     2.37%        131541  [kernel]       [k] task_active_pid_ns
+     2.11%        116977  [kernel]       [k] psi_group_change
+     2.08%        115098  [kernel]       [k] handle_pte_fault
+     2.08%        115098  [kernel]       [k] intel_pmu_enable_all
+     2.06%        114326  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.06%        114326  [kernel]       [k] native_write_msr
+     2.06%        114326  [kernel]       [k] update_cfs_group
+     1.80%        100035  [kernel]       [k] __srcu_read_unlock
+     1.80%        100035  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/58 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        705033  [kernel]       [k] do_syscall_64
+    10.92%        582545  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.91%        422196  [kernel]       [k] perf_event_alloc
+     7.91%        422196  [kernel]       [k] pfn_pte
+     4.62%        246641  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%        190386  [kernel]       [k] merge_sched_in
+     2.83%        151147  [kernel]       [k] x86_reserve_hardware
+     2.52%        134219  [kernel]       [k] ___slab_alloc
+     2.47%        131541  [kernel]       [k] __task_pid_nr_ns
+     2.17%        115721  [kernel]       [k] ctx_sched_in
+     2.16%        115098  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%        115098  [kernel]       [k] intel_pmu_bts_config
+     2.16%        115098  [kernel]       [k] task_active_pid_ns
+     1.92%        102354  [kernel]       [k] psi_group_change
+     1.89%        100710  [kernel]       [k] handle_pte_fault
+     1.89%        100710  [kernel]       [k] intel_pmu_enable_all
+     1.88%        100035  [kernel]       [k] native_write_msr
+     1.88%        100035  [kernel]       [k] update_cfs_group
+     1.64%         87530  [kernel]       [k] __srcu_read_unlock
+     1.64%         87530  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/59 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        616903  [kernel]       [k] do_syscall_64
+    10.92%        509726  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.91%        369421  [kernel]       [k] perf_event_alloc
+     7.91%        369421  [kernel]       [k] pfn_pte
+     4.62%        215810  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%        166587  [kernel]       [k] merge_sched_in
+     2.83%        132253  [kernel]       [k] x86_reserve_hardware
+     2.52%        117441  [kernel]       [k] ___slab_alloc
+     2.47%        115098  [kernel]       [k] __task_pid_nr_ns
+     2.17%        101255  [kernel]       [k] ctx_sched_in
+     2.16%        100710  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%        100710  [kernel]       [k] intel_pmu_bts_config
+     2.16%        100710  [kernel]       [k] task_active_pid_ns
+     1.92%         89559  [kernel]       [k] psi_group_change
+     1.89%         88121  [kernel]       [k] handle_pte_fault
+     1.89%         88121  [kernel]       [k] intel_pmu_enable_all
+     1.88%         87530  [kernel]       [k] native_write_msr
+     1.88%         87530  [kernel]       [k] update_cfs_group
+     1.64%         76588  [kernel]       [k] __srcu_read_unlock
+     1.64%         76588  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        539790  [kernel]       [k] do_syscall_64
+    10.92%        446010  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.91%        323243  [kernel]       [k] perf_event_alloc
+     7.91%        323243  [kernel]       [k] pfn_pte
+     4.62%        188833  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%        145763  [kernel]       [k] merge_sched_in
+     2.83%        115721  [kernel]       [k] x86_reserve_hardware
+     2.52%        102760  [kernel]       [k] ___slab_alloc
+     2.47%        100710  [kernel]       [k] __task_pid_nr_ns
+     2.17%         88598  [kernel]       [k] ctx_sched_in
+     2.16%         88121  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         88121  [kernel]       [k] intel_pmu_bts_config
+     2.16%         88121  [kernel]       [k] task_active_pid_ns
+     1.92%         78364  [kernel]       [k] psi_group_change
+     1.89%         77105  [kernel]       [k] handle_pte_fault
+     1.89%         77105  [kernel]       [k] intel_pmu_enable_all
+     1.88%         76588  [kernel]       [k] native_write_msr
+     1.88%         76588  [kernel]       [k] update_cfs_group
+     1.64%         67014  [kernel]       [k] __srcu_read_unlock
+     1.64%         67014  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        472316  [kernel]       [k] do_syscall_64
+    10.92%        390258  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        282837  [kernel]       [k] perf_event_alloc
+     7.92%        282837  [kernel]       [k] pfn_pte
+     4.62%        165228  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%        127542  [kernel]       [k] merge_sched_in
+     2.83%        101255  [kernel]       [k] x86_reserve_hardware
+     2.52%         89915  [kernel]       [k] ___slab_alloc
+     2.47%         88121  [kernel]       [k] __task_pid_nr_ns
+     2.17%         77523  [kernel]       [k] ctx_sched_in
+     2.16%         77105  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         77105  [kernel]       [k] intel_pmu_bts_config
+     2.16%         77105  [kernel]       [k] task_active_pid_ns
+     1.92%         68568  [kernel]       [k] psi_group_change
+     1.89%         67466  [kernel]       [k] handle_pte_fault
+     1.89%         67466  [kernel]       [k] intel_pmu_enable_all
+     1.88%         67014  [kernel]       [k] native_write_msr
+     1.88%         67014  [kernel]       [k] update_cfs_group
+     1.64%         58637  [kernel]       [k] __srcu_read_unlock
+     1.64%         58637  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        413276  [kernel]       [k] do_syscall_64
+    10.92%        341475  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        247482  [kernel]       [k] perf_event_alloc
+     7.92%        247482  [kernel]       [k] pfn_pte
+     4.62%        144574  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%        111599  [kernel]       [k] merge_sched_in
+     2.83%         88598  [kernel]       [k] x86_reserve_hardware
+     2.52%         78675  [kernel]       [k] ___slab_alloc
+     2.47%         77105  [kernel]       [k] __task_pid_nr_ns
+     2.17%         67832  [kernel]       [k] ctx_sched_in
+     2.16%         67466  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         67466  [kernel]       [k] intel_pmu_bts_config
+     2.16%         67466  [kernel]       [k] task_active_pid_ns
+     1.92%         59997  [kernel]       [k] psi_group_change
+     1.89%         59032  [kernel]       [k] handle_pte_fault
+     1.89%         59032  [kernel]       [k] intel_pmu_enable_all
+     1.88%         58637  [kernel]       [k] native_write_msr
+     1.88%         58637  [kernel]       [k] update_cfs_group
+     1.64%         51307  [kernel]       [k] __srcu_read_unlock
+     1.64%         51307  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        361616  [kernel]       [k] do_syscall_64
+    10.92%        298790  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        216546  [kernel]       [k] perf_event_alloc
+     7.92%        216546  [kernel]       [k] pfn_pte
+     4.62%        126502  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%         97649  [kernel]       [k] merge_sched_in
+     2.83%         77523  [kernel]       [k] x86_reserve_hardware
+     2.52%         68840  [kernel]       [k] ___slab_alloc
+     2.47%         67466  [kernel]       [k] __task_pid_nr_ns
+     2.17%         59353  [kernel]       [k] ctx_sched_in
+     2.16%         59032  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         59032  [kernel]       [k] intel_pmu_bts_config
+     2.16%         59032  [kernel]       [k] task_active_pid_ns
+     1.92%         52497  [kernel]       [k] psi_group_change
+     1.89%         51653  [kernel]       [k] handle_pte_fault
+     1.89%         51653  [kernel]       [k] intel_pmu_enable_all
+     1.88%         51307  [kernel]       [k] native_write_msr
+     1.88%         51307  [kernel]       [k] update_cfs_group
+     1.64%         44893  [kernel]       [k] __srcu_read_unlock
+     1.64%         44893  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        316414  [kernel]       [k] do_syscall_64
+    10.92%        261441  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        189477  [kernel]       [k] perf_event_alloc
+     7.92%        189477  [kernel]       [k] pfn_pte
+     4.62%        110689  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%         85442  [kernel]       [k] merge_sched_in
+     2.83%         67832  [kernel]       [k] x86_reserve_hardware
+     2.52%         60235  [kernel]       [k] ___slab_alloc
+     2.47%         59032  [kernel]       [k] __task_pid_nr_ns
+     2.17%         51933  [kernel]       [k] ctx_sched_in
+     2.16%         51653  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         51653  [kernel]       [k] intel_pmu_bts_config
+     2.16%         51653  [kernel]       [k] task_active_pid_ns
+     1.92%         45934  [kernel]       [k] psi_group_change
+     1.89%         45196  [kernel]       [k] handle_pte_fault
+     1.89%         45196  [kernel]       [k] intel_pmu_enable_all
+     1.88%         44893  [kernel]       [k] native_write_msr
+     1.88%         44893  [kernel]       [k] update_cfs_group
+     1.64%         39281  [kernel]       [k] __srcu_read_unlock
+     1.64%         39281  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        276862  [kernel]       [k] do_syscall_64
+    10.92%        228760  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        165792  [kernel]       [k] perf_event_alloc
+     7.92%        165792  [kernel]       [k] pfn_pte
+     4.62%         96852  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%         74761  [kernel]       [k] merge_sched_in
+     2.83%         59353  [kernel]       [k] x86_reserve_hardware
+     2.52%         52705  [kernel]       [k] ___slab_alloc
+     2.47%         51653  [kernel]       [k] __task_pid_nr_ns
+     2.17%         45441  [kernel]       [k] ctx_sched_in
+     2.16%         45196  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         45196  [kernel]       [k] intel_pmu_bts_config
+     2.16%         45196  [kernel]       [k] task_active_pid_ns
+     1.92%         40192  [kernel]       [k] psi_group_change
+     1.89%         39546  [kernel]       [k] handle_pte_fault
+     1.89%         39546  [kernel]       [k] intel_pmu_enable_all
+     1.88%         39281  [kernel]       [k] native_write_msr
+     1.88%         39281  [kernel]       [k] update_cfs_group
+     1.64%         34370  [kernel]       [k] __srcu_read_unlock
+     1.64%         34370  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        242254  [kernel]       [k] do_syscall_64
+    10.92%        200165  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        145068  [kernel]       [k] perf_event_alloc
+     7.92%        145068  [kernel]       [k] pfn_pte
+     4.62%         84745  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%         65415  [kernel]       [k] merge_sched_in
+     2.83%         51933  [kernel]       [k] x86_reserve_hardware
+     2.52%         46116  [kernel]       [k] ___slab_alloc
+     2.47%         45196  [kernel]       [k] __task_pid_nr_ns
+     2.17%         39760  [kernel]       [k] ctx_sched_in
+     2.16%         39546  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         39546  [kernel]       [k] intel_pmu_bts_config
+     2.16%         39546  [kernel]       [k] task_active_pid_ns
+     1.92%         35168  [kernel]       [k] psi_group_change
+     1.89%         34602  [kernel]       [k] handle_pte_fault
+     1.89%         34602  [kernel]       [k] intel_pmu_enable_all
+     1.88%         34370  [kernel]       [k] native_write_msr
+     1.88%         34370  [kernel]       [k] update_cfs_group
+     1.64%         30073  [kernel]       [k] __srcu_read_unlock
+     1.64%         30073  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/60 [4000Hz cycles],  (target_pid: 2688594)
+-------------------------------------------------------------------------------
+
+    13.22%        211972  [kernel]       [k] do_syscall_64
+    10.92%        175144  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     7.92%        126934  [kernel]       [k] perf_event_alloc
+     7.92%        126934  [kernel]       [k] pfn_pte
+     4.62%         74151  [kernel]       [k] syscall_exit_to_user_mode
+     3.57%         57238  [kernel]       [k] merge_sched_in
+     2.83%         45441  [kernel]       [k] x86_reserve_hardware
+     2.52%         40351  [kernel]       [k] ___slab_alloc
+     2.47%         39546  [kernel]       [k] __task_pid_nr_ns
+     2.17%         34790  [kernel]       [k] ctx_sched_in
+     2.16%         34602  [kernel]       [k] exit_to_user_mode_prepare
+     2.16%         34602  [kernel]       [k] intel_pmu_bts_config
+     2.16%         34602  [kernel]       [k] task_active_pid_ns
+     1.92%         30772  [kernel]       [k] psi_group_change
+     1.89%         30276  [kernel]       [k] handle_pte_fault
+     1.89%         30276  [kernel]       [k] intel_pmu_enable_all
+     1.88%         30073  [kernel]       [k] native_write_msr
+     1.88%         30073  [kernel]       [k] update_cfs_group
+     1.64%         26313  [kernel]       [k] __srcu_read_unlock
+     1.64%         26313  [kernel]       [k] enqueue_task

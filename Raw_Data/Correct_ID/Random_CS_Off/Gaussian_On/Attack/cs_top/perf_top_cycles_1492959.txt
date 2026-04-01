@@ -1,0 +1,120 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 22/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:40.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+    50.00%       1665625  [kernel]       [k] kmem_cache_alloc_node
+    50.00%       1665625  [kernel]       [k] x86_get_event_constraints
+[H[2J
+   PerfTop:       7 irqs/sec  kernel:42.9%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+    21.94%       1457421  [kernel]       [k] kmem_cache_alloc_node
+    21.94%       1457421  [kernel]       [k] x86_get_event_constraints
+    18.70%       1242300  [kernel]       [k] psi_group_change
+    18.70%       1242300  [kernel]       [k] rb_next
+    18.70%       1242300  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:       9 irqs/sec  kernel:55.6%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+    11.49%       1275243  [kernel]       [k] kmem_cache_alloc_node
+    11.49%       1275243  [kernel]       [k] x86_get_event_constraints
+     9.98%       1107697  [kernel]       [k] futex_wait
+     9.98%       1107697  [kernel]       [k] perf_pmu_nop_void
+     9.98%       1107697  [kernel]       [k] perf_swevent_event
+     9.79%       1087012  [kernel]       [k] psi_group_change
+     9.79%       1087012  [kernel]       [k] rb_next
+     9.79%       1087012  [kernel]       [k] syscall_exit_to_user_mode
+     9.28%       1029650  [kernel]       [k] memcg_slab_post_alloc_hook
+     8.44%        936931  [kernel]       [k] aa_dfa_match_len
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/22 [4000Hz cycles],  (target_pid: 1492959)
+-------------------------------------------------------------------------------
+
+    11.49%       1115837  [kernel]       [k] kmem_cache_alloc_node
+    11.49%       1115837  [kernel]       [k] x86_get_event_constraints
+     9.98%        969234  [kernel]       [k] futex_wait
+     9.98%        969234  [kernel]       [k] perf_pmu_nop_void
+     9.98%        969234  [kernel]       [k] perf_swevent_event
+     9.79%        951135  [kernel]       [k] psi_group_change
+     9.79%        951135  [kernel]       [k] rb_next
+     9.79%        951135  [kernel]       [k] syscall_exit_to_user_mode
+     9.28%        900943  [kernel]       [k] memcg_slab_post_alloc_hook
+     8.44%        819814  [kernel]       [k] aa_dfa_match_len

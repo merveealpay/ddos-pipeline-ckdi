@@ -1,0 +1,632 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 9/9 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 14/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    50.00%         56184  [kernel]       [k] __lock_text_start
+    50.00%         56184  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    21.05%         56184  [kernel]       [k] iterate_groups
+    21.05%         56184  [kernel]       [k] merge_sched_in
+    21.05%         56184  [kernel]       [k] psi_group_change
+    18.42%         49161  [kernel]       [k] __lock_text_start
+    18.42%         49161  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:83.3%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    20.48%        105345  [kernel]       [k] merge_sched_in
+    10.92%         56184  [kernel]       [k] __put_user_nocheck_8
+    10.92%         56184  [kernel]       [k] memset_erms
+    10.92%         56184  [kernel]       [k] should_failslab
+    10.92%         56184  [kernel]       [k] visit_groups_merge.constprop.0.is
+     9.56%         49161  [kernel]       [k] iterate_groups
+     9.56%         49161  [kernel]       [k] psi_group_change
+     8.36%         43015  [kernel]       [k] __lock_text_start
+     8.36%         43015  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:37.5%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    23.98%        148360  [kernel]       [k] merge_sched_in
+     9.08%         56184  [kernel]       [k] is_cpu_allowed
+     9.08%         56184  [kernel]       [k] kmem_cache_alloc_node_trace
+     7.95%         49161  [kernel]       [k] __put_user_nocheck_8
+     7.95%         49161  [kernel]       [k] memset_erms
+     7.95%         49161  [kernel]       [k] should_failslab
+     7.95%         49161  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.95%         43015  [kernel]       [k] iterate_groups
+     6.95%         43015  [kernel]       [k] psi_group_change
+     6.08%         37638  [kernel]       [k] __lock_text_start
+     6.08%         37638  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:83.3%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    15.79%        129815  [kernel]       [k] merge_sched_in
+     6.83%         56184  [kernel]       [k] __cond_resched
+     6.83%         56184  [kernel]       [k] __mod_lruvec_page_state
+     6.83%         56184  [kernel]       [k] kmem_cache_alloc_trace
+     6.83%         56184  [kernel]       [k] update_cfs_group
+     6.83%         56184  [kernel]       [k] x86_reserve_hardware
+     5.98%         49161  [kernel]       [k] is_cpu_allowed
+     5.98%         49161  [kernel]       [k] kmem_cache_alloc_node_trace
+     5.23%         43015  [kernel]       [k] __put_user_nocheck_8
+     5.23%         43015  [kernel]       [k] memset_erms
+     5.23%         43015  [kernel]       [k] should_failslab
+     5.23%         43015  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.58%         37638  [kernel]       [k] iterate_groups
+     4.58%         37638  [kernel]       [k] psi_group_change
+     4.01%         32933  [kernel]       [k] __lock_text_start
+     4.01%         32933  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       6 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    15.39%        145301  [kernel]       [k] psi_group_change
+    12.03%        113588  [kernel]       [k] merge_sched_in
+    11.16%        105345  [kernel]       [k] x86_reserve_hardware
+     5.95%         56184  [kernel]       [k] alloc_pages_vma
+     5.21%         49161  [kernel]       [k] __cond_resched
+     5.21%         49161  [kernel]       [k] __mod_lruvec_page_state
+     5.21%         49161  [kernel]       [k] kmem_cache_alloc_trace
+     5.21%         49161  [kernel]       [k] update_cfs_group
+     4.56%         43015  [kernel]       [k] is_cpu_allowed
+     4.56%         43015  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.99%         37638  [kernel]       [k] __put_user_nocheck_8
+     3.99%         37638  [kernel]       [k] memset_erms
+     3.99%         37638  [kernel]       [k] should_failslab
+     3.99%         37638  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.49%         32933  [kernel]       [k] iterate_groups
+     3.05%         28816  [kernel]       [k] __lock_text_start
+     3.05%         28816  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    14.41%        127138  [kernel]       [k] psi_group_change
+    11.26%         99389  [kernel]       [k] merge_sched_in
+    10.45%         92176  [kernel]       [k] x86_reserve_hardware
+     6.37%         56184  [kernel]       [k] arch_perf_update_userpage
+     5.57%         49161  [kernel]       [k] alloc_pages_vma
+     4.87%         43015  [kernel]       [k] __cond_resched
+     4.87%         43015  [kernel]       [k] __mod_lruvec_page_state
+     4.87%         43015  [kernel]       [k] kmem_cache_alloc_trace
+     4.87%         43015  [kernel]       [k] update_cfs_group
+     4.27%         37638  [kernel]       [k] is_cpu_allowed
+     4.27%         37638  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.73%         32933  [kernel]       [k] __put_user_nocheck_8
+     3.73%         32933  [kernel]       [k] memset_erms
+     3.73%         32933  [kernel]       [k] should_failslab
+     3.73%         32933  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.27%         28816  [kernel]       [k] iterate_groups
+     2.86%         25214  [kernel]       [k] __lock_text_start
+     2.86%         25214  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    14.41%        111245  [kernel]       [k] psi_group_change
+    11.26%         86965  [kernel]       [k] merge_sched_in
+    10.45%         80654  [kernel]       [k] x86_reserve_hardware
+     6.37%         49161  [kernel]       [k] arch_perf_update_userpage
+     5.57%         43015  [kernel]       [k] alloc_pages_vma
+     4.88%         37638  [kernel]       [k] __cond_resched
+     4.88%         37638  [kernel]       [k] __mod_lruvec_page_state
+     4.88%         37638  [kernel]       [k] kmem_cache_alloc_trace
+     4.88%         37638  [kernel]       [k] update_cfs_group
+     4.27%         32933  [kernel]       [k] is_cpu_allowed
+     4.27%         32933  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.73%         28816  [kernel]       [k] __put_user_nocheck_8
+     3.73%         28816  [kernel]       [k] memset_erms
+     3.73%         28816  [kernel]       [k] should_failslab
+     3.73%         28816  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.27%         25214  [kernel]       [k] iterate_groups
+     2.86%         22062  [kernel]       [k] __lock_text_start
+     2.86%         22062  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    14.41%         97339  [kernel]       [k] psi_group_change
+    11.26%         76094  [kernel]       [k] merge_sched_in
+    10.45%         70572  [kernel]       [k] x86_reserve_hardware
+     6.37%         43015  [kernel]       [k] arch_perf_update_userpage
+     5.57%         37638  [kernel]       [k] alloc_pages_vma
+     4.88%         32933  [kernel]       [k] __cond_resched
+     4.88%         32933  [kernel]       [k] __mod_lruvec_page_state
+     4.88%         32933  [kernel]       [k] kmem_cache_alloc_trace
+     4.88%         32933  [kernel]       [k] update_cfs_group
+     4.27%         28816  [kernel]       [k] is_cpu_allowed
+     4.27%         28816  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.73%         25214  [kernel]       [k] __put_user_nocheck_8
+     3.73%         25214  [kernel]       [k] memset_erms
+     3.73%         25214  [kernel]       [k] should_failslab
+     3.73%         25214  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.27%         22062  [kernel]       [k] iterate_groups
+     2.86%         19304  [kernel]       [k] __lock_text_start
+     2.86%         19304  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    14.41%         85171  [kernel]       [k] psi_group_change
+    11.26%         66582  [kernel]       [k] merge_sched_in
+    10.45%         61750  [kernel]       [k] x86_reserve_hardware
+     6.37%         37638  [kernel]       [k] arch_perf_update_userpage
+     5.57%         32933  [kernel]       [k] alloc_pages_vma
+     4.87%         28816  [kernel]       [k] __cond_resched
+     4.87%         28816  [kernel]       [k] __mod_lruvec_page_state
+     4.87%         28816  [kernel]       [k] kmem_cache_alloc_trace
+     4.87%         28816  [kernel]       [k] update_cfs_group
+     4.27%         25214  [kernel]       [k] is_cpu_allowed
+     4.27%         25214  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.73%         22062  [kernel]       [k] __put_user_nocheck_8
+     3.73%         22062  [kernel]       [k] memset_erms
+     3.73%         22062  [kernel]       [k] should_failslab
+     3.73%         22062  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.27%         19304  [kernel]       [k] iterate_groups
+     2.86%         16891  [kernel]       [k] __lock_text_start
+     2.86%         16891  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    12.75%         74524  [kernel]       [k] psi_group_change
+    11.48%         67070  [kernel]       [k] ctx_sched_in
+     9.97%         58259  [kernel]       [k] merge_sched_in
+     9.25%         54031  [kernel]       [k] x86_reserve_hardware
+     5.64%         32933  [kernel]       [k] arch_perf_update_userpage
+     4.93%         28816  [kernel]       [k] alloc_pages_vma
+     4.32%         25214  [kernel]       [k] __cond_resched
+     4.32%         25214  [kernel]       [k] __mod_lruvec_page_state
+     4.32%         25214  [kernel]       [k] kmem_cache_alloc_trace
+     4.32%         25214  [kernel]       [k] update_cfs_group
+     3.78%         22062  [kernel]       [k] is_cpu_allowed
+     3.78%         22062  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.30%         19304  [kernel]       [k] __put_user_nocheck_8
+     3.30%         19304  [kernel]       [k] memset_erms
+     3.30%         19304  [kernel]       [k] should_failslab
+     3.30%         19304  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.89%         16891  [kernel]       [k] iterate_groups
+     2.53%         14779  [kernel]       [k] __lock_text_start
+     2.53%         14779  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    12.75%         65208  [kernel]       [k] psi_group_change
+    11.48%         58686  [kernel]       [k] ctx_sched_in
+     9.97%         50976  [kernel]       [k] merge_sched_in
+     9.25%         47277  [kernel]       [k] x86_reserve_hardware
+     5.64%         28816  [kernel]       [k] arch_perf_update_userpage
+     4.93%         25214  [kernel]       [k] alloc_pages_vma
+     4.32%         22062  [kernel]       [k] __cond_resched
+     4.32%         22062  [kernel]       [k] __mod_lruvec_page_state
+     4.32%         22062  [kernel]       [k] kmem_cache_alloc_trace
+     4.32%         22062  [kernel]       [k] update_cfs_group
+     3.78%         19304  [kernel]       [k] is_cpu_allowed
+     3.78%         19304  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.30%         16891  [kernel]       [k] __put_user_nocheck_8
+     3.30%         16891  [kernel]       [k] memset_erms
+     3.30%         16891  [kernel]       [k] should_failslab
+     3.30%         16891  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.89%         14779  [kernel]       [k] iterate_groups
+     2.53%         12931  [kernel]       [k] __lock_text_start
+     2.53%         12931  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    12.76%         57057  [kernel]       [k] psi_group_change
+    11.48%         51350  [kernel]       [k] ctx_sched_in
+     9.97%         44604  [kernel]       [k] merge_sched_in
+     9.25%         41367  [kernel]       [k] x86_reserve_hardware
+     5.64%         25214  [kernel]       [k] arch_perf_update_userpage
+     4.93%         22062  [kernel]       [k] alloc_pages_vma
+     4.32%         19304  [kernel]       [k] __cond_resched
+     4.32%         19304  [kernel]       [k] __mod_lruvec_page_state
+     4.32%         19304  [kernel]       [k] kmem_cache_alloc_trace
+     4.32%         19304  [kernel]       [k] update_cfs_group
+     3.78%         16891  [kernel]       [k] is_cpu_allowed
+     3.78%         16891  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.30%         14779  [kernel]       [k] __put_user_nocheck_8
+     3.30%         14779  [kernel]       [k] memset_erms
+     3.30%         14779  [kernel]       [k] should_failslab
+     3.30%         14779  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.89%         12931  [kernel]       [k] iterate_groups
+     2.53%         11314  [kernel]       [k] __lock_text_start
+     2.53%         11314  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    17.45%         80001  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.89%         49924  [kernel]       [k] psi_group_change
+     9.80%         44931  [kernel]       [k] ctx_sched_in
+     8.51%         39028  [kernel]       [k] merge_sched_in
+     7.89%         36196  [kernel]       [k] x86_reserve_hardware
+     4.81%         22062  [kernel]       [k] arch_perf_update_userpage
+     4.21%         19304  [kernel]       [k] alloc_pages_vma
+     3.68%         16891  [kernel]       [k] __cond_resched
+     3.68%         16891  [kernel]       [k] __mod_lruvec_page_state
+     3.68%         16891  [kernel]       [k] kmem_cache_alloc_trace
+     3.68%         16891  [kernel]       [k] update_cfs_group
+     3.22%         14779  [kernel]       [k] is_cpu_allowed
+     3.22%         14779  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.82%         12931  [kernel]       [k] __put_user_nocheck_8
+     2.82%         12931  [kernel]       [k] memset_erms
+     2.82%         12931  [kernel]       [k] should_failslab
+     2.47%         11314  [kernel]       [k] iterate_groups
+     2.16%          9899  [kernel]       [k] __lock_text_start
+     2.16%          9899  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/23 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    17.45%         70000  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.89%         43683  [kernel]       [k] psi_group_change
+     9.80%         39314  [kernel]       [k] ctx_sched_in
+     8.51%         34149  [kernel]       [k] merge_sched_in
+     7.89%         31671  [kernel]       [k] x86_reserve_hardware
+     4.81%         19304  [kernel]       [k] arch_perf_update_userpage
+     4.21%         16891  [kernel]       [k] alloc_pages_vma
+     3.68%         14779  [kernel]       [k] __cond_resched
+     3.68%         14779  [kernel]       [k] __mod_lruvec_page_state
+     3.68%         14779  [kernel]       [k] kmem_cache_alloc_trace
+     3.68%         14779  [kernel]       [k] update_cfs_group
+     3.22%         12931  [kernel]       [k] is_cpu_allowed
+     3.22%         12931  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.82%         11314  [kernel]       [k] __put_user_nocheck_8
+     2.82%         11314  [kernel]       [k] memset_erms
+     2.82%         11314  [kernel]       [k] should_failslab
+     2.47%          9899  [kernel]       [k] iterate_groups
+     2.16%          8661  [kernel]       [k] __lock_text_start
+     2.16%          8661  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/24 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    17.45%         61250  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.89%         38222  [kernel]       [k] psi_group_change
+     9.80%         34399  [kernel]       [k] ctx_sched_in
+     8.51%         29880  [kernel]       [k] merge_sched_in
+     7.90%         27712  [kernel]       [k] x86_reserve_hardware
+     4.81%         16891  [kernel]       [k] arch_perf_update_userpage
+     4.21%         14779  [kernel]       [k] alloc_pages_vma
+     3.68%         12931  [kernel]       [k] __cond_resched
+     3.68%         12931  [kernel]       [k] __mod_lruvec_page_state
+     3.68%         12931  [kernel]       [k] kmem_cache_alloc_trace
+     3.68%         12931  [kernel]       [k] update_cfs_group
+     3.22%         11314  [kernel]       [k] is_cpu_allowed
+     3.22%         11314  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.82%          9899  [kernel]       [k] __put_user_nocheck_8
+     2.82%          9899  [kernel]       [k] memset_erms
+     2.82%          9899  [kernel]       [k] should_failslab
+     2.47%          8661  [kernel]       [k] iterate_groups
+     2.16%          7578  [kernel]       [k] __lock_text_start
+     2.16%          7578  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/24 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    17.45%         53593  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.89%         33444  [kernel]       [k] psi_group_change
+     9.80%         30099  [kernel]       [k] ctx_sched_in
+     8.51%         26145  [kernel]       [k] merge_sched_in
+     7.90%         24248  [kernel]       [k] x86_reserve_hardware
+     4.81%         14779  [kernel]       [k] arch_perf_update_userpage
+     4.21%         12931  [kernel]       [k] alloc_pages_vma
+     3.68%         11314  [kernel]       [k] __cond_resched
+     3.68%         11314  [kernel]       [k] __mod_lruvec_page_state
+     3.68%         11314  [kernel]       [k] kmem_cache_alloc_trace
+     3.68%         11314  [kernel]       [k] update_cfs_group
+     3.22%          9899  [kernel]       [k] is_cpu_allowed
+     3.22%          9899  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.82%          8661  [kernel]       [k] __put_user_nocheck_8
+     2.82%          8661  [kernel]       [k] memset_erms
+     2.82%          8661  [kernel]       [k] should_failslab
+     2.47%          7578  [kernel]       [k] iterate_groups
+     2.16%          6630  [kernel]       [k] __lock_text_start
+     2.16%          6630  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/24 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    17.45%         46893  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.89%         29263  [kernel]       [k] psi_group_change
+     9.80%         26336  [kernel]       [k] ctx_sched_in
+     8.51%         22876  [kernel]       [k] merge_sched_in
+     7.90%         21217  [kernel]       [k] x86_reserve_hardware
+     4.81%         12931  [kernel]       [k] arch_perf_update_userpage
+     4.21%         11314  [kernel]       [k] alloc_pages_vma
+     3.68%          9899  [kernel]       [k] __cond_resched
+     3.68%          9899  [kernel]       [k] __mod_lruvec_page_state
+     3.68%          9899  [kernel]       [k] kmem_cache_alloc_trace
+     3.68%          9899  [kernel]       [k] update_cfs_group
+     3.22%          8661  [kernel]       [k] is_cpu_allowed
+     3.22%          8661  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.82%          7578  [kernel]       [k] __put_user_nocheck_8
+     2.82%          7578  [kernel]       [k] memset_erms
+     2.82%          7578  [kernel]       [k] should_failslab
+     2.47%          6630  [kernel]       [k] iterate_groups
+     2.16%          5801  [kernel]       [k] __lock_text_start
+     2.16%          5801  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/25 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    17.45%         41031  [kernel]       [k] visit_groups_merge.constprop.0.is
+    10.89%         25605  [kernel]       [k] psi_group_change
+     9.80%         23044  [kernel]       [k] ctx_sched_in
+     8.51%         20016  [kernel]       [k] merge_sched_in
+     7.90%         18564  [kernel]       [k] x86_reserve_hardware
+     4.81%         11314  [kernel]       [k] arch_perf_update_userpage
+     4.21%          9899  [kernel]       [k] alloc_pages_vma
+     3.68%          8661  [kernel]       [k] __cond_resched
+     3.68%          8661  [kernel]       [k] __mod_lruvec_page_state
+     3.68%          8661  [kernel]       [k] kmem_cache_alloc_trace
+     3.68%          8661  [kernel]       [k] update_cfs_group
+     3.22%          7578  [kernel]       [k] is_cpu_allowed
+     3.22%          7578  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.82%          6630  [kernel]       [k] __put_user_nocheck_8
+     2.82%          6630  [kernel]       [k] memset_erms
+     2.82%          6630  [kernel]       [k] should_failslab
+     2.47%          5801  [kernel]       [k] iterate_groups
+     2.16%          5075  [kernel]       [k] __lock_text_start
+     2.16%          5075  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         67070  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         35902  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         22404  [kernel]       [k] psi_group_change
+     7.39%         20163  [kernel]       [k] ctx_sched_in
+     6.42%         17514  [kernel]       [k] merge_sched_in
+     5.95%         16243  [kernel]       [k] x86_reserve_hardware
+     3.63%          9899  [kernel]       [k] arch_perf_update_userpage
+     3.18%          8661  [kernel]       [k] alloc_pages_vma
+     2.78%          7578  [kernel]       [k] __cond_resched
+     2.78%          7578  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          7578  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          7578  [kernel]       [k] update_cfs_group
+     2.43%          6630  [kernel]       [k] is_cpu_allowed
+     2.43%          6630  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          5801  [kernel]       [k] __put_user_nocheck_8
+     2.13%          5801  [kernel]       [k] memset_erms
+     2.13%          5801  [kernel]       [k] should_failslab
+     1.86%          5075  [kernel]       [k] iterate_groups
+     1.63%          4440  [kernel]       [k] __lock_text_start
+     1.63%          4440  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         58686  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         31414  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         19603  [kernel]       [k] psi_group_change
+     7.39%         17642  [kernel]       [k] ctx_sched_in
+     6.42%         15324  [kernel]       [k] merge_sched_in
+     5.95%         14212  [kernel]       [k] x86_reserve_hardware
+     3.63%          8661  [kernel]       [k] arch_perf_update_userpage
+     3.18%          7578  [kernel]       [k] alloc_pages_vma
+     2.78%          6630  [kernel]       [k] __cond_resched
+     2.78%          6630  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          6630  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          6630  [kernel]       [k] update_cfs_group
+     2.43%          5801  [kernel]       [k] is_cpu_allowed
+     2.43%          5801  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          5075  [kernel]       [k] __put_user_nocheck_8
+     2.13%          5075  [kernel]       [k] memset_erms
+     2.13%          5075  [kernel]       [k] should_failslab
+     1.86%          4440  [kernel]       [k] iterate_groups
+     1.63%          3885  [kernel]       [k] __lock_text_start
+     1.63%          3885  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/26 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         51350  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         27487  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         17152  [kernel]       [k] psi_group_change
+     7.39%         15436  [kernel]       [k] ctx_sched_in
+     6.42%         13408  [kernel]       [k] merge_sched_in
+     5.95%         12435  [kernel]       [k] x86_reserve_hardware
+     3.63%          7578  [kernel]       [k] arch_perf_update_userpage
+     3.17%          6630  [kernel]       [k] alloc_pages_vma
+     2.78%          5801  [kernel]       [k] __cond_resched
+     2.78%          5801  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          5801  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          5801  [kernel]       [k] update_cfs_group
+     2.43%          5075  [kernel]       [k] is_cpu_allowed
+     2.43%          5075  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          4440  [kernel]       [k] __put_user_nocheck_8
+     2.13%          4440  [kernel]       [k] memset_erms
+     2.13%          4440  [kernel]       [k] should_failslab
+     1.86%          3885  [kernel]       [k] iterate_groups
+     1.63%          3399  [kernel]       [k] __lock_text_start
+     1.63%          3399  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/27 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         44931  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         24051  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         15008  [kernel]       [k] psi_group_change
+     7.39%         13506  [kernel]       [k] ctx_sched_in
+     6.42%         11732  [kernel]       [k] merge_sched_in
+     5.95%         10880  [kernel]       [k] x86_reserve_hardware
+     3.63%          6630  [kernel]       [k] arch_perf_update_userpage
+     3.17%          5801  [kernel]       [k] alloc_pages_vma
+     2.78%          5075  [kernel]       [k] __cond_resched
+     2.78%          5075  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          5075  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          5075  [kernel]       [k] update_cfs_group
+     2.43%          4440  [kernel]       [k] is_cpu_allowed
+     2.43%          4440  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          3885  [kernel]       [k] __put_user_nocheck_8
+     2.13%          3885  [kernel]       [k] memset_erms
+     2.13%          3885  [kernel]       [k] should_failslab
+     1.86%          3399  [kernel]       [k] iterate_groups
+     1.63%          2974  [kernel]       [k] __lock_text_start
+     1.63%          2974  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/27 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         39314  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         21044  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         13132  [kernel]       [k] psi_group_change
+     7.39%         11817  [kernel]       [k] ctx_sched_in
+     6.42%         10265  [kernel]       [k] merge_sched_in
+     5.95%          9520  [kernel]       [k] x86_reserve_hardware
+     3.63%          5801  [kernel]       [k] arch_perf_update_userpage
+     3.17%          5075  [kernel]       [k] alloc_pages_vma
+     2.78%          4440  [kernel]       [k] __cond_resched
+     2.78%          4440  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          4440  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          4440  [kernel]       [k] update_cfs_group
+     2.43%          3885  [kernel]       [k] is_cpu_allowed
+     2.43%          3885  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          3399  [kernel]       [k] __put_user_nocheck_8
+     2.13%          3399  [kernel]       [k] memset_erms
+     2.13%          3399  [kernel]       [k] should_failslab
+     1.86%          2974  [kernel]       [k] iterate_groups
+     1.63%          2602  [kernel]       [k] __lock_text_start
+     1.63%          2602  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/27 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         34399  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         18413  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         11490  [kernel]       [k] psi_group_change
+     7.39%         10339  [kernel]       [k] ctx_sched_in
+     6.42%          8981  [kernel]       [k] merge_sched_in
+     5.96%          8330  [kernel]       [k] x86_reserve_hardware
+     3.63%          5075  [kernel]       [k] arch_perf_update_userpage
+     3.17%          4440  [kernel]       [k] alloc_pages_vma
+     2.78%          3885  [kernel]       [k] __cond_resched
+     2.78%          3885  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          3885  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          3885  [kernel]       [k] update_cfs_group
+     2.43%          3399  [kernel]       [k] is_cpu_allowed
+     2.43%          3399  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          2974  [kernel]       [k] __put_user_nocheck_8
+     2.13%          2974  [kernel]       [k] memset_erms
+     2.13%          2974  [kernel]       [k] should_failslab
+     1.86%          2602  [kernel]       [k] iterate_groups
+     1.63%          2276  [kernel]       [k] __lock_text_start
+     1.63%          2276  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/27 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         30099  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         16111  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%         10053  [kernel]       [k] psi_group_change
+     7.39%          9046  [kernel]       [k] ctx_sched_in
+     6.42%          7858  [kernel]       [k] merge_sched_in
+     5.95%          7288  [kernel]       [k] x86_reserve_hardware
+     3.63%          4440  [kernel]       [k] arch_perf_update_userpage
+     3.17%          3885  [kernel]       [k] alloc_pages_vma
+     2.78%          3399  [kernel]       [k] __cond_resched
+     2.78%          3399  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          3399  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          3399  [kernel]       [k] update_cfs_group
+     2.43%          2974  [kernel]       [k] is_cpu_allowed
+     2.43%          2974  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          2602  [kernel]       [k] __put_user_nocheck_8
+     2.13%          2602  [kernel]       [k] memset_erms
+     2.13%          2602  [kernel]       [k] should_failslab
+     1.86%          2276  [kernel]       [k] iterate_groups
+     1.63%          1991  [kernel]       [k] __lock_text_start
+     1.63%          1991  [kernel]       [k] enqueue_task
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/27 [4000Hz branch],  (target_pid: 2323773)
+-------------------------------------------------------------------------------
+
+    24.59%         26336  [kernel]       [k] __update_load_avg_cfs_rq
+    13.16%         14097  [kernel]       [k] visit_groups_merge.constprop.0.is
+     8.21%          8796  [kernel]       [k] psi_group_change
+     7.39%          7915  [kernel]       [k] ctx_sched_in
+     6.42%          6875  [kernel]       [k] merge_sched_in
+     5.96%          6377  [kernel]       [k] x86_reserve_hardware
+     3.63%          3885  [kernel]       [k] arch_perf_update_userpage
+     3.17%          3399  [kernel]       [k] alloc_pages_vma
+     2.78%          2974  [kernel]       [k] __cond_resched
+     2.78%          2974  [kernel]       [k] __mod_lruvec_page_state
+     2.78%          2974  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%          2974  [kernel]       [k] update_cfs_group
+     2.43%          2602  [kernel]       [k] is_cpu_allowed
+     2.43%          2602  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.13%          2276  [kernel]       [k] __put_user_nocheck_8
+     2.13%          2276  [kernel]       [k] memset_erms
+     2.13%          2276  [kernel]       [k] should_failslab
+     1.86%          1991  [kernel]       [k] iterate_groups
+     1.63%          1742  [kernel]       [k] __lock_text_start
+     1.63%          1742  [kernel]       [k] enqueue_task

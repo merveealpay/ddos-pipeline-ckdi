@@ -1,0 +1,191 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:25.0%  exact:  0.0% lost: 0/0 drop: 25/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+   100.00%        881880  [kernel]       [k] intel_put_event_constraints
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       2 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+   100.00%        771645  [kernel]       [k] intel_put_event_constraints
+[H[2J
+   PerfTop:      12 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+    14.78%        881880  [kernel]       [k] css_set_move_task
+    14.78%        881880  [kernel]       [k] enqueue_hrtimer
+    14.78%        881880  [kernel]       [k] kfree
+    14.78%        881880  [kernel]       [k] memset_erms
+    14.78%        881880  [kernel]       [k] perf_event_alloc
+    14.78%        881880  [kernel]       [k] syscall_exit_to_user_mode
+    11.32%        675189  [kernel]       [k] intel_put_event_constraints
+[H[2J
+   PerfTop:      12 irqs/sec  kernel:75.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+    19.41%       2686497  [kernel]       [k] syscall_exit_to_user_mode
+    12.50%       1729071  [kernel]       [k] memset_erms
+    12.50%       1729071  [kernel]       [k] perf_event_alloc
+     6.92%        957426  [kernel]       [k] inherit_event.constprop.0
+     6.92%        957426  [kernel]       [k] pids_can_fork
+     6.92%        957426  [kernel]       [k] pte_pfn
+     6.92%        957426  [kernel]       [k] sched_clock_cpu
+     6.92%        957426  [kernel]       [k] task_active_pid_ns
+     5.58%        771645  [kernel]       [k] css_set_move_task
+     5.58%        771645  [kernel]       [k] enqueue_hrtimer
+     5.58%        771645  [kernel]       [k] kfree
+     4.27%        590790  [kernel]       [k] intel_put_event_constraints
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:60.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+    16.49%       2470363  [kernel]       [k] memset_erms
+    15.69%       2350684  [kernel]       [k] syscall_exit_to_user_mode
+    10.10%       1512937  [kernel]       [k] perf_event_alloc
+     6.39%        957426  [kernel]       [k] event_sched_in
+     6.39%        957426  [kernel]       [k] perf_iterate_ctx
+     5.59%        837747  [kernel]       [k] inherit_event.constprop.0
+     5.59%        837747  [kernel]       [k] pids_can_fork
+     5.59%        837747  [kernel]       [k] pte_pfn
+     5.59%        837747  [kernel]       [k] sched_clock_cpu
+     5.59%        837747  [kernel]       [k] task_active_pid_ns
+     4.51%        675189  [kernel]       [k] css_set_move_task
+     4.51%        675189  [kernel]       [k] enqueue_hrtimer
+     4.51%        675189  [kernel]       [k] kfree
+     3.45%        516941  [kernel]       [k] intel_put_event_constraints
+[H[2J
+   PerfTop:      14 irqs/sec  kernel:21.4%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+    14.01%       2161567  [kernel]       [k] memset_erms
+    13.33%       2056848  [kernel]       [k] syscall_exit_to_user_mode
+     8.58%       1323819  [kernel]       [k] perf_event_alloc
+     6.20%        957426  [kernel]       [k] exit_to_user_mode_prepare
+     5.43%        837747  [kernel]       [k] event_sched_in
+     5.43%        837747  [kernel]       [k] perf_iterate_ctx
+     4.75%        733028  [kernel]       [k] inherit_event.constprop.0
+     4.75%        733028  [kernel]       [k] pids_can_fork
+     4.75%        733028  [kernel]       [k] pte_pfn
+     4.75%        733028  [kernel]       [k] sched_clock_cpu
+     4.75%        733028  [kernel]       [k] task_active_pid_ns
+     4.43%        683146  [kernel]       [k] native_write_msr
+     4.43%        683146  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.83%        590790  [kernel]       [k] css_set_move_task
+     3.83%        590790  [kernel]       [k] enqueue_hrtimer
+     3.83%        590790  [kernel]       [k] kfree
+     2.93%        452323  [kernel]       [k] intel_put_event_constraints
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+    14.01%       1891371  [kernel]       [k] memset_erms
+    13.33%       1799742  [kernel]       [k] syscall_exit_to_user_mode
+     8.58%       1158341  [kernel]       [k] perf_event_alloc
+     6.20%        837747  [kernel]       [k] exit_to_user_mode_prepare
+     5.43%        733028  [kernel]       [k] event_sched_in
+     5.43%        733028  [kernel]       [k] perf_iterate_ctx
+     4.75%        641399  [kernel]       [k] inherit_event.constprop.0
+     4.75%        641399  [kernel]       [k] pids_can_fork
+     4.75%        641399  [kernel]       [k] pte_pfn
+     4.75%        641399  [kernel]       [k] sched_clock_cpu
+     4.75%        641399  [kernel]       [k] task_active_pid_ns
+     4.43%        597752  [kernel]       [k] native_write_msr
+     4.43%        597752  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.83%        516941  [kernel]       [k] css_set_move_task
+     3.83%        516941  [kernel]       [k] enqueue_hrtimer
+     3.83%        516941  [kernel]       [k] kfree
+     2.93%        395782  [kernel]       [k] intel_put_event_constraints
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz cycles],  (target_pid: 2412902)
+-------------------------------------------------------------------------------
+
+    14.01%       1654949  [kernel]       [k] memset_erms
+    13.33%       1574774  [kernel]       [k] syscall_exit_to_user_mode
+     8.58%       1013548  [kernel]       [k] perf_event_alloc
+     6.20%        733028  [kernel]       [k] exit_to_user_mode_prepare
+     5.43%        641399  [kernel]       [k] event_sched_in
+     5.43%        641399  [kernel]       [k] perf_iterate_ctx
+     4.75%        561224  [kernel]       [k] inherit_event.constprop.0
+     4.75%        561224  [kernel]       [k] pids_can_fork
+     4.75%        561224  [kernel]       [k] pte_pfn
+     4.75%        561224  [kernel]       [k] sched_clock_cpu
+     4.75%        561224  [kernel]       [k] task_active_pid_ns
+     4.43%        523033  [kernel]       [k] native_write_msr
+     4.43%        523033  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.83%        452323  [kernel]       [k] css_set_move_task
+     3.83%        452323  [kernel]       [k] enqueue_hrtimer
+     3.83%        452323  [kernel]       [k] kfree
+     2.93%        346309  [kernel]       [k] intel_put_event_constraints

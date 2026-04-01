@@ -1,0 +1,171 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      19 irqs/sec  kernel:57.9%  exact:  0.0% lost: 0/0 drop: 21/21 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+     9.85%       1376989  [kernel]       [k] __cond_resched
+     9.85%       1376989  [kernel]       [k] _raw_spin_lock
+     9.85%       1376989  [kernel]       [k] error_entry
+     9.85%       1376989  [kernel]       [k] get_futex_key
+     9.85%       1376989  [kernel]       [k] inherit_event.constprop.0
+     9.85%       1376989  [kernel]       [k] kthread_blkcg
+     8.18%       1142449  [kernel]       [k] intel_cpuc_finish
+     8.18%       1142449  [kernel]       [k] perf_event_alloc
+     8.18%       1142449  [kernel]       [k] perf_event_mmap
+     8.18%       1142449  [kernel]       [k] rb_insert_color
+     8.18%       1142449  [kernel]       [k] syscall_exit_to_user_mode
+     0.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:      17 irqs/sec  kernel:29.4%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    11.94%       2142091  [kernel]       [k] intel_cpuc_finish
+     6.72%       1204865  [kernel]       [k] __cond_resched
+     6.72%       1204865  [kernel]       [k] _raw_spin_lock
+     6.72%       1204865  [kernel]       [k] error_entry
+     6.72%       1204865  [kernel]       [k] get_futex_key
+     6.72%       1204865  [kernel]       [k] inherit_event.constprop.0
+     6.72%       1204865  [kernel]       [k] kthread_blkcg
+     6.37%       1142449  [kernel]       [k] css_set_move_task
+     6.37%       1142449  [kernel]       [k] merge_sched_in
+     6.37%       1142449  [kernel]       [k] native_sched_clock
+     6.37%       1142449  [kernel]       [k] perf_iterate_ctx
+     5.57%        999642  [kernel]       [k] perf_event_alloc
+     5.57%        999642  [kernel]       [k] perf_event_mmap
+     5.57%        999642  [kernel]       [k] rb_insert_color
+     5.57%        999642  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:      14 irqs/sec  kernel:57.1%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    13.80%       3427347  [kernel]       [k] memcg_slab_free_hook
+     7.55%       1874329  [kernel]       [k] intel_cpuc_finish
+     4.60%       1142449  [kernel]       [k] __percpu_down_read
+     4.60%       1142449  [kernel]       [k] clear_page_erms
+     4.60%       1142449  [kernel]       [k] init_dl_task_timer
+     4.60%       1142449  [kernel]       [k] pick_next_task_fair
+     4.60%       1142449  [kernel]       [k] x86_setup_perfctr
+     4.24%       1054256  [kernel]       [k] __cond_resched
+     4.24%       1054256  [kernel]       [k] _raw_spin_lock
+     4.24%       1054256  [kernel]       [k] error_entry
+     4.24%       1054256  [kernel]       [k] get_futex_key
+     4.24%       1054256  [kernel]       [k] inherit_event.constprop.0
+     4.24%       1054256  [kernel]       [k] kthread_blkcg
+     4.02%        999642  [kernel]       [k] css_set_move_task
+     4.02%        999642  [kernel]       [k] merge_sched_in
+     4.02%        999642  [kernel]       [k] native_sched_clock
+     4.02%        999642  [kernel]       [k] perf_iterate_ctx
+     3.52%        874686  [kernel]       [k] perf_event_alloc
+     3.52%        874686  [kernel]       [k] perf_event_mmap
+     3.52%        874686  [kernel]       [k] rb_insert_color
+[H[2J
+   PerfTop:       8 irqs/sec  kernel:12.5%  exact:  0.0% lost: 0/0 drop: 0/21 [4000Hz cycles],  (target_pid: 1492909)
+-------------------------------------------------------------------------------
+
+    13.11%       2998928  [kernel]       [k] memcg_slab_free_hook
+     7.17%       1640037  [kernel]       [k] intel_cpuc_finish
+     4.99%       1142449  [kernel]       [k] irqentry_exit_to_user_mode
+     4.37%        999642  [kernel]       [k] __percpu_down_read
+     4.37%        999642  [kernel]       [k] clear_page_erms
+     4.37%        999642  [kernel]       [k] init_dl_task_timer
+     4.37%        999642  [kernel]       [k] pick_next_task_fair
+     4.37%        999642  [kernel]       [k] x86_setup_perfctr
+     4.03%        922474  [kernel]       [k] __cond_resched
+     4.03%        922474  [kernel]       [k] _raw_spin_lock
+     4.03%        922474  [kernel]       [k] error_entry
+     4.03%        922474  [kernel]       [k] get_futex_key
+     4.03%        922474  [kernel]       [k] inherit_event.constprop.0
+     4.03%        922474  [kernel]       [k] kthread_blkcg
+     3.82%        874686  [kernel]       [k] css_set_move_task
+     3.82%        874686  [kernel]       [k] merge_sched_in
+     3.82%        874686  [kernel]       [k] native_sched_clock
+     3.82%        874686  [kernel]       [k] perf_iterate_ctx
+     3.35%        765350  [kernel]       [k] perf_event_alloc
+     3.35%        765350  [kernel]       [k] perf_event_mmap

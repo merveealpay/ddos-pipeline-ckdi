@@ -1,0 +1,730 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 10/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    40.00%        204432  [kernel]       [k] memset_erms
+    20.00%        102216  [kernel]       [k] iterate_groups
+    20.00%        102216  [kernel]       [k] merge_sched_in
+    20.00%        102216  [kernel]       [k] update_load_avg
+     0.00%             1  [kernel]       [k] x86_pmu_enable
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    25.42%        191655  [kernel]       [k] merge_sched_in
+    23.73%        178878  [kernel]       [k] memset_erms
+    13.56%        102216  [kernel]       [k] calc_timer_values
+    13.56%        102216  [kernel]       [k] kmem_cache_alloc_trace
+    11.86%         89439  [kernel]       [k] iterate_groups
+    11.86%         89439  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    17.46%        204432  [kernel]       [k] psi_group_change
+    14.32%        167698  [kernel]       [k] merge_sched_in
+    13.37%        156518  [kernel]       [k] memset_erms
+     8.73%        102216  [kernel]       [k] lru_cache_add
+     8.73%        102216  [kernel]       [k] should_failslab
+     8.73%        102216  [kernel]       [k] slab_free_freelist_hook.constprop
+     7.64%         89439  [kernel]       [k] calc_timer_values
+     7.64%         89439  [kernel]       [k] kmem_cache_alloc_trace
+     6.68%         78259  [kernel]       [k] iterate_groups
+     6.68%         78259  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    15.88%        178878  [kernel]       [k] psi_group_change
+    13.02%        146735  [kernel]       [k] merge_sched_in
+    12.16%        136953  [kernel]       [k] memset_erms
+     9.07%        102216  [kernel]       [k] kmem_cache_alloc_node_trace
+     7.94%         89439  [kernel]       [k] lru_cache_add
+     7.94%         89439  [kernel]       [k] should_failslab
+     7.94%         89439  [kernel]       [k] slab_free_freelist_hook.constprop
+     6.95%         78259  [kernel]       [k] calc_timer_values
+     6.95%         78259  [kernel]       [k] kmem_cache_alloc_trace
+     6.08%         68476  [kernel]       [k] iterate_groups
+     6.08%         68476  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    21.74%        258734  [kernel]       [k] psi_group_change
+    10.79%        128393  [kernel]       [k] merge_sched_in
+    10.07%        119833  [kernel]       [k] memset_erms
+     8.59%        102216  [kernel]       [k] rb_next
+     7.51%         89439  [kernel]       [k] kmem_cache_alloc_node_trace
+     6.58%         78259  [kernel]       [k] lru_cache_add
+     6.58%         78259  [kernel]       [k] should_failslab
+     6.58%         78259  [kernel]       [k] slab_free_freelist_hook.constprop
+     5.75%         68476  [kernel]       [k] calc_timer_values
+     5.75%         68476  [kernel]       [k] kmem_cache_alloc_trace
+     5.03%         59916  [kernel]       [k] iterate_groups
+     5.03%         59916  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    15.61%        226392  [kernel]       [k] psi_group_change
+    11.77%        170692  [kernel]       [k] should_failslab
+     7.75%        112343  [kernel]       [k] merge_sched_in
+     7.23%        104853  [kernel]       [k] memset_erms
+     7.05%        102216  [kernel]       [k] __vmalloc_area_node.constprop.0
+     7.05%        102216  [kernel]       [k] mutex_lock
+     7.05%        102216  [kernel]       [k] perf_event_alloc
+     6.17%         89439  [kernel]       [k] rb_next
+     5.40%         78259  [kernel]       [k] kmem_cache_alloc_node_trace
+     4.72%         68476  [kernel]       [k] lru_cache_add
+     4.72%         68476  [kernel]       [k] slab_free_freelist_hook.constprop
+     4.13%         59916  [kernel]       [k] calc_timer_values
+     4.13%         59916  [kernel]       [k] kmem_cache_alloc_trace
+     3.61%         52426  [kernel]       [k] iterate_groups
+     3.61%         52426  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    13.44%        198093  [kernel]       [k] psi_group_change
+    13.16%        193962  [kernel]       [k] memset_erms
+    10.14%        149355  [kernel]       [k] should_failslab
+     6.94%        102216  [kernel]       [k] __do_sys_clone3
+     6.67%         98300  [kernel]       [k] merge_sched_in
+     6.07%         89439  [kernel]       [k] __vmalloc_area_node.constprop.0
+     6.07%         89439  [kernel]       [k] mutex_lock
+     6.07%         89439  [kernel]       [k] perf_event_alloc
+     5.31%         78259  [kernel]       [k] rb_next
+     4.65%         68476  [kernel]       [k] kmem_cache_alloc_node_trace
+     4.07%         59916  [kernel]       [k] lru_cache_add
+     4.07%         59916  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.56%         52426  [kernel]       [k] calc_timer_values
+     3.56%         52426  [kernel]       [k] kmem_cache_alloc_trace
+     3.11%         45872  [kernel]       [k] iterate_groups
+     3.11%         45872  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       5 irqs/sec  kernel:80.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.35%        196575  [kernel]       [k] merge_sched_in
+    10.01%        173331  [kernel]       [k] psi_group_change
+     9.80%        169716  [kernel]       [k] memset_erms
+     7.55%        130685  [kernel]       [k] should_failslab
+     6.39%        110563  [kernel]       [k] __srcu_read_unlock
+     6.39%        110563  [kernel]       [k] inherit_event.constprop.0
+     6.39%        110563  [kernel]       [k] perf_event_update_userpage
+     5.17%         89439  [kernel]       [k] __do_sys_clone3
+     4.52%         78259  [kernel]       [k] __vmalloc_area_node.constprop.0
+     4.52%         78259  [kernel]       [k] mutex_lock
+     4.52%         78259  [kernel]       [k] perf_event_alloc
+     3.95%         68476  [kernel]       [k] rb_next
+     3.46%         59916  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.03%         52426  [kernel]       [k] lru_cache_add
+     3.03%         52426  [kernel]       [k] slab_free_freelist_hook.constprop
+     2.65%         45872  [kernel]       [k] calc_timer_values
+     2.65%         45872  [kernel]       [k] kmem_cache_alloc_trace
+     2.32%         40138  [kernel]       [k] iterate_groups
+     2.32%         40138  [kernel]       [k] update_load_avg
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+     9.31%        172003  [kernel]       [k] merge_sched_in
+     8.21%        151664  [kernel]       [k] psi_group_change
+     8.16%        150701  [kernel]       [k] kmem_cache_alloc_trace
+     8.04%        148501  [kernel]       [k] memset_erms
+     6.19%        114349  [kernel]       [k] should_failslab
+     5.99%        110563  [kernel]       [k] __memcg_kmem_charge_page
+     5.99%        110563  [kernel]       [k] x86_get_event_constraints
+     5.24%         96742  [kernel]       [k] __srcu_read_unlock
+     5.24%         96742  [kernel]       [k] inherit_event.constprop.0
+     5.24%         96742  [kernel]       [k] perf_event_update_userpage
+     4.24%         78259  [kernel]       [k] __do_sys_clone3
+     3.71%         68476  [kernel]       [k] __vmalloc_area_node.constprop.0
+     3.71%         68476  [kernel]       [k] mutex_lock
+     3.71%         68476  [kernel]       [k] perf_event_alloc
+     3.24%         59916  [kernel]       [k] rb_next
+     2.84%         52426  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.48%         45872  [kernel]       [k] lru_cache_add
+     2.48%         45872  [kernel]       [k] slab_free_freelist_hook.constprop
+     2.17%         40138  [kernel]       [k] calc_timer_values
+     1.90%         35120  [kernel]       [k] iterate_groups
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        243269  [kernel]       [k] psi_group_change
+    10.23%        210618  [kernel]       [k] should_failslab
+     7.31%        150502  [kernel]       [k] merge_sched_in
+     6.41%        131863  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%        129938  [kernel]       [k] memset_erms
+     5.37%        110563  [kernel]       [k] event_sched_in
+     5.37%        110563  [kernel]       [k] kfree
+     4.70%         96742  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         96742  [kernel]       [k] x86_get_event_constraints
+     4.11%         84649  [kernel]       [k] __srcu_read_unlock
+     4.11%         84649  [kernel]       [k] inherit_event.constprop.0
+     4.11%         84649  [kernel]       [k] perf_event_update_userpage
+     3.33%         68476  [kernel]       [k] __do_sys_clone3
+     2.91%         59916  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         59916  [kernel]       [k] mutex_lock
+     2.91%         59916  [kernel]       [k] perf_event_alloc
+     2.55%         52426  [kernel]       [k] rb_next
+     2.23%         45872  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         40138  [kernel]       [k] lru_cache_add
+     1.95%         40138  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        212860  [kernel]       [k] psi_group_change
+    10.23%        184290  [kernel]       [k] should_failslab
+     7.31%        131689  [kernel]       [k] merge_sched_in
+     6.41%        115380  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%        113695  [kernel]       [k] memset_erms
+     5.37%         96742  [kernel]       [k] event_sched_in
+     5.37%         96742  [kernel]       [k] kfree
+     4.70%         84649  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         84649  [kernel]       [k] x86_get_event_constraints
+     4.11%         74067  [kernel]       [k] __srcu_read_unlock
+     4.11%         74067  [kernel]       [k] inherit_event.constprop.0
+     4.11%         74067  [kernel]       [k] perf_event_update_userpage
+     3.33%         59916  [kernel]       [k] __do_sys_clone3
+     2.91%         52426  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         52426  [kernel]       [k] mutex_lock
+     2.91%         52426  [kernel]       [k] perf_event_alloc
+     2.55%         45872  [kernel]       [k] rb_next
+     2.23%         40138  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         35120  [kernel]       [k] lru_cache_add
+     1.95%         35120  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        186252  [kernel]       [k] psi_group_change
+    10.23%        161253  [kernel]       [k] should_failslab
+     7.31%        115227  [kernel]       [k] merge_sched_in
+     6.41%        100957  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         99483  [kernel]       [k] memset_erms
+     5.37%         84649  [kernel]       [k] event_sched_in
+     5.37%         84649  [kernel]       [k] kfree
+     4.70%         74067  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         74067  [kernel]       [k] x86_get_event_constraints
+     4.11%         64808  [kernel]       [k] __srcu_read_unlock
+     4.11%         64808  [kernel]       [k] inherit_event.constprop.0
+     4.11%         64808  [kernel]       [k] perf_event_update_userpage
+     3.33%         52426  [kernel]       [k] __do_sys_clone3
+     2.91%         45872  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         45872  [kernel]       [k] mutex_lock
+     2.91%         45872  [kernel]       [k] perf_event_alloc
+     2.55%         40138  [kernel]       [k] rb_next
+     2.23%         35120  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         30730  [kernel]       [k] lru_cache_add
+     1.95%         30730  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        162970  [kernel]       [k] psi_group_change
+    10.23%        141096  [kernel]       [k] should_failslab
+     7.31%        100823  [kernel]       [k] merge_sched_in
+     6.41%         88337  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         87047  [kernel]       [k] memset_erms
+     5.37%         74067  [kernel]       [k] event_sched_in
+     5.37%         74067  [kernel]       [k] kfree
+     4.70%         64808  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         64808  [kernel]       [k] x86_get_event_constraints
+     4.11%         56707  [kernel]       [k] __srcu_read_unlock
+     4.11%         56707  [kernel]       [k] inherit_event.constprop.0
+     4.11%         56707  [kernel]       [k] perf_event_update_userpage
+     3.33%         45872  [kernel]       [k] __do_sys_clone3
+     2.91%         40138  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         40138  [kernel]       [k] mutex_lock
+     2.91%         40138  [kernel]       [k] perf_event_alloc
+     2.55%         35120  [kernel]       [k] rb_next
+     2.23%         30730  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         26888  [kernel]       [k] lru_cache_add
+     1.95%         26888  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        142598  [kernel]       [k] psi_group_change
+    10.23%        123459  [kernel]       [k] should_failslab
+     7.31%         88220  [kernel]       [k] merge_sched_in
+     6.41%         77294  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         76166  [kernel]       [k] memset_erms
+     5.37%         64808  [kernel]       [k] event_sched_in
+     5.37%         64808  [kernel]       [k] kfree
+     4.70%         56707  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         56707  [kernel]       [k] x86_get_event_constraints
+     4.11%         49618  [kernel]       [k] __srcu_read_unlock
+     4.11%         49618  [kernel]       [k] inherit_event.constprop.0
+     4.11%         49618  [kernel]       [k] perf_event_update_userpage
+     3.33%         40138  [kernel]       [k] __do_sys_clone3
+     2.91%         35120  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         35120  [kernel]       [k] mutex_lock
+     2.91%         35120  [kernel]       [k] perf_event_alloc
+     2.55%         30730  [kernel]       [k] rb_next
+     2.23%         26888  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         23527  [kernel]       [k] lru_cache_add
+     1.95%         23527  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        124773  [kernel]       [k] psi_group_change
+    10.23%        108026  [kernel]       [k] should_failslab
+     7.31%         77192  [kernel]       [k] merge_sched_in
+     6.41%         67632  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         66645  [kernel]       [k] memset_erms
+     5.37%         56707  [kernel]       [k] event_sched_in
+     5.37%         56707  [kernel]       [k] kfree
+     4.70%         49618  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         49618  [kernel]       [k] x86_get_event_constraints
+     4.11%         43415  [kernel]       [k] __srcu_read_unlock
+     4.11%         43415  [kernel]       [k] inherit_event.constprop.0
+     4.11%         43415  [kernel]       [k] perf_event_update_userpage
+     3.33%         35120  [kernel]       [k] __do_sys_clone3
+     2.91%         30730  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         30730  [kernel]       [k] mutex_lock
+     2.91%         30730  [kernel]       [k] perf_event_alloc
+     2.55%         26888  [kernel]       [k] rb_next
+     2.23%         23527  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         20586  [kernel]       [k] lru_cache_add
+     1.95%         20586  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%        109176  [kernel]       [k] psi_group_change
+    10.23%         94522  [kernel]       [k] should_failslab
+     7.31%         67543  [kernel]       [k] merge_sched_in
+     6.41%         59178  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         58314  [kernel]       [k] memset_erms
+     5.37%         49618  [kernel]       [k] event_sched_in
+     5.37%         49618  [kernel]       [k] kfree
+     4.70%         43415  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         43415  [kernel]       [k] x86_get_event_constraints
+     4.11%         37988  [kernel]       [k] __srcu_read_unlock
+     4.11%         37988  [kernel]       [k] inherit_event.constprop.0
+     4.11%         37988  [kernel]       [k] perf_event_update_userpage
+     3.33%         30730  [kernel]       [k] __do_sys_clone3
+     2.91%         26888  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         26888  [kernel]       [k] mutex_lock
+     2.91%         26888  [kernel]       [k] perf_event_alloc
+     2.55%         23527  [kernel]       [k] rb_next
+     2.23%         20586  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         18012  [kernel]       [k] lru_cache_add
+     1.95%         18012  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         95529  [kernel]       [k] psi_group_change
+    10.23%         82706  [kernel]       [k] should_failslab
+     7.31%         59100  [kernel]       [k] merge_sched_in
+     6.41%         51780  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         51024  [kernel]       [k] memset_erms
+     5.37%         43415  [kernel]       [k] event_sched_in
+     5.37%         43415  [kernel]       [k] kfree
+     4.70%         37988  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         37988  [kernel]       [k] x86_get_event_constraints
+     4.11%         33239  [kernel]       [k] __srcu_read_unlock
+     4.11%         33239  [kernel]       [k] inherit_event.constprop.0
+     4.11%         33239  [kernel]       [k] perf_event_update_userpage
+     3.33%         26888  [kernel]       [k] __do_sys_clone3
+     2.91%         23527  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         23527  [kernel]       [k] mutex_lock
+     2.91%         23527  [kernel]       [k] perf_event_alloc
+     2.55%         20586  [kernel]       [k] rb_next
+     2.23%         18012  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         15760  [kernel]       [k] lru_cache_add
+     1.95%         15760  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         83587  [kernel]       [k] psi_group_change
+    10.23%         72367  [kernel]       [k] should_failslab
+     7.31%         51712  [kernel]       [k] merge_sched_in
+     6.41%         45307  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         44646  [kernel]       [k] memset_erms
+     5.37%         37988  [kernel]       [k] event_sched_in
+     5.37%         37988  [kernel]       [k] kfree
+     4.70%         33239  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         33239  [kernel]       [k] x86_get_event_constraints
+     4.11%         29084  [kernel]       [k] __srcu_read_unlock
+     4.11%         29084  [kernel]       [k] inherit_event.constprop.0
+     4.11%         29084  [kernel]       [k] perf_event_update_userpage
+     3.33%         23527  [kernel]       [k] __do_sys_clone3
+     2.91%         20586  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         20586  [kernel]       [k] mutex_lock
+     2.91%         20586  [kernel]       [k] perf_event_alloc
+     2.55%         18012  [kernel]       [k] rb_next
+     2.23%         15760  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         13790  [kernel]       [k] lru_cache_add
+     1.95%         13790  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         73138  [kernel]       [k] psi_group_change
+    10.23%         63321  [kernel]       [k] should_failslab
+     7.31%         45248  [kernel]       [k] merge_sched_in
+     6.41%         39643  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         39065  [kernel]       [k] memset_erms
+     5.37%         33239  [kernel]       [k] event_sched_in
+     5.37%         33239  [kernel]       [k] kfree
+     4.70%         29084  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         29084  [kernel]       [k] x86_get_event_constraints
+     4.11%         25448  [kernel]       [k] __srcu_read_unlock
+     4.11%         25448  [kernel]       [k] inherit_event.constprop.0
+     4.11%         25448  [kernel]       [k] perf_event_update_userpage
+     3.33%         20586  [kernel]       [k] __do_sys_clone3
+     2.91%         18012  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         18012  [kernel]       [k] mutex_lock
+     2.91%         18012  [kernel]       [k] perf_event_alloc
+     2.55%         15760  [kernel]       [k] rb_next
+     2.23%         13790  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         12066  [kernel]       [k] lru_cache_add
+     1.95%         12066  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         63995  [kernel]       [k] psi_group_change
+    10.23%         55405  [kernel]       [k] should_failslab
+     7.31%         39592  [kernel]       [k] merge_sched_in
+     6.41%         34687  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         34181  [kernel]       [k] memset_erms
+     5.37%         29084  [kernel]       [k] event_sched_in
+     5.37%         29084  [kernel]       [k] kfree
+     4.70%         25448  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         25448  [kernel]       [k] x86_get_event_constraints
+     4.11%         22267  [kernel]       [k] __srcu_read_unlock
+     4.11%         22267  [kernel]       [k] inherit_event.constprop.0
+     4.11%         22267  [kernel]       [k] perf_event_update_userpage
+     3.33%         18012  [kernel]       [k] __do_sys_clone3
+     2.91%         15760  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         15760  [kernel]       [k] mutex_lock
+     2.91%         15760  [kernel]       [k] perf_event_alloc
+     2.55%         13790  [kernel]       [k] rb_next
+     2.23%         12066  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%         10557  [kernel]       [k] lru_cache_add
+     1.95%         10557  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         55995  [kernel]       [k] psi_group_change
+    10.23%         48479  [kernel]       [k] should_failslab
+     7.31%         34643  [kernel]       [k] merge_sched_in
+     6.41%         30351  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         29908  [kernel]       [k] memset_erms
+     5.37%         25448  [kernel]       [k] event_sched_in
+     5.37%         25448  [kernel]       [k] kfree
+     4.70%         22267  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         22267  [kernel]       [k] x86_get_event_constraints
+     4.11%         19483  [kernel]       [k] __srcu_read_unlock
+     4.11%         19483  [kernel]       [k] inherit_event.constprop.0
+     4.11%         19483  [kernel]       [k] perf_event_update_userpage
+     3.33%         15760  [kernel]       [k] __do_sys_clone3
+     2.91%         13790  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         13790  [kernel]       [k] mutex_lock
+     2.91%         13790  [kernel]       [k] perf_event_alloc
+     2.55%         12066  [kernel]       [k] rb_next
+     2.23%         10557  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          9237  [kernel]       [k] lru_cache_add
+     1.95%          9237  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         48995  [kernel]       [k] psi_group_change
+    10.23%         42419  [kernel]       [k] should_failslab
+     7.31%         30312  [kernel]       [k] merge_sched_in
+     6.41%         26557  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         26169  [kernel]       [k] memset_erms
+     5.37%         22267  [kernel]       [k] event_sched_in
+     5.37%         22267  [kernel]       [k] kfree
+     4.70%         19483  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         19483  [kernel]       [k] x86_get_event_constraints
+     4.11%         17047  [kernel]       [k] __srcu_read_unlock
+     4.11%         17047  [kernel]       [k] inherit_event.constprop.0
+     4.11%         17047  [kernel]       [k] perf_event_update_userpage
+     3.33%         13790  [kernel]       [k] __do_sys_clone3
+     2.91%         12066  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         12066  [kernel]       [k] mutex_lock
+     2.91%         12066  [kernel]       [k] perf_event_alloc
+     2.55%         10557  [kernel]       [k] rb_next
+     2.23%          9237  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          8082  [kernel]       [k] lru_cache_add
+     1.95%          8082  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         42870  [kernel]       [k] psi_group_change
+    10.23%         37116  [kernel]       [k] should_failslab
+     7.31%         26523  [kernel]       [k] merge_sched_in
+     6.41%         23237  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         22897  [kernel]       [k] memset_erms
+     5.37%         19483  [kernel]       [k] event_sched_in
+     5.37%         19483  [kernel]       [k] kfree
+     4.70%         17047  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         17047  [kernel]       [k] x86_get_event_constraints
+     4.11%         14916  [kernel]       [k] __srcu_read_unlock
+     4.11%         14916  [kernel]       [k] inherit_event.constprop.0
+     4.11%         14916  [kernel]       [k] perf_event_update_userpage
+     3.33%         12066  [kernel]       [k] __do_sys_clone3
+     2.91%         10557  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%         10557  [kernel]       [k] mutex_lock
+     2.91%         10557  [kernel]       [k] perf_event_alloc
+     2.55%          9237  [kernel]       [k] rb_next
+     2.23%          8082  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          7071  [kernel]       [k] lru_cache_add
+     1.95%          7071  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         37511  [kernel]       [k] psi_group_change
+    10.23%         32476  [kernel]       [k] should_failslab
+     7.31%         23207  [kernel]       [k] merge_sched_in
+     6.41%         20332  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         20034  [kernel]       [k] memset_erms
+     5.37%         17047  [kernel]       [k] event_sched_in
+     5.37%         17047  [kernel]       [k] kfree
+     4.70%         14916  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         14916  [kernel]       [k] x86_get_event_constraints
+     4.11%         13051  [kernel]       [k] __srcu_read_unlock
+     4.11%         13051  [kernel]       [k] inherit_event.constprop.0
+     4.11%         13051  [kernel]       [k] perf_event_update_userpage
+     3.33%         10557  [kernel]       [k] __do_sys_clone3
+     2.91%          9237  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          9237  [kernel]       [k] mutex_lock
+     2.91%          9237  [kernel]       [k] perf_event_alloc
+     2.55%          8082  [kernel]       [k] rb_next
+     2.23%          7071  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          6187  [kernel]       [k] lru_cache_add
+     1.95%          6187  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         32822  [kernel]       [k] psi_group_change
+    10.23%         28416  [kernel]       [k] should_failslab
+     7.31%         20306  [kernel]       [k] merge_sched_in
+     6.41%         17790  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         17529  [kernel]       [k] memset_erms
+     5.37%         14916  [kernel]       [k] event_sched_in
+     5.37%         14916  [kernel]       [k] kfree
+     4.70%         13051  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         13051  [kernel]       [k] x86_get_event_constraints
+     4.11%         11419  [kernel]       [k] __srcu_read_unlock
+     4.11%         11419  [kernel]       [k] inherit_event.constprop.0
+     4.11%         11419  [kernel]       [k] perf_event_update_userpage
+     3.33%          9237  [kernel]       [k] __do_sys_clone3
+     2.91%          8082  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          8082  [kernel]       [k] mutex_lock
+     2.91%          8082  [kernel]       [k] perf_event_alloc
+     2.55%          7071  [kernel]       [k] rb_next
+     2.23%          6187  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          5413  [kernel]       [k] lru_cache_add
+     1.95%          5413  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         28719  [kernel]       [k] psi_group_change
+    10.24%         24864  [kernel]       [k] should_failslab
+     7.31%         17767  [kernel]       [k] merge_sched_in
+     6.41%         15566  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         15337  [kernel]       [k] memset_erms
+     5.37%         13051  [kernel]       [k] event_sched_in
+     5.37%         13051  [kernel]       [k] kfree
+     4.70%         11419  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%         11419  [kernel]       [k] x86_get_event_constraints
+     4.11%          9991  [kernel]       [k] __srcu_read_unlock
+     4.11%          9991  [kernel]       [k] inherit_event.constprop.0
+     4.11%          9991  [kernel]       [k] perf_event_update_userpage
+     3.33%          8082  [kernel]       [k] __do_sys_clone3
+     2.91%          7071  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          7071  [kernel]       [k] mutex_lock
+     2.91%          7071  [kernel]       [k] perf_event_alloc
+     2.55%          6187  [kernel]       [k] rb_next
+     2.23%          5413  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          4736  [kernel]       [k] lru_cache_add
+     1.95%          4736  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         25129  [kernel]       [k] psi_group_change
+    10.24%         21756  [kernel]       [k] should_failslab
+     7.31%         15546  [kernel]       [k] merge_sched_in
+     6.41%         13620  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         13419  [kernel]       [k] memset_erms
+     5.37%         11419  [kernel]       [k] event_sched_in
+     5.37%         11419  [kernel]       [k] kfree
+     4.70%          9991  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%          9991  [kernel]       [k] x86_get_event_constraints
+     4.11%          8742  [kernel]       [k] __srcu_read_unlock
+     4.11%          8742  [kernel]       [k] inherit_event.constprop.0
+     4.11%          8742  [kernel]       [k] perf_event_update_userpage
+     3.33%          7071  [kernel]       [k] __do_sys_clone3
+     2.91%          6187  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          6187  [kernel]       [k] mutex_lock
+     2.91%          6187  [kernel]       [k] perf_event_alloc
+     2.55%          5413  [kernel]       [k] rb_next
+     2.23%          4736  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          4144  [kernel]       [k] lru_cache_add
+     1.95%          4144  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         21987  [kernel]       [k] psi_group_change
+    10.24%         19036  [kernel]       [k] should_failslab
+     7.31%         13602  [kernel]       [k] merge_sched_in
+     6.41%         11917  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         11741  [kernel]       [k] memset_erms
+     5.37%          9991  [kernel]       [k] event_sched_in
+     5.37%          9991  [kernel]       [k] kfree
+     4.70%          8742  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%          8742  [kernel]       [k] x86_get_event_constraints
+     4.11%          7649  [kernel]       [k] __srcu_read_unlock
+     4.11%          7649  [kernel]       [k] inherit_event.constprop.0
+     4.11%          7649  [kernel]       [k] perf_event_update_userpage
+     3.33%          6187  [kernel]       [k] __do_sys_clone3
+     2.91%          5413  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          5413  [kernel]       [k] mutex_lock
+     2.91%          5413  [kernel]       [k] perf_event_alloc
+     2.55%          4736  [kernel]       [k] rb_next
+     2.23%          4144  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          3626  [kernel]       [k] lru_cache_add
+     1.95%          3626  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         19238  [kernel]       [k] psi_group_change
+    10.24%         16656  [kernel]       [k] should_failslab
+     7.31%         11901  [kernel]       [k] merge_sched_in
+     6.41%         10427  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%         10273  [kernel]       [k] memset_erms
+     5.37%          8742  [kernel]       [k] event_sched_in
+     5.37%          8742  [kernel]       [k] kfree
+     4.70%          7649  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%          7649  [kernel]       [k] x86_get_event_constraints
+     4.11%          6692  [kernel]       [k] __srcu_read_unlock
+     4.11%          6692  [kernel]       [k] inherit_event.constprop.0
+     4.11%          6692  [kernel]       [k] perf_event_update_userpage
+     3.33%          5413  [kernel]       [k] __do_sys_clone3
+     2.91%          4736  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          4736  [kernel]       [k] mutex_lock
+     2.91%          4736  [kernel]       [k] perf_event_alloc
+     2.55%          4144  [kernel]       [k] rb_next
+     2.23%          3626  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          3172  [kernel]       [k] lru_cache_add
+     1.95%          3172  [kernel]       [k] slab_free_freelist_hook.constprop
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/10 [4000Hz branch],  (target_pid: 2590906)
+-------------------------------------------------------------------------------
+
+    11.82%         16833  [kernel]       [k] psi_group_change
+    10.24%         14574  [kernel]       [k] should_failslab
+     7.31%         10413  [kernel]       [k] merge_sched_in
+     6.41%          9123  [kernel]       [k] kmem_cache_alloc_trace
+     6.31%          8988  [kernel]       [k] memset_erms
+     5.37%          7649  [kernel]       [k] event_sched_in
+     5.37%          7649  [kernel]       [k] kfree
+     4.70%          6692  [kernel]       [k] __memcg_kmem_charge_page
+     4.70%          6692  [kernel]       [k] x86_get_event_constraints
+     4.11%          5855  [kernel]       [k] __srcu_read_unlock
+     4.11%          5855  [kernel]       [k] inherit_event.constprop.0
+     4.11%          5855  [kernel]       [k] perf_event_update_userpage
+     3.33%          4736  [kernel]       [k] __do_sys_clone3
+     2.91%          4144  [kernel]       [k] __vmalloc_area_node.constprop.0
+     2.91%          4144  [kernel]       [k] mutex_lock
+     2.91%          4144  [kernel]       [k] perf_event_alloc
+     2.55%          3626  [kernel]       [k] rb_next
+     2.23%          3172  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.95%          2775  [kernel]       [k] lru_cache_add
+     1.95%          2775  [kernel]       [k] slab_free_freelist_hook.constprop

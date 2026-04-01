@@ -1,0 +1,274 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      48 irqs/sec  kernel:39.6%  exact:  0.0% lost: 0/0 drop: 115/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    63.64%            14  [kernel]       [k] native_write_msr
+    18.18%             4  [kernel]       [k] x86_pmu_enable
+     9.09%             2  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     9.09%             2  [kernel]       [k] __sysvec_apic_timer_interrupt
+[H[2J
+   PerfTop:      25 irqs/sec  kernel:52.0%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    52.50%            21  [kernel]       [k] native_write_msr
+    27.50%            11  [kernel]       [k] __tcp_select_window
+    10.00%             4  [kernel]       [k] x86_pmu_enable
+     2.50%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     2.50%             1  [kernel]       [k] __sysvec_apic_timer_interrupt
+     2.50%             1  [kernel]       [k] perf_mux_hrtimer_handler
+     2.50%             1  [kernel]       [k] timerqueue_add
+[H[2J
+   PerfTop:     149 irqs/sec  kernel:28.2%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    51.00%        126758  [kernel]       [k] validate_xmit_skb
+    33.42%         83066  [kernel]       [k] __kmalloc_node_track_caller
+    11.81%         29361  [kernel]       [k] iterate_groups
+     1.91%          4747  [kernel]       [k] merge_sched_in
+     1.00%          2490  [kernel]       [k] ctx_sched_in
+     0.40%           998  [kernel]       [k] schedule_timeout
+     0.27%           674  [kernel]       [k] intel_pmu_enable_all
+     0.17%           420  [kernel]       [k] x86_pmu_enable
+     0.01%            28  [kernel]       [k] native_write_msr
+     0.00%             9  [kernel]       [k] __tcp_select_window
+     0.00%             4  [kernel]       [k] __perf_event_task_sched_in
+     0.00%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+[H[2J
+   PerfTop:     115 irqs/sec  kernel:22.6%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    29.26%        126047  [kernel]       [k] psi_task_switch
+    25.75%        110913  [kernel]       [k] validate_xmit_skb
+    16.87%         72682  [kernel]       [k] __kmalloc_node_track_caller
+    16.21%         69841  [kernel]       [k] __rseq_handle_notify_resume
+     5.96%         25690  [kernel]       [k] iterate_groups
+     4.61%         19869  [kernel]       [k] merge_sched_in
+     0.51%          2178  [kernel]       [k] ctx_sched_in
+     0.23%           996  [kernel]       [k] native_sched_clock
+     0.21%           906  [kernel]       [k] x86_pmu_enable
+     0.20%           873  [kernel]       [k] schedule_timeout
+     0.14%           589  [kernel]       [k] intel_pmu_enable_all
+     0.04%           161  [kernel]       [k] perf_pmu_nop_void
+     0.01%            28  [kernel]       [k] native_write_msr
+     0.00%            10  [kernel]       [k] _raw_spin_lock
+     0.00%            10  [kernel]       [k] perf_pmu_nop_txn
+     0.00%             7  [kernel]       [k] __tcp_select_window
+     0.00%             3  [kernel]       [k] __perf_event_task_sched_in
+     0.00%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+     0.00%             1  [kernel]       [k] hrtimer_interrupt
+[H[2J
+   PerfTop:      99 irqs/sec  kernel:19.2%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    20.33%        196573  [kernel]       [k] raw_local_deliver
+    13.29%        128510  [kernel]       [k] visit_groups_merge.constprop.0.is
+    11.65%        112635  [kernel]       [k] merge_sched_in
+    11.41%        110291  [kernel]       [k] psi_task_switch
+    10.04%         97048  [kernel]       [k] validate_xmit_skb
+     7.22%         69841  [kernel]       [k] event_sched_in
+     7.22%         69841  [kernel]       [k] pick_next_task_fair
+     6.58%         63596  [kernel]       [k] __kmalloc_node_track_caller
+     6.32%         61110  [kernel]       [k] __rseq_handle_notify_resume
+     2.81%         27198  [kernel]       [k] psi_group_change
+     2.32%         22478  [kernel]       [k] iterate_groups
+     0.44%          4213  [kernel]       [k] ctx_sched_in
+     0.14%          1351  [kernel]       [k] x86_pmu_enable
+     0.09%           871  [kernel]       [k] native_sched_clock
+     0.08%           763  [kernel]       [k] schedule_timeout
+     0.05%           515  [kernel]       [k] intel_pmu_enable_all
+     0.01%           140  [kernel]       [k] perf_pmu_nop_void
+     0.00%            24  [kernel]       [k] native_write_msr
+     0.00%            11  [kernel]       [k] __perf_event_task_sched_in
+     0.00%             8  [kernel]       [k] _raw_spin_lock
+[H[2J
+   PerfTop:     115 irqs/sec  kernel:18.3%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    15.72%        172001  [kernel]       [k] raw_local_deliver
+    11.50%        125877  [kernel]       [k] __update_load_avg_cfs_rq
+    10.43%        114190  [kernel]       [k] visit_groups_merge.constprop.0.is
+     9.00%         98555  [kernel]       [k] merge_sched_in
+     8.82%         96504  [kernel]       [k] psi_task_switch
+     7.76%         84917  [kernel]       [k] validate_xmit_skb
+     5.83%         63852  [kernel]       [k] rb_next
+     5.58%         61110  [kernel]       [k] event_sched_in
+     5.58%         61110  [kernel]       [k] pick_next_task_fair
+     5.08%         55646  [kernel]       [k] __kmalloc_node_track_caller
+     4.89%         53471  [kernel]       [k] __rseq_handle_notify_resume
+     3.36%         36801  [kernel]       [k] ctx_sched_in
+     2.17%         23798  [kernel]       [k] psi_group_change
+     2.09%         22874  [kernel]       [k] update_curr
+     1.80%         19668  [kernel]       [k] iterate_groups
+     0.17%          1889  [kernel]       [k] x86_pmu_enable
+     0.07%           762  [kernel]       [k] native_sched_clock
+     0.06%           667  [kernel]       [k] schedule_timeout
+     0.04%           455  [kernel]       [k] intel_pmu_enable_all
+     0.02%           167  [kernel]       [k] __perf_event_task_sched_in
+[H[2J
+   PerfTop:     164 irqs/sec  kernel:20.1%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    11.11%        198732  [kernel]       [k] syscall_return_via_sysret
+     8.41%        150500  [kernel]       [k] raw_local_deliver
+     7.98%        142717  [kernel]       [k] update_min_vruntime
+     7.91%        141430  [kernel]       [k] kmalloc_reserve
+     6.89%        123252  [kernel]       [k] sched_clock_cpu
+     6.77%        121167  [kernel]       [k] iterate_groups
+     6.16%        110142  [kernel]       [k] __update_load_avg_cfs_rq
+     5.59%         99916  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.82%         86235  [kernel]       [k] merge_sched_in
+     4.72%         84441  [kernel]       [k] psi_task_switch
+     4.15%         74302  [kernel]       [k] validate_xmit_skb
+     3.57%         63852  [kernel]       [k] get_nohz_timer_target
+     3.19%         56974  [kernel]       [k] __hrtimer_start_range_ns
+     3.12%         55870  [kernel]       [k] rb_next
+     2.99%         53471  [kernel]       [k] event_sched_in
+     2.99%         53471  [kernel]       [k] pick_next_task_fair
+     2.72%         48690  [kernel]       [k] __kmalloc_node_track_caller
+     2.62%         46787  [kernel]       [k] __rseq_handle_notify_resume
+     1.80%         32200  [kernel]       [k] ctx_sched_in
+     1.16%         20823  [kernel]       [k] psi_group_change
+[H[2J
+   PerfTop:     141 irqs/sec  kernel: 7.8%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+    10.94%        256286  [kernel]       [k] ip_output
+     7.43%        173890  [kernel]       [k] syscall_return_via_sysret
+     5.65%        132310  [kernel]       [k] rb_next
+     5.62%        131687  [kernel]       [k] raw_local_deliver
+     5.41%        126584  [kernel]       [k] sk_wait_data
+     5.33%        124877  [kernel]       [k] update_min_vruntime
+     5.28%        123751  [kernel]       [k] kmalloc_reserve
+     4.97%        116452  [kernel]       [k] __cgroup_bpf_run_filter_skb
+     4.61%        107845  [kernel]       [k] sched_clock_cpu
+     4.53%        106021  [kernel]       [k] iterate_groups
+     4.12%         96374  [kernel]       [k] __update_load_avg_cfs_rq
+     4.05%         94856  [kernel]       [k] update_curr
+     3.73%         87426  [kernel]       [k] visit_groups_merge.constprop.0.is
+     3.22%         75455  [kernel]       [k] merge_sched_in
+     3.15%         73885  [kernel]       [k] psi_task_switch
+     3.06%         71692  [kernel]       [k] __ip_finish_output
+     2.78%         65014  [kernel]       [k] validate_xmit_skb
+     2.70%         63197  [kernel]       [k] psi_group_change
+     2.39%         55870  [kernel]       [k] get_nohz_timer_target
+     2.13%         49852  [kernel]       [k] __hrtimer_start_range_ns
+[H[2J
+   PerfTop:     104 irqs/sec  kernel:14.4%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+     8.04%        239994  [kernel]       [k] _raw_spin_unlock_bh
+     7.51%        224250  [kernel]       [k] ip_output
+     6.03%        179995  [kernel]       [k] __tcp_transmit_skb
+     5.48%        163607  [kernel]       [k] psi_group_change
+     5.10%        152153  [kernel]       [k] syscall_return_via_sysret
+     4.69%        140049  [kernel]       [k] psi_flags_change
+     3.88%        115771  [kernel]       [k] rb_next
+     3.86%        115226  [kernel]       [k] raw_local_deliver
+     3.73%        111407  [kernel]       [k] aa_profile_af_perm
+     3.71%        110761  [kernel]       [k] sk_wait_data
+     3.66%        109267  [kernel]       [k] update_min_vruntime
+     3.63%        108282  [kernel]       [k] kmalloc_reserve
+     3.41%        101895  [kernel]       [k] __cgroup_bpf_run_filter_skb
+     3.16%         94364  [kernel]       [k] sched_clock_cpu
+     3.11%         92768  [kernel]       [k] iterate_groups
+     2.82%         84327  [kernel]       [k] __update_load_avg_cfs_rq
+     2.78%         82999  [kernel]       [k] update_curr
+     2.56%         76497  [kernel]       [k] visit_groups_merge.constprop.0.is
+     2.50%         74759  [kernel]       [k] cubictcp_cwnd_event
+     2.21%         66023  [kernel]       [k] merge_sched_in
+[H[2J
+   PerfTop:      83 irqs/sec  kernel:14.5%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+     6.84%        236628  [kernel]       [k] psi_group_change
+     6.70%        231673  [kernel]       [k] visit_groups_merge.constprop.0.is
+     6.07%        209994  [kernel]       [k] _raw_spin_unlock_bh
+     5.67%        196218  [kernel]       [k] ip_output
+     4.55%        157495  [kernel]       [k] __tcp_transmit_skb
+     4.54%        157099  [kernel]       [k] __ip_finish_output
+     4.48%        155080  [kernel]       [k] perf_swevent_add
+     4.48%        155080  [kernel]       [k] validate_xmit_vlan
+     3.85%        133133  [kernel]       [k] syscall_return_via_sysret
+     3.78%        130960  [kernel]       [k] update_min_vruntime
+     3.54%        122542  [kernel]       [k] psi_flags_change
+     2.93%        101299  [kernel]       [k] rb_next
+     2.91%        100822  [kernel]       [k] raw_local_deliver
+     2.82%         97481  [kernel]       [k] aa_profile_af_perm
+     2.80%         96915  [kernel]       [k] sk_wait_data
+     2.74%         94746  [kernel]       [k] kmalloc_reserve
+     2.69%         93122  [kernel]       [k] merge_sched_in
+     2.58%         89158  [kernel]       [k] __cgroup_bpf_run_filter_skb
+     2.39%         82568  [kernel]       [k] sched_clock_cpu
+     2.35%         81172  [kernel]       [k] iterate_groups
+[H[2J
+   PerfTop:      48 irqs/sec  kernel:18.8%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+     6.70%        242401  [kernel]       [k] psi_group_change
+     5.60%        202713  [kernel]       [k] visit_groups_merge.constprop.0.is
+     5.08%        183744  [kernel]       [k] _raw_spin_unlock_bh
+     4.74%        171690  [kernel]       [k] ip_output
+     4.05%        146689  [kernel]       [k] copy_user_enhanced_fast_string
+     3.81%        137808  [kernel]       [k] __tcp_transmit_skb
+     3.80%        137461  [kernel]       [k] __ip_finish_output
+     3.75%        135695  [kernel]       [k] perf_swevent_add
+     3.75%        135695  [kernel]       [k] validate_xmit_vlan
+     3.45%        124844  [kernel]       [k] tcp_event_data_recv
+     3.43%        123988  [kernel]       [k] rb_next
+     3.22%        116491  [kernel]       [k] syscall_return_via_sysret
+     3.17%        114590  [kernel]       [k] update_min_vruntime
+     3.00%        108497  [kernel]       [k] __skb_clone
+     2.96%        107224  [kernel]       [k] psi_flags_change
+     2.70%         97627  [kernel]       [k] event_sched_in
+     2.44%         88219  [kernel]       [k] raw_local_deliver
+     2.36%         85295  [kernel]       [k] aa_profile_af_perm
+     2.34%         84848  [kernel]       [k] psi_task_switch
+     2.34%         84800  [kernel]       [k] sk_wait_data
+[H[2J
+   PerfTop:      46 irqs/sec  kernel:17.4%  exact:  0.0% lost: 0/0 drop: 0/115 [4000Hz branch],  (target_pid: 1958220)
+-------------------------------------------------------------------------------
+
+     8.67%        309937  [kernel]       [k] psi_group_change
+     5.09%        181949  [kernel]       [k] rb_next
+     4.96%        177373  [kernel]       [k] visit_groups_merge.constprop.0.is
+     4.50%        160776  [kernel]       [k] _raw_spin_unlock_bh
+     4.20%        150228  [kernel]       [k] ip_output
+     3.59%        128352  [kernel]       [k] copy_user_enhanced_fast_string
+     3.37%        120582  [kernel]       [k] __tcp_transmit_skb
+     3.37%        120278  [kernel]       [k] __ip_finish_output
+     3.32%        118733  [kernel]       [k] perf_swevent_add
+     3.32%        118733  [kernel]       [k] validate_xmit_vlan
+     3.06%        109238  [kernel]       [k] tcp_event_data_recv
+     2.98%        106647  [kernel]       [k] merge_sched_in
+     2.85%        101929  [kernel]       [k] syscall_return_via_sysret
+     2.81%        100266  [kernel]       [k] update_min_vruntime
+     2.66%         94934  [kernel]       [k] __skb_clone
+     2.65%         94599  [kernel]       [k] __update_load_avg_cfs_rq
+     2.63%         93821  [kernel]       [k] psi_flags_change
+     2.48%         88678  [kernel]       [k] __virt_addr_valid
+     2.39%         85423  [kernel]       [k] event_sched_in
+     2.16%         77191  [kernel]       [k] raw_local_deliver

@@ -1,0 +1,209 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 20/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+   100.00%             1  [kernel]       [k] native_write_msr
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+   100.00%        887580  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:       4 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    20.29%        836692  [kernel]       [k] arch_dup_task_struct
+    20.29%        836692  [kernel]       [k] find_vma
+    20.29%        836692  [kernel]       [k] kmem_cache_alloc_node
+    20.29%        836692  [kernel]       [k] psi_task_switch
+    18.83%        776632  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    18.82%        836692  [kernel]       [k] kmem_cache_alloc_trace
+    16.47%        732105  [kernel]       [k] arch_dup_task_struct
+    16.47%        732105  [kernel]       [k] find_vma
+    16.47%        732105  [kernel]       [k] kmem_cache_alloc_node
+    16.47%        732105  [kernel]       [k] psi_task_switch
+    15.29%        679553  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    27.42%       1509023  [kernel]       [k] kmem_cache_alloc_trace
+    15.21%        836692  [kernel]       [k] __irqentry_text_end
+    11.64%        640591  [kernel]       [k] arch_dup_task_struct
+    11.64%        640591  [kernel]       [k] find_vma
+    11.64%        640591  [kernel]       [k] kmem_cache_alloc_node
+    11.64%        640591  [kernel]       [k] psi_task_switch
+    10.81%        594608  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:      10 irqs/sec  kernel:70.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    14.34%       1396196  [kernel]       [k] memset_erms
+    13.56%       1320395  [kernel]       [k] kmem_cache_alloc_trace
+     7.98%        776918  [kernel]       [k] try_to_wake_up
+     7.52%        732105  [kernel]       [k] __irqentry_text_end
+     7.17%        698098  [kernel]       [k] clear_page_erms
+     7.17%        698098  [kernel]       [k] perf_event_update_userpage
+     7.17%        698098  [kernel]       [k] update_sg_wakeup_stats
+     6.71%        653639  [kernel]       [k] x86_get_event_constraints
+     5.76%        560517  [kernel]       [k] arch_dup_task_struct
+     5.76%        560517  [kernel]       [k] find_vma
+     5.76%        560517  [kernel]       [k] kmem_cache_alloc_node
+     5.76%        560517  [kernel]       [k] psi_task_switch
+     5.34%        520282  [kernel]       [k] syscall_exit_to_user_mode
+[H[2J
+   PerfTop:      38 irqs/sec  kernel:60.5%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    13.38%       2999198  [kernel]       [k] memset_erms
+     5.15%       1155345  [kernel]       [k] kmem_cache_alloc_trace
+     4.86%       1088444  [kernel]       [k] perf_event_alloc
+     3.03%        679803  [kernel]       [k] try_to_wake_up
+     2.97%        665698  [kernel]       [k] rb_next
+     2.92%        653639  [kernel]       [k] ___slab_alloc
+     2.92%        653639  [kernel]       [k] __kmalloc_node
+     2.92%        653639  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.92%        653639  [kernel]       [k] get_mem_cgroup_from_mm
+     2.92%        653639  [kernel]       [k] merge_sched_in
+     2.92%        653639  [kernel]       [k] should_failslab
+     2.92%        653639  [kernel]       [k] x86_pmu_hw_config
+     2.86%        640591  [kernel]       [k] __irqentry_text_end
+     2.73%        610835  [kernel]       [k] clear_page_erms
+     2.73%        610835  [kernel]       [k] perf_event_update_userpage
+     2.73%        610835  [kernel]       [k] update_sg_wakeup_stats
+     2.60%        583762  [kernel]       [k] irqentry_exit_to_user_mode
+     2.60%        583762  [kernel]       [k] syscall_return_via_sysret
+     2.60%        583762  [kernel]       [k] vmacache_find
+     2.60%        583762  [kernel]       [k] wp_page_copy
+[H[2J
+   PerfTop:      50 irqs/sec  kernel:74.0%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    13.06%       4482639  [kernel]       [k] memset_erms
+     4.39%       1506167  [kernel]       [k] ___slab_alloc
+     2.95%       1010926  [kernel]       [k] kmem_cache_alloc_trace
+     2.86%        981830  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.83%        972447  [kernel]       [k] rb_next
+     2.78%        952388  [kernel]       [k] perf_event_alloc
+     2.66%        913709  [kernel]       [k] vmacache_find
+     2.62%        897596  [kernel]       [k] update_load_avg
+     2.37%        814905  [kernel]       [k] flush_tlb_mm_range
+     2.32%        796795  [kernel]       [k] find_vma
+     1.73%        594827  [kernel]       [k] try_to_wake_up
+     1.67%        571934  [kernel]       [k] __kmalloc_node
+     1.67%        571934  [kernel]       [k] get_mem_cgroup_from_mm
+     1.67%        571934  [kernel]       [k] merge_sched_in
+     1.67%        571934  [kernel]       [k] should_failslab
+     1.67%        571934  [kernel]       [k] x86_pmu_hw_config
+     1.63%        560517  [kernel]       [k] __irqentry_text_end
+     1.56%        534480  [kernel]       [k] clear_page_erms
+     1.56%        534480  [kernel]       [k] perf_event_update_userpage
+     1.56%        534480  [kernel]       [k] update_sg_wakeup_stats
+[H[2J
+   PerfTop:      37 irqs/sec  kernel: 5.4%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    12.64%       3922309  [kernel]       [k] memset_erms
+     4.25%       1317896  [kernel]       [k] ___slab_alloc
+     2.85%        884560  [kernel]       [k] kmem_cache_alloc_trace
+     2.78%        861051  [kernel]       [k] kmem_cache_alloc_node
+     2.77%        859101  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     2.74%        850891  [kernel]       [k] rb_next
+     2.69%        833339  [kernel]       [k] perf_event_alloc
+     2.58%        799495  [kernel]       [k] vmacache_find
+     2.53%        785396  [kernel]       [k] update_load_avg
+     2.30%        713041  [kernel]       [k] flush_tlb_mm_range
+     2.25%        697195  [kernel]       [k] find_vma
+     1.68%        520473  [kernel]       [k] try_to_wake_up
+     1.67%        516888  [kernel]       [k] event_sched_in
+     1.61%        500442  [kernel]       [k] __kmalloc_node
+     1.61%        500442  [kernel]       [k] get_mem_cgroup_from_mm
+     1.61%        500442  [kernel]       [k] merge_sched_in
+     1.61%        500442  [kernel]       [k] should_failslab
+     1.61%        500442  [kernel]       [k] x86_pmu_hw_config
+     1.58%        490452  [kernel]       [k] __irqentry_text_end
+     1.51%        467670  [kernel]       [k] clear_page_erms
+[H[2J
+   PerfTop:      12 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/20 [4000Hz cycles],  (target_pid: 2566401)
+-------------------------------------------------------------------------------
+
+    11.14%       3432020  [kernel]       [k] memset_erms
+     4.16%       1282409  [kernel]       [k] psi_group_change
+     3.83%       1180585  [kernel]       [k] entry_SYSCALL_64_after_hwframe
+     3.74%       1153159  [kernel]       [k] ___slab_alloc
+     3.10%        954774  [kernel]       [k] merge_sched_in
+     2.89%        889725  [kernel]       [k] perf_event_update_userpage
+     2.51%        773990  [kernel]       [k] kmem_cache_alloc_trace
+     2.48%        765521  [kernel]       [k] rb_insert_color
+     2.45%        753419  [kernel]       [k] kmem_cache_alloc_node
+     2.42%        744529  [kernel]       [k] rb_next
+     2.37%        729171  [kernel]       [k] perf_event_alloc
+     2.27%        699558  [kernel]       [k] vmacache_find
+     2.23%        687221  [kernel]       [k] update_load_avg
+     2.03%        623910  [kernel]       [k] flush_tlb_mm_range
+     1.98%        610045  [kernel]       [k] find_vma
+     1.48%        455413  [kernel]       [k] try_to_wake_up
+     1.47%        452277  [kernel]       [k] event_sched_in
+     1.42%        437886  [kernel]       [k] __kmalloc_node
+     1.42%        437886  [kernel]       [k] get_mem_cgroup_from_mm
+     1.42%        437886  [kernel]       [k] should_failslab

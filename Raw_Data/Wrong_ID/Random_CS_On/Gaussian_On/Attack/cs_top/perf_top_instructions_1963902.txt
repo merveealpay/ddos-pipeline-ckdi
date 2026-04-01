@@ -1,0 +1,120 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      20 irqs/sec  kernel:35.0%  exact:  0.0% lost: 0/0 drop: 25/25 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+    14.45%        336935  [kernel]       [k] __handle_mm_fault
+    14.45%        336935  [kernel]       [k] __update_load_avg_cfs_rq
+    14.22%        331715  [kernel]       [k] __mutex_init
+    14.22%        331715  [kernel]       [k] _raw_spin_lock_irqsave
+    14.22%        331715  [kernel]       [k] enqueue_task_fair
+    14.22%        331715  [kernel]       [k] kfree
+    14.22%        331715  [kernel]       [k] psi_group_change
+     0.00%             1  [kernel]       [k] __intel_pmu_enable_all.constprop.
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+    30.14%       1100974  [kernel]       [k] __update_load_avg_cfs_rq
+    22.07%        806156  [kernel]       [k] native_sched_clock
+     8.07%        294818  [kernel]       [k] __handle_mm_fault
+     7.95%        290250  [kernel]       [k] __mutex_init
+     7.95%        290250  [kernel]       [k] _raw_spin_lock_irqsave
+     7.95%        290250  [kernel]       [k] enqueue_task_fair
+     7.95%        290250  [kernel]       [k] kfree
+     7.95%        290250  [kernel]       [k] psi_group_change
+[H[2J
+   PerfTop:       2 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+    30.14%        963352  [kernel]       [k] __update_load_avg_cfs_rq
+    22.07%        705386  [kernel]       [k] native_sched_clock
+     8.07%        257965  [kernel]       [k] __handle_mm_fault
+     7.95%        253968  [kernel]       [k] __mutex_init
+     7.95%        253968  [kernel]       [k] _raw_spin_lock_irqsave
+     7.95%        253968  [kernel]       [k] enqueue_task_fair
+     7.95%        253968  [kernel]       [k] kfree
+     7.95%        253968  [kernel]       [k] psi_group_change
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/25 [4000Hz instructions],  (target_pid: 1963902)
+-------------------------------------------------------------------------------
+
+    30.14%        842933  [kernel]       [k] __update_load_avg_cfs_rq
+    22.07%        617212  [kernel]       [k] native_sched_clock
+     8.07%        225719  [kernel]       [k] __handle_mm_fault
+     7.95%        222222  [kernel]       [k] __mutex_init
+     7.95%        222222  [kernel]       [k] _raw_spin_lock_irqsave
+     7.95%        222222  [kernel]       [k] enqueue_task_fair
+     7.95%        222222  [kernel]       [k] kfree
+     7.95%        222222  [kernel]       [k] psi_group_change

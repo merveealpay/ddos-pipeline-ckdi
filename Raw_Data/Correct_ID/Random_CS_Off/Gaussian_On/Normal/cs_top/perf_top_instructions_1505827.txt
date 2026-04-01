@@ -1,0 +1,566 @@
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/0 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+[H[2J
+   PerfTop:      11 irqs/sec  kernel:81.8%  exact:  0.0% lost: 0/0 drop: 62/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        224828  [kernel]       [k] __update_load_avg_se
+    11.14%        224828  [kernel]       [k] account_event
+    11.14%        224828  [kernel]       [k] event_sched_in
+    11.14%        224828  [kernel]       [k] iterate_groups
+    11.14%        224828  [kernel]       [k] kfree
+    11.14%        224828  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        224828  [kernel]       [k] memcg_slab_free_hook
+    11.14%        224828  [kernel]       [k] merge_sched_in
+    10.84%        218716  [kernel]       [k] native_sched_clock
+     0.00%             1  [kernel]       [k] intel_pmu_enable_all
+[H[2J
+   PerfTop:       2 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        196724  [kernel]       [k] __update_load_avg_se
+    11.14%        196724  [kernel]       [k] account_event
+    11.14%        196724  [kernel]       [k] event_sched_in
+    11.14%        196724  [kernel]       [k] iterate_groups
+    11.14%        196724  [kernel]       [k] kfree
+    11.14%        196724  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        196724  [kernel]       [k] memcg_slab_free_hook
+    11.14%        196724  [kernel]       [k] merge_sched_in
+    10.84%        191376  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        172133  [kernel]       [k] __update_load_avg_se
+    11.14%        172133  [kernel]       [k] account_event
+    11.14%        172133  [kernel]       [k] event_sched_in
+    11.14%        172133  [kernel]       [k] iterate_groups
+    11.14%        172133  [kernel]       [k] kfree
+    11.14%        172133  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        172133  [kernel]       [k] memcg_slab_free_hook
+    11.14%        172133  [kernel]       [k] merge_sched_in
+    10.84%        167454  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        150616  [kernel]       [k] __update_load_avg_se
+    11.14%        150616  [kernel]       [k] account_event
+    11.14%        150616  [kernel]       [k] event_sched_in
+    11.14%        150616  [kernel]       [k] iterate_groups
+    11.14%        150616  [kernel]       [k] kfree
+    11.14%        150616  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        150616  [kernel]       [k] memcg_slab_free_hook
+    11.14%        150616  [kernel]       [k] merge_sched_in
+    10.84%        146522  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        131789  [kernel]       [k] __update_load_avg_se
+    11.14%        131789  [kernel]       [k] account_event
+    11.14%        131789  [kernel]       [k] event_sched_in
+    11.14%        131789  [kernel]       [k] iterate_groups
+    11.14%        131789  [kernel]       [k] kfree
+    11.14%        131789  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        131789  [kernel]       [k] memcg_slab_free_hook
+    11.14%        131789  [kernel]       [k] merge_sched_in
+    10.84%        128206  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        115315  [kernel]       [k] __update_load_avg_se
+    11.14%        115315  [kernel]       [k] account_event
+    11.14%        115315  [kernel]       [k] event_sched_in
+    11.14%        115315  [kernel]       [k] iterate_groups
+    11.14%        115315  [kernel]       [k] kfree
+    11.14%        115315  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        115315  [kernel]       [k] memcg_slab_free_hook
+    11.14%        115315  [kernel]       [k] merge_sched_in
+    10.84%        112180  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%        100900  [kernel]       [k] __update_load_avg_se
+    11.14%        100900  [kernel]       [k] account_event
+    11.14%        100900  [kernel]       [k] event_sched_in
+    11.14%        100900  [kernel]       [k] iterate_groups
+    11.14%        100900  [kernel]       [k] kfree
+    11.14%        100900  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%        100900  [kernel]       [k] memcg_slab_free_hook
+    11.14%        100900  [kernel]       [k] merge_sched_in
+    10.84%         98157  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         88287  [kernel]       [k] __update_load_avg_se
+    11.14%         88287  [kernel]       [k] account_event
+    11.14%         88287  [kernel]       [k] event_sched_in
+    11.14%         88287  [kernel]       [k] iterate_groups
+    11.14%         88287  [kernel]       [k] kfree
+    11.14%         88287  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         88287  [kernel]       [k] memcg_slab_free_hook
+    11.14%         88287  [kernel]       [k] merge_sched_in
+    10.84%         85887  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         77251  [kernel]       [k] __update_load_avg_se
+    11.14%         77251  [kernel]       [k] account_event
+    11.14%         77251  [kernel]       [k] event_sched_in
+    11.14%         77251  [kernel]       [k] iterate_groups
+    11.14%         77251  [kernel]       [k] kfree
+    11.14%         77251  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         77251  [kernel]       [k] memcg_slab_free_hook
+    11.14%         77251  [kernel]       [k] merge_sched_in
+    10.84%         75151  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         67594  [kernel]       [k] __update_load_avg_se
+    11.14%         67594  [kernel]       [k] account_event
+    11.14%         67594  [kernel]       [k] event_sched_in
+    11.14%         67594  [kernel]       [k] iterate_groups
+    11.14%         67594  [kernel]       [k] kfree
+    11.14%         67594  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         67594  [kernel]       [k] memcg_slab_free_hook
+    11.14%         67594  [kernel]       [k] merge_sched_in
+    10.84%         65757  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         59144  [kernel]       [k] __update_load_avg_se
+    11.14%         59144  [kernel]       [k] account_event
+    11.14%         59144  [kernel]       [k] event_sched_in
+    11.14%         59144  [kernel]       [k] iterate_groups
+    11.14%         59144  [kernel]       [k] kfree
+    11.14%         59144  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         59144  [kernel]       [k] memcg_slab_free_hook
+    11.14%         59144  [kernel]       [k] merge_sched_in
+    10.84%         57537  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         51751  [kernel]       [k] __update_load_avg_se
+    11.14%         51751  [kernel]       [k] account_event
+    11.14%         51751  [kernel]       [k] event_sched_in
+    11.14%         51751  [kernel]       [k] iterate_groups
+    11.14%         51751  [kernel]       [k] kfree
+    11.14%         51751  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         51751  [kernel]       [k] memcg_slab_free_hook
+    11.14%         51751  [kernel]       [k] merge_sched_in
+    10.84%         50344  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         45282  [kernel]       [k] __update_load_avg_se
+    11.14%         45282  [kernel]       [k] account_event
+    11.14%         45282  [kernel]       [k] event_sched_in
+    11.14%         45282  [kernel]       [k] iterate_groups
+    11.14%         45282  [kernel]       [k] kfree
+    11.14%         45282  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         45282  [kernel]       [k] memcg_slab_free_hook
+    11.14%         45282  [kernel]       [k] merge_sched_in
+    10.84%         44051  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         39621  [kernel]       [k] __update_load_avg_se
+    11.14%         39621  [kernel]       [k] account_event
+    11.14%         39621  [kernel]       [k] event_sched_in
+    11.14%         39621  [kernel]       [k] iterate_groups
+    11.14%         39621  [kernel]       [k] kfree
+    11.14%         39621  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         39621  [kernel]       [k] memcg_slab_free_hook
+    11.14%         39621  [kernel]       [k] merge_sched_in
+    10.84%         38544  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         34668  [kernel]       [k] __update_load_avg_se
+    11.14%         34668  [kernel]       [k] account_event
+    11.14%         34668  [kernel]       [k] event_sched_in
+    11.14%         34668  [kernel]       [k] iterate_groups
+    11.14%         34668  [kernel]       [k] kfree
+    11.14%         34668  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         34668  [kernel]       [k] memcg_slab_free_hook
+    11.14%         34668  [kernel]       [k] merge_sched_in
+    10.84%         33726  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    11.14%         30334  [kernel]       [k] __update_load_avg_se
+    11.14%         30334  [kernel]       [k] account_event
+    11.14%         30334  [kernel]       [k] event_sched_in
+    11.14%         30334  [kernel]       [k] iterate_groups
+    11.14%         30334  [kernel]       [k] kfree
+    11.14%         30334  [kernel]       [k] kmem_cache_alloc_node_trace
+    11.14%         30334  [kernel]       [k] memcg_slab_free_hook
+    11.14%         30334  [kernel]       [k] merge_sched_in
+    10.84%         29510  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    32.37%        218716  [kernel]       [k] perf_event_update_userpage
+    32.37%        218716  [kernel]       [k] slab_free_freelist_hook.constprop
+     3.93%         26542  [kernel]       [k] __update_load_avg_se
+     3.93%         26542  [kernel]       [k] account_event
+     3.93%         26542  [kernel]       [k] event_sched_in
+     3.93%         26542  [kernel]       [k] iterate_groups
+     3.93%         26542  [kernel]       [k] kfree
+     3.93%         26542  [kernel]       [k] kmem_cache_alloc_node_trace
+     3.93%         26542  [kernel]       [k] memcg_slab_free_hook
+     3.93%         26542  [kernel]       [k] merge_sched_in
+     3.82%         25821  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       2 irqs/sec  kernel:50.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    27.01%        218716  [kernel]       [k] futex_wait_setup
+    23.63%        191376  [kernel]       [k] perf_event_update_userpage
+    23.63%        191376  [kernel]       [k] slab_free_freelist_hook.constprop
+     2.87%         23224  [kernel]       [k] __update_load_avg_se
+     2.87%         23224  [kernel]       [k] account_event
+     2.87%         23224  [kernel]       [k] event_sched_in
+     2.87%         23224  [kernel]       [k] iterate_groups
+     2.87%         23224  [kernel]       [k] kfree
+     2.87%         23224  [kernel]       [k] kmem_cache_alloc_node_trace
+     2.87%         23224  [kernel]       [k] memcg_slab_free_hook
+     2.87%         23224  [kernel]       [k] merge_sched_in
+     2.79%         22593  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    20.86%        239037  [kernel]       [k] merge_sched_in
+    19.08%        218716  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    16.70%        191376  [kernel]       [k] futex_wait_setup
+    14.61%        167454  [kernel]       [k] perf_event_update_userpage
+    14.61%        167454  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.77%         20321  [kernel]       [k] __update_load_avg_se
+     1.77%         20321  [kernel]       [k] account_event
+     1.77%         20321  [kernel]       [k] event_sched_in
+     1.77%         20321  [kernel]       [k] iterate_groups
+     1.77%         20321  [kernel]       [k] kfree
+     1.77%         20321  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.77%         20321  [kernel]       [k] memcg_slab_free_hook
+     1.72%         19768  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       3 irqs/sec  kernel:66.7%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        236496  [kernel]       [k] event_sched_in
+    15.19%        218716  [kernel]       [k] cyc2ns_read_begin
+    14.52%        209157  [kernel]       [k] merge_sched_in
+    13.29%        191376  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%        167454  [kernel]       [k] futex_wait_setup
+    10.17%        146522  [kernel]       [k] perf_event_update_userpage
+    10.17%        146522  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%         17780  [kernel]       [k] __update_load_avg_se
+     1.23%         17780  [kernel]       [k] account_event
+     1.23%         17780  [kernel]       [k] iterate_groups
+     1.23%         17780  [kernel]       [k] kfree
+     1.23%         17780  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%         17780  [kernel]       [k] memcg_slab_free_hook
+     1.20%         17297  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       2 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        206934  [kernel]       [k] event_sched_in
+    15.19%        191376  [kernel]       [k] cyc2ns_read_begin
+    14.52%        183012  [kernel]       [k] merge_sched_in
+    13.29%        167454  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%        146522  [kernel]       [k] futex_wait_setup
+    10.17%        128206  [kernel]       [k] perf_event_update_userpage
+    10.17%        128206  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%         15557  [kernel]       [k] __update_load_avg_se
+     1.23%         15557  [kernel]       [k] account_event
+     1.23%         15557  [kernel]       [k] iterate_groups
+     1.23%         15557  [kernel]       [k] kfree
+     1.23%         15557  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%         15557  [kernel]       [k] memcg_slab_free_hook
+     1.20%         15134  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        181067  [kernel]       [k] event_sched_in
+    15.19%        167454  [kernel]       [k] cyc2ns_read_begin
+    14.52%        160135  [kernel]       [k] merge_sched_in
+    13.29%        146522  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%        128206  [kernel]       [k] futex_wait_setup
+    10.17%        112180  [kernel]       [k] perf_event_update_userpage
+    10.17%        112180  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%         13612  [kernel]       [k] __update_load_avg_se
+     1.23%         13612  [kernel]       [k] account_event
+     1.23%         13612  [kernel]       [k] iterate_groups
+     1.23%         13612  [kernel]       [k] kfree
+     1.23%         13612  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%         13612  [kernel]       [k] memcg_slab_free_hook
+     1.20%         13242  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        158433  [kernel]       [k] event_sched_in
+    15.19%        146522  [kernel]       [k] cyc2ns_read_begin
+    14.52%        140118  [kernel]       [k] merge_sched_in
+    13.29%        128206  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%        112180  [kernel]       [k] futex_wait_setup
+    10.17%         98157  [kernel]       [k] perf_event_update_userpage
+    10.17%         98157  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%         11910  [kernel]       [k] __update_load_avg_se
+     1.23%         11910  [kernel]       [k] account_event
+     1.23%         11910  [kernel]       [k] iterate_groups
+     1.23%         11910  [kernel]       [k] kfree
+     1.23%         11910  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%         11910  [kernel]       [k] memcg_slab_free_hook
+     1.20%         11586  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       1 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        138628  [kernel]       [k] event_sched_in
+    15.19%        128206  [kernel]       [k] cyc2ns_read_begin
+    14.52%        122603  [kernel]       [k] merge_sched_in
+    13.29%        112180  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%         98157  [kernel]       [k] futex_wait_setup
+    10.17%         85887  [kernel]       [k] perf_event_update_userpage
+    10.17%         85887  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%         10421  [kernel]       [k] __update_load_avg_se
+     1.23%         10421  [kernel]       [k] account_event
+     1.23%         10421  [kernel]       [k] iterate_groups
+     1.23%         10421  [kernel]       [k] kfree
+     1.23%         10421  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%         10421  [kernel]       [k] memcg_slab_free_hook
+     1.20%         10137  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/62 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        121299  [kernel]       [k] event_sched_in
+    15.19%        112180  [kernel]       [k] cyc2ns_read_begin
+    14.52%        107277  [kernel]       [k] merge_sched_in
+    13.29%         98157  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%         85887  [kernel]       [k] futex_wait_setup
+    10.17%         75151  [kernel]       [k] perf_event_update_userpage
+    10.17%         75151  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%          9118  [kernel]       [k] __update_load_avg_se
+     1.23%          9118  [kernel]       [k] account_event
+     1.23%          9118  [kernel]       [k] iterate_groups
+     1.23%          9118  [kernel]       [k] kfree
+     1.23%          9118  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%          9118  [kernel]       [k] memcg_slab_free_hook
+     1.20%          8869  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 1/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%        106136  [kernel]       [k] event_sched_in
+    15.19%         98157  [kernel]       [k] cyc2ns_read_begin
+    14.52%         93867  [kernel]       [k] merge_sched_in
+    13.29%         85887  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%         75151  [kernel]       [k] futex_wait_setup
+    10.17%         65757  [kernel]       [k] perf_event_update_userpage
+    10.17%         65757  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%          7978  [kernel]       [k] __update_load_avg_se
+     1.23%          7978  [kernel]       [k] account_event
+     1.23%          7978  [kernel]       [k] iterate_groups
+     1.23%          7978  [kernel]       [k] kfree
+     1.23%          7978  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%          7978  [kernel]       [k] memcg_slab_free_hook
+     1.20%          7760  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%         92869  [kernel]       [k] event_sched_in
+    15.19%         85887  [kernel]       [k] cyc2ns_read_begin
+    14.52%         82133  [kernel]       [k] merge_sched_in
+    13.29%         75151  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%         65757  [kernel]       [k] futex_wait_setup
+    10.17%         57537  [kernel]       [k] perf_event_update_userpage
+    10.17%         57537  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%          6980  [kernel]       [k] __update_load_avg_se
+     1.23%          6980  [kernel]       [k] account_event
+     1.23%          6980  [kernel]       [k] iterate_groups
+     1.23%          6980  [kernel]       [k] kfree
+     1.23%          6980  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%          6980  [kernel]       [k] memcg_slab_free_hook
+     1.20%          6790  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    16.42%         81260  [kernel]       [k] event_sched_in
+    15.19%         75151  [kernel]       [k] cyc2ns_read_begin
+    14.52%         71866  [kernel]       [k] merge_sched_in
+    13.29%         65757  [kernel]       [k] radix_tree_node_alloc.constprop.0
+    11.63%         57537  [kernel]       [k] futex_wait_setup
+    10.17%         50344  [kernel]       [k] perf_event_update_userpage
+    10.17%         50344  [kernel]       [k] slab_free_freelist_hook.constprop
+     1.23%          6107  [kernel]       [k] __update_load_avg_se
+     1.23%          6107  [kernel]       [k] account_event
+     1.23%          6107  [kernel]       [k] iterate_groups
+     1.23%          6107  [kernel]       [k] kfree
+     1.23%          6107  [kernel]       [k] kmem_cache_alloc_node_trace
+     1.23%          6107  [kernel]       [k] memcg_slab_free_hook
+     1.20%          5941  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    33.56%        218716  [kernel]       [k] __perf_event_task_sched_in
+    10.91%         71102  [kernel]       [k] event_sched_in
+    10.09%         65757  [kernel]       [k] cyc2ns_read_begin
+     9.65%         62882  [kernel]       [k] merge_sched_in
+     8.83%         57537  [kernel]       [k] radix_tree_node_alloc.constprop.0
+     7.73%         50344  [kernel]       [k] futex_wait_setup
+     6.76%         44051  [kernel]       [k] perf_event_update_userpage
+     6.76%         44051  [kernel]       [k] slab_free_freelist_hook.constprop
+     0.82%          5343  [kernel]       [k] __update_load_avg_se
+     0.82%          5343  [kernel]       [k] account_event
+     0.82%          5343  [kernel]       [k] iterate_groups
+     0.82%          5343  [kernel]       [k] kfree
+     0.82%          5343  [kernel]       [k] kmem_cache_alloc_node_trace
+     0.82%          5343  [kernel]       [k] memcg_slab_free_hook
+     0.80%          5198  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       1 irqs/sec  kernel:100.0%  exact:  0.0% lost: 0/0 drop: 0/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    27.72%        218716  [kernel]       [k] __srcu_read_lock
+    24.26%        191376  [kernel]       [k] __perf_event_task_sched_in
+     7.89%         62214  [kernel]       [k] event_sched_in
+     7.29%         57537  [kernel]       [k] cyc2ns_read_begin
+     6.97%         55021  [kernel]       [k] merge_sched_in
+     6.38%         50344  [kernel]       [k] radix_tree_node_alloc.constprop.0
+     5.58%         44051  [kernel]       [k] futex_wait_setup
+     4.89%         38544  [kernel]       [k] perf_event_update_userpage
+     4.89%         38544  [kernel]       [k] slab_free_freelist_hook.constprop
+     0.59%          4675  [kernel]       [k] __update_load_avg_se
+     0.59%          4675  [kernel]       [k] account_event
+     0.59%          4675  [kernel]       [k] iterate_groups
+     0.59%          4675  [kernel]       [k] kfree
+     0.59%          4675  [kernel]       [k] kmem_cache_alloc_node_trace
+     0.59%          4675  [kernel]       [k] memcg_slab_free_hook
+     0.58%          4548  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    27.72%        191376  [kernel]       [k] __srcu_read_lock
+    24.26%        167454  [kernel]       [k] __perf_event_task_sched_in
+     7.89%         54437  [kernel]       [k] event_sched_in
+     7.29%         50344  [kernel]       [k] cyc2ns_read_begin
+     6.97%         48143  [kernel]       [k] merge_sched_in
+     6.38%         44051  [kernel]       [k] radix_tree_node_alloc.constprop.0
+     5.58%         38544  [kernel]       [k] futex_wait_setup
+     4.89%         33726  [kernel]       [k] perf_event_update_userpage
+     4.89%         33726  [kernel]       [k] slab_free_freelist_hook.constprop
+     0.59%          4090  [kernel]       [k] __update_load_avg_se
+     0.59%          4090  [kernel]       [k] account_event
+     0.59%          4090  [kernel]       [k] iterate_groups
+     0.59%          4090  [kernel]       [k] kfree
+     0.59%          4090  [kernel]       [k] kmem_cache_alloc_node_trace
+     0.59%          4090  [kernel]       [k] memcg_slab_free_hook
+     0.58%          3979  [kernel]       [k] native_sched_clock
+[H[2J
+   PerfTop:       0 irqs/sec  kernel: 0.0%  exact:  0.0% lost: 0/0 drop: 0/63 [4000Hz instructions],  (target_pid: 1505827)
+-------------------------------------------------------------------------------
+
+    27.72%        167454  [kernel]       [k] __srcu_read_lock
+    24.26%        146522  [kernel]       [k] __perf_event_task_sched_in
+     7.89%         47632  [kernel]       [k] event_sched_in
+     7.29%         44051  [kernel]       [k] cyc2ns_read_begin
+     6.97%         42125  [kernel]       [k] merge_sched_in
+     6.38%         38544  [kernel]       [k] radix_tree_node_alloc.constprop.0
+     5.58%         33726  [kernel]       [k] futex_wait_setup
+     4.89%         29510  [kernel]       [k] perf_event_update_userpage
+     4.89%         29510  [kernel]       [k] slab_free_freelist_hook.constprop
+     0.59%          3578  [kernel]       [k] __update_load_avg_se
+     0.59%          3578  [kernel]       [k] account_event
+     0.59%          3578  [kernel]       [k] iterate_groups
+     0.59%          3578  [kernel]       [k] kfree
+     0.59%          3578  [kernel]       [k] kmem_cache_alloc_node_trace
+     0.59%          3578  [kernel]       [k] memcg_slab_free_hook
+     0.58%          3481  [kernel]       [k] native_sched_clock
