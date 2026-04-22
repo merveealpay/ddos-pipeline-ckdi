@@ -24,7 +24,7 @@ L_BASE = 1.0
 MTTR_BASE = 1.0
 DELTA = 1.0   # latency slope
 ALPHA = 2.0   # availability decay
-BETA  = 1.0   # mttr slope
+BETA  = 3.0   # RIF exponential-saturation rate (paper eq. 502)
 
 LAMBDA_OPT = 1.0  # optimization objective correlation weight
 
@@ -168,14 +168,14 @@ def main():
     CKDI = (ckdi_abs - ckdi_abs.min()) / (ckdi_abs.max() - ckdi_abs.min() + 1e-9)
     X_drift["CKDI"] = CKDI
 
-    # 5) Analytical service mapping
-    Latency = L_BASE * (1 + DELTA * CKDI)
-    Availability = np.exp(-ALPHA * CKDI)
-    MTTR = MTTR_BASE + BETA * CKDI
+    # 5) Analytical service mapping (paper §IV, eqs. 478, 479, 502)
+    Latency = L_BASE * (1 + DELTA * CKDI)              # paper eq. 478
+    Availability = np.exp(-ALPHA * CKDI)               # paper eq. 479
+    RIF = 1.0 - np.exp(-BETA * CKDI**2)                # paper eq. 502 (saturating)
+    MTTR = MTTR_BASE * (1.0 + RIF)                     # derived for diagnostic plots only
 
     SDI = (Latency - L_BASE) / L_BASE
     ALR = 1 - Availability
-    RIF = (MTTR - MTTR_BASE) / MTTR_BASE
 
     # 6) Optimize BDRI weights with SLSQP
     def bdri_from_w(w):
