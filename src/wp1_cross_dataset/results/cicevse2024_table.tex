@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\caption{Cross-dataset generalisation: CKDI applied to CICEVSE2024 (real Raspberry Pi EVSE testbed, network-layer DDoS + reconnaissance + cryptojacking attacks). Comparison to CICEV2023 (simulator-based, false-authentication DDoS) shows that the methodology transfers.}
+\label{tab:crossdataset}
+\begin{tabular}{lcc}
+\toprule
+Metric & CICEV2023 (paper) & CICEVSE2024 (this work) \\
+\midrule
+Testbed & ISO 15118 simulator & Real Raspberry Pi EVSE \\
+Attack family & False-authentication & Network DDoS, recon, mining \\
+Samples & 116 & 6,166 \\
+Features & 27 & 161 \\
+PC1 variance share & 22.7\% & 62.6\% \\
+\midrule
+CKDI benign (mean $\pm$ std) & 0.261 $\pm$ 0.191 & 0.170 $\pm$ 0.002 \\
+CKDI attack (mean $\pm$ std) & 0.484 $\pm$ 0.200 & 0.320 $\pm$ 0.205 \\
+Cohen's $d$ & 1.14 & 0.92 \\
+Mann--Whitney $p$ & $<10^{-8}$ & $<10^{-8}$ \\
+\midrule
+F1 (oracle threshold) & 0.814 & 0.848 \\
+AUC & 0.776 & 0.770 \\
+Accuracy & 0.800 & 0.834 \\
+\bottomrule
+\end{tabular}
+\end{table}

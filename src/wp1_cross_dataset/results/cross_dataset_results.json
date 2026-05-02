@@ -1,0 +1,69 @@
+{
+  "metrics": {
+    "n_total": 6166,
+    "n_benign": 2302,
+    "n_attack": 3864,
+    "ckdi_benign_mean": 0.17031158215370995,
+    "ckdi_benign_std": 0.0018820376976197936,
+    "ckdi_attack_mean": 0.3196883016554581,
+    "ckdi_attack_std": 0.20480357821674533,
+    "mannwhitney_u": 6852545.0,
+    "mannwhitney_p": 1.8780193747486537e-277,
+    "cohen_d": 0.9213049743178632,
+    "f1_optimal_tau": 0.1725220325624726,
+    "precision": 0.99511684687827,
+    "recall": 0.7383540372670807,
+    "f1": 0.8477195067597683,
+    "auc": 0.7703879109532983,
+    "accuracy": 0.8337658125202725,
+    "pc1_variance_share": 0.6258362365481536,
+    "n_features_used": 161,
+    "n_features_total": 905
+  },
+  "per_scenario": [
+    {
+      "scenario": "Cryptojacking",
+      "n": 1793,
+      "ckdi_mean": 0.45781510762257543,
+      "ckdi_std": 0.22626051751691356
+    },
+    {
+      "scenario": "DoS",
+      "n": 865,
+      "ckdi_mean": 0.24721739421559763,
+      "ckdi_std": 0.04493635608641361
+    },
+    {
+      "scenario": "Recon",
+      "n": 1206,
+      "ckdi_mean": 0.16631016884985098,
+      "ckdi_std": 0.03438843268777499
+    }
+  ],
+  "comparison_to_cicev2023": {
+    "ckdi_benign_mean": {
+      "cicev2023": 0.261,
+      "cicevse2024": 0.17031158215370995
+    },
+    "ckdi_attack_mean": {
+      "cicev2023": 0.484,
+      "cicevse2024": 0.3196883016554581
+    },
+    "cohen_d": {
+      "cicev2023": 1.14,
+      "cicevse2024": 0.9213049743178632
+    },
+    "f1": {
+      "cicev2023": 0.814,
+      "cicevse2024": 0.8477195067597683
+    },
+    "auc": {
+      "cicev2023": 0.776,
+      "cicevse2024": 0.7703879109532983
+    },
+    "accuracy": {
+      "cicev2023": 0.8,
+      "cicevse2024": 0.8337658125202725
+    }
+  }
+}
