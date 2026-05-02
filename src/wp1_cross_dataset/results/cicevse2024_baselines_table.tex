@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\caption{Cross-dataset baseline comparison on CICEVSE2024 ($n = 6{,}166$). Same protocol as Table~\ref{tab:baselines}: 25\% stratified holdout, 5 seeds, F1-optimal oracle threshold per method. CKDI's discriminative advantage transfers from CICEV2023 to the larger and structurally different CICEVSE2024 testbed.}
+\label{tab:crossdataset_baselines}
+\begin{tabular}{lccccc}
+\toprule
+Method & Precision & Recall & F1 & AUC & Accuracy \\
+\midrule
+IsolationForest & 0.898 $\pm$ 0.014 & 0.967 $\pm$ 0.016 & 0.931 $\pm$ 0.001 & 0.935 $\pm$ 0.007 & 0.910 $\pm$ 0.002 \\
+OneClassSVM & 0.994 $\pm$ 0.002 & 0.992 $\pm$ 0.003 & 0.993 $\pm$ 0.001 & 0.997 $\pm$ 0.001 & 0.991 $\pm$ 0.001 \\
+LocalOutlierFactor & 0.626 $\pm$ 0.000 & 1.000 $\pm$ 0.000 & 0.770 $\pm$ 0.000 & 0.394 $\pm$ 0.007 & 0.626 $\pm$ 0.000 \\
+ZscoreMax & 0.986 $\pm$ 0.003 & 0.992 $\pm$ 0.003 & 0.989 $\pm$ 0.001 & 0.997 $\pm$ 0.002 & 0.986 $\pm$ 0.001 \\
+\textbf{CKDI (ours)} & 0.994 $\pm$ 0.003 & 0.728 $\pm$ 0.017 & 0.840 $\pm$ 0.012 & 0.758 $\pm$ 0.016 & 0.826 $\pm$ 0.011 \\
+\bottomrule
+\end{tabular}
+\end{table}

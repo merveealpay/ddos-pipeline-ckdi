@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering
+\caption{Top 10 HPC/kernel features by mean $|$SHAP$|$ on CICEVSE2024 (XGBoost classifier, $n=6{,}166$). Cache, branch-prediction, and scheduler events dominate, consistent with attack workloads that stress the front-end fetch and context-switch paths.}
+\label{tab:shap}
+\begin{tabular}{rlc}
+\toprule
+Rank & Feature & Mean $|$SHAP$|$ \\
+\midrule
+1 & \texttt{dp\_spec} & 0.0246 \\
+2 & \texttt{inst\_retired} & 0.0228 \\
+3 & \texttt{instructions} & 0.0225 \\
+4 & \texttt{syscalls\_sys\_enter\_read} & 0.0223 \\
+5 & \texttt{sched\_sched\_stat\_runtime} & 0.0217 \\
+6 & \texttt{syscalls\_sys\_exit\_read} & 0.0217 \\
+7 & \texttt{bus\_access\_wr} & 0.0210 \\
+8 & \texttt{cpu-cycles} & 0.0160 \\
+9 & \texttt{node-stores} & 0.0145 \\
+10 & \texttt{bus\_cycles} & 0.0132 \\
+\bottomrule
+\end{tabular}
+\end{table}
